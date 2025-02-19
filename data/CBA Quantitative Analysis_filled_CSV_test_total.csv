@@ -1,0 +1,2900 @@
+Capability,Scenario,Grade,Impact,Likelihood,Score
+MDO Mission Threads C-C5ISRT,Scenario X,2,2,1,6
+MDO Mission Threads C-C5ISRT,Scenario X,0,2,1,0
+MDO Mission Threads C-C5ISRT,Scenario X,3,2,2,12
+MDO Mission Threads C-C5ISRT,Scenario X,3,1,1,6
+MDO Mission Threads C-C5ISRT,Scenario X,2,3,4,14
+MDO Mission Threads C-C5ISRT,Scenario X,2,2,2,8
+MDO Mission Threads C-C5ISRT,Scenario X,3,4,4,24
+MDO Mission Threads C-C5ISRT,Scenario X,3,3,2,15
+MDO Mission Threads C-C5ISRT,Scenario X,3,3,4,21
+MDO Mission Threads C-C5ISRT,Scenario X,2,2,1,6
+MDO Mission Threads C-C5ISRT,Scenario X,3,4,4,24
+MDO Mission Threads C-C5ISRT,Scenario X,2,2,3,10
+MDO Mission Threads C-C5ISRT,Scenario X,2,2,2,8
+MDO Mission Threads C-C5ISRT,Scenario X,3,3,4,21
+MDO Mission Threads C-C5ISRT,Scenario X,3,3,3,18
+MDO Mission Threads C-C5ISRT,Scenario X,2,2,4,12
+MDO Mission Threads C-C5ISRT,Scenario X,3,3,4,21
+MDO Mission Threads C-C5ISRT,Scenario X,2,3,3,12
+MDO Mission Threads C-C5ISRT,Scenario X,2,2,3,10
+MDO Mission Threads C-C5ISRT,Scenario X,2,2,1,6
+MDO Mission Threads C-C5ISRT,Scenario X,1,2,3,5
+MDO Mission Threads C-C5ISRT,Scenario X,1,2,3,5
+MDO Mission Threads C-C5ISRT,Scenario X,1,2,3,5
+MDO Mission Threads C-C5ISRT,Scenario X,3,2,4,18
+MDO Mission Threads C-C5ISRT,Scenario X,3,3,2,15
+Precision Messaging,Scenario X,2,1,1,4
+Precision Messaging,Scenario X,2,3,4,14
+Precision Messaging,Scenario X,2,2,2,8
+Precision Messaging,Scenario X,3,4,4,24
+Precision Messaging,Scenario X,2,4,4,16
+Precision Messaging,Scenario X,2,3,4,14
+Precision Messaging,Scenario X,1,1,2,3
+Precision Messaging,Scenario X,2,2,3,10
+Precision Messaging,Scenario X,3,4,4,24
+Precision Messaging,Scenario X,2,2,4,12
+Precision Messaging,Scenario X,3,3,4,21
+Precision Messaging,Scenario X,2,2,4,12
+Precision Messaging,Scenario X,2,2,1,6
+Precision Messaging,Scenario X,1,2,3,5
+Precision Messaging,Scenario X,3,3,0,9
+Precision Messaging,Scenario X,2,2,4,12
+Precision Messaging,Scenario X,2,3,4,14
+Precision Messaging,Scenario X,2,2,3,10
+Precision Messaging,Scenario X,2,2,3,10
+Precision Messaging,Scenario X,2,2,1,6
+Precision Messaging,Scenario X,2,0,1,2
+Precision Messaging,Scenario X,1,2,3,5
+Precision Messaging,Scenario X,1,2,3,5
+Precision Messaging,Scenario X,3,4,4,24
+Precision Messaging,Scenario X,2,3,4,14
+Enhance Resilience,Scenario 1,2,3,2,10
+Enhance Resilience,Scenario 1,1,4,4,8
+Enhance Resilience,Scenario 1,2,2,3,10
+Enhance Resilience,Scenario 1,2,2,3,10
+Enhance Resilience,Scenario 1,2,2,4,12
+Enhance Resilience,Scenario 1,2,2,4,12
+Enhance Resilience,Scenario 1,1,3,4,7
+Enhance Resilience,Scenario 1,2,2,2,8
+Enhance Resilience,Scenario 1,2,3,4,14
+Enhance Resilience,Scenario 1,2,3,4,14
+Enhance Resilience,Scenario 1,2,2,3,10
+Enhance Resilience,Scenario 1,1,2,4,6
+Enhance Resilience,Scenario 1,3,4,4,24
+Enhance Resilience,Scenario 1,1,2,4,6
+Enhance Resilience,Scenario 1,2,2,4,12
+Enhance Resilience,Scenario 1,1,2,2,4
+Enhance Resilience,Scenario 1,2,1,2,6
+Enhance Resilience,Scenario 1,2,3,4,14
+Enhance Resilience,Scenario 1,2,2,1,6
+Enhance Resilience,Scenario 1,2,3,4,14
+Enhance Resilience,Scenario 1,2,2,3,10
+Enhance Resilience,Scenario 1,2,2,3,10
+Enhance Resilience,Scenario 1,2,2,3,10
+Enhance Resilience,Scenario 1,2,2,4,12
+Enhance Resilience,Scenario 1,2,4,4,16
+Enhance Resilience,Scenario 1,1,1,2,3
+Enhance Resilience,Scenario 1,1,2,1,3
+Enhance Resilience,Scenario 1,2,2,3,10
+Enhance Resilience,Scenario 1,1,4,4,8
+Develop Resistance Forces,Scenario 1,2,2,2,8
+Develop Resistance Forces,Scenario 1,1,2,3,5
+Develop Resistance Forces,Scenario 1,1,3,3,6
+Develop Resistance Forces,Scenario 1,3,3,4,21
+Develop Resistance Forces,Scenario 1,1,3,4,7
+Develop Resistance Forces,Scenario 1,2,3,4,14
+Develop Resistance Forces,Scenario 1,1,3,4,7
+Develop Resistance Forces,Scenario 1,2,2,2,8
+Develop Resistance Forces,Scenario 1,1,3,2,5
+Develop Resistance Forces,Scenario 1,2,3,2,10
+Develop Resistance Forces,Scenario 1,2,2,2,8
+Develop Resistance Forces,Scenario 1,-1,1,0,-1
+Develop Resistance Forces,Scenario 1,0,1,0,0
+Develop Resistance Forces,Scenario 1,2,2,2,8
+Develop Resistance Forces,Scenario 1,2,3,4,14
+Develop Resistance Forces,Scenario 1,2,3,4,14
+Develop Resistance Forces,Scenario 1,2,1,2,6
+Develop Resistance Forces,Scenario 1,2,4,4,16
+Develop Resistance Forces,Scenario 1,2,3,2,10
+Develop Resistance Forces,Scenario 1,3,2,1,9
+Develop Resistance Forces,Scenario 1,1,3,2,5
+Develop Resistance Forces,Scenario 1,2,2,2,8
+Develop Resistance Forces,Scenario 1,2,2,2,8
+Develop Resistance Forces,Scenario 1,2,2,1,6
+Develop Resistance Forces,Scenario 1,2,3,3,12
+Develop Resistance Forces,Scenario 1,1,1,2,3
+Develop Resistance Forces,Scenario 1,2,3,2,10
+Develop Resistance Forces,Scenario 1,2,2,4,12
+Develop Resistance Forces,Scenario 1,3,3,2,15
+Develop Resistance Forces,Scenario 1,1,2,3,5
+Consolidate Gains,Scenario 1,2,2,2,8
+Consolidate Gains,Scenario 1,1,1,2,3
+Consolidate Gains,Scenario 1,2,4,4,16
+Consolidate Gains,Scenario 1,3,4,4,24
+Consolidate Gains,Scenario 1,2,2,2,8
+Consolidate Gains,Scenario 1,2,2,2,8
+Consolidate Gains,Scenario 1,2,2,2,8
+Consolidate Gains,Scenario 1,2,3,4,14
+Consolidate Gains,Scenario 1,2,3,4,14
+Consolidate Gains,Scenario 1,2,3,3,12
+Consolidate Gains,Scenario 1,3,4,4,24
+Consolidate Gains,Scenario 1,2,3,0,6
+Consolidate Gains,Scenario 1,1,2,4,6
+Consolidate Gains,Scenario 1,2,1,1,4
+Consolidate Gains,Scenario 1,2,2,4,12
+Consolidate Gains,Scenario 1,2,3,3,12
+Consolidate Gains,Scenario 1,1,2,2,4
+Consolidate Gains,Scenario 1,2,4,4,16
+Consolidate Gains,Scenario 1,2,4,4,16
+Consolidate Gains,Scenario 1,2,4,4,16
+Consolidate Gains,Scenario 1,1,1,1,2
+Consolidate Gains,Scenario 1,2,3,4,14
+Consolidate Gains,Scenario 1,2,3,4,14
+Consolidate Gains,Scenario 1,2,2,2,8
+Civil Network Development and Engagement,Scenario 1,2,2,3,10
+Civil Network Development and Engagement,Scenario 1,1,3,4,7
+Civil Network Development and Engagement,Scenario 1,2,3,3,12
+Civil Network Development and Engagement,Scenario 1,1,2,3,5
+Civil Network Development and Engagement,Scenario 1,2,2,2,8
+Civil Network Development and Engagement,Scenario 1,1,2,4,6
+Civil Network Development and Engagement,Scenario 1,2,2,4,12
+Civil Network Development and Engagement,Scenario 1,2,2,2,8
+Civil Network Development and Engagement,Scenario 1,3,3,3,18
+Civil Network Development and Engagement,Scenario 1,2,2,4,12
+Civil Network Development and Engagement,Scenario 1,2,2,4,12
+Civil Network Development and Engagement,Scenario 1,2,3,3,12
+Civil Network Development and Engagement,Scenario 1,1,2,2,4
+Civil Network Development and Engagement,Scenario 1,2,2,3,10
+Civil Network Development and Engagement,Scenario 1,2,2,4,12
+Civil Network Development and Engagement,Scenario 1,1,2,4,6
+Civil Network Development and Engagement,Scenario 1,3,2,3,15
+Civil Network Development and Engagement,Scenario 1,2,2,2,8
+Civil Network Development and Engagement,Scenario 1,-1,1,1,-2
+Civil Network Development and Engagement,Scenario 1,1,3,4,7
+Civil Network Development and Engagement,Scenario 1,2,2,4,12
+Civil Network Development and Engagement,Scenario 1,3,2,3,15
+Civil Network Development and Engagement,Scenario 1,2,3,2,10
+Civil Network Development and Engagement,Scenario 1,3,2,2,12
+Civil Network Development and Engagement,Scenario 1,3,2,2,12
+Civil Network Development and Engagement,Scenario 1,3,2,2,12
+Civil Network Development and Engagement,Scenario 1,-1,3,3,-6
+Civil Network Development and Engagement,Scenario 1,1,2,2,4
+Civil Network Development and Engagement,Scenario 1,2,2,4,12
+Civil Network Development and Engagement,Scenario 1,-1,1,1,-2
+Multidomain Special Reconnaissance,Scenario 1,2,1,2,6
+Multidomain Special Reconnaissance,Scenario 1,2,3,4,14
+Multidomain Special Reconnaissance,Scenario 1,2,4,4,16
+Multidomain Special Reconnaissance,Scenario 1,2,3,2,10
+Multidomain Special Reconnaissance,Scenario 1,3,4,4,24
+Multidomain Special Reconnaissance,Scenario 1,3,4,4,24
+Multidomain Special Reconnaissance,Scenario 1,3,4,4,24
+Multidomain Special Reconnaissance,Scenario 1,2,4,4,16
+Multidomain Special Reconnaissance,Scenario 1,2,1,2,6
+Multidomain Special Reconnaissance,Scenario 1,1,1,4,5
+Multidomain Special Reconnaissance,Scenario 1,1,2,4,6
+Multidomain Special Reconnaissance,Scenario 1,2,3,3,12
+Multidomain Special Reconnaissance,Scenario 1,1,1,1,2
+Multidomain Special Reconnaissance,Scenario 1,2,2,2,8
+Multidomain Special Reconnaissance,Scenario 1,2,2,2,8
+Multidomain Special Reconnaissance,Scenario 1,2,2,2,8
+Multidomain Special Reconnaissance,Scenario 1,2,3,2,10
+Multidomain Special Reconnaissance,Scenario 1,2,3,2,10
+Multidomain Special Reconnaissance,Scenario 1,2,3,4,14
+Multidomain Special Reconnaissance,Scenario 1,2,4,4,16
+Multidomain Special Reconnaissance,Scenario 1,2,3,3,12
+Multidomain Special Reconnaissance,Scenario 1,3,2,2,12
+Multidomain Special Reconnaissance,Scenario 1,2,3,3,12
+Multidomain Special Reconnaissance,Scenario 1,3,2,1,9
+Multidomain Special Reconnaissance,Scenario 1,2,3,4,14
+Multidomain Special Reconnaissance,Scenario 1,1,2,3,5
+Multidomain Special Reconnaissance,Scenario 1,2,3,4,14
+Multidomain Special Reconnaissance,Scenario 1,3,3,2,15
+Illuminate Corp/Op/Strat Deep,Scenario 1,2,1,2,6
+Illuminate Corp/Op/Strat Deep,Scenario 1,3,4,2,18
+Illuminate Corp/Op/Strat Deep,Scenario 1,2,4,4,16
+Illuminate Corp/Op/Strat Deep,Scenario 1,2,4,2,12
+Illuminate Corp/Op/Strat Deep,Scenario 1,2,4,4,16
+Illuminate Corp/Op/Strat Deep,Scenario 1,2,4,4,16
+Illuminate Corp/Op/Strat Deep,Scenario 1,2,4,4,16
+Illuminate Corp/Op/Strat Deep,Scenario 1,1,4,4,8
+Illuminate Corp/Op/Strat Deep,Scenario 1,2,2,2,8
+Illuminate Corp/Op/Strat Deep,Scenario 1,2,4,2,12
+Illuminate Corp/Op/Strat Deep,Scenario 1,3,3,2,15
+Illuminate Corp/Op/Strat Deep,Scenario 1,2,2,2,8
+Illuminate Corp/Op/Strat Deep,Scenario 1,2,2,2,8
+Illuminate Corp/Op/Strat Deep,Scenario 1,2,3,4,14
+Illuminate Corp/Op/Strat Deep,Scenario 1,3,3,2,15
+Illuminate Corp/Op/Strat Deep,Scenario 1,3,3,3,18
+Illuminate Corp/Op/Strat Deep,Scenario 1,2,2,2,8
+Illuminate Corp/Op/Strat Deep,Scenario 1,2,2,2,8
+Illuminate Corp/Op/Strat Deep,Scenario 1,3,2,2,12
+Illuminate Corp/Op/Strat Deep,Scenario 1,1,4,4,8
+Illuminate Corp/Op/Strat Deep,Scenario 1,2,3,4,14
+Illuminate Corp/Op/Strat Deep,Scenario 1,1,2,1,3
+Illuminate Corp/Op/Strat Deep,Scenario 1,2,3,2,10
+Illuminate Corp/Op/Strat Deep,Scenario 1,2,3,3,12
+Illuminate Corp/Op/Strat Deep,Scenario 1,3,3,3,18
+Illuminate Corp/Op/Strat Deep,Scenario 1,3,2,2,12
+Illuminate Corp/Op/Strat Deep,Scenario 1,1,2,1,3
+Illuminate Corp/Op/Strat Deep,Scenario 1,2,4,3,14
+Remote Advise Assist Operations,Scenario 1,1,2,1,3
+Remote Advise Assist Operations,Scenario 1,2,3,1,8
+Remote Advise Assist Operations,Scenario 1,2,3,3,12
+Remote Advise Assist Operations,Scenario 1,2,4,4,16
+Remote Advise Assist Operations,Scenario 1,1,3,4,7
+Remote Advise Assist Operations,Scenario 1,1,3,4,7
+Remote Advise Assist Operations,Scenario 1,1,3,4,7
+Remote Advise Assist Operations,Scenario 1,3,2,2,12
+Remote Advise Assist Operations,Scenario 1,3,4,4,24
+Remote Advise Assist Operations,Scenario 1,1,4,4,8
+Remote Advise Assist Operations,Scenario 1,2,2,2,8
+Remote Advise Assist Operations,Scenario 1,1,2,2,4
+Remote Advise Assist Operations,Scenario 1,1,1,1,2
+Remote Advise Assist Operations,Scenario 1,1,2,3,5
+Remote Advise Assist Operations,Scenario 1,3,2,2,12
+Remote Advise Assist Operations,Scenario 1,2,2,2,8
+Remote Advise Assist Operations,Scenario 1,2,2,1,6
+Remote Advise Assist Operations,Scenario 1,1,3,2,5
+Remote Advise Assist Operations,Scenario 1,1,2,2,4
+Remote Advise Assist Operations,Scenario 1,2,3,4,14
+Remote Advise Assist Operations,Scenario 1,1,2,3,5
+Remote Advise Assist Operations,Scenario 1,1,1,2,3
+Remote Advise Assist Operations,Scenario 1,3,3,2,15
+Remote Advise Assist Operations,Scenario 1,2,2,4,12
+Remote Advise Assist Operations,Scenario 1,3,3,4,21
+Remote Advise Assist Operations,Scenario 1,3,3,2,15
+Remote Advise Assist Operations,Scenario 1,2,3,2,10
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 1,3,3,2,15
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 1,3,4,4,24
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 1,0,1,1,0
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 1,3,3,3,18
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 1,2,3,3,12
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 1,3,3,3,18
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 1,3,3,3,18
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 1,1,3,4,7
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 1,3,4,4,24
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 1,3,3,3,18
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 1,2,3,3,12
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 1,2,2,3,10
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 1,2,3,2,10
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 1,3,3,4,21
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 1,3,3,2,15
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 1,3,3,4,21
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 1,2,3,2,10
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 1,3,3,1,12
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 1,2,2,2,8
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 1,2,4,3,14
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 1,1,3,2,5
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 1,1,1,3,4
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 1,3,3,3,18
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 1,2,3,3,12
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 1,3,4,4,24
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 1,2,1,4,10
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 1,1,2,1,3
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 1,2,3,3,12
+Strategic Sabatoge,Scenario 1,2,2,1,6
+Strategic Sabatoge,Scenario 1,2,4,2,12
+Strategic Sabatoge,Scenario 1,2,4,4,16
+Strategic Sabatoge,Scenario 1,2,3,2,10
+Strategic Sabatoge,Scenario 1,1,2,2,4
+Strategic Sabatoge,Scenario 1,1,1,2,3
+Strategic Sabatoge,Scenario 1,1,2,1,3
+Strategic Sabatoge,Scenario 1,2,2,1,6
+Strategic Sabatoge,Scenario 1,1,1,1,2
+Strategic Sabatoge,Scenario 1,3,2,2,12
+Strategic Sabatoge,Scenario 1,2,3,3,12
+Strategic Sabatoge,Scenario 1,3,4,1,15
+Strategic Sabatoge,Scenario 1,3,4,1,15
+Strategic Sabatoge,Scenario 1,2,2,1,6
+Strategic Sabatoge,Scenario 1,2,1,1,4
+Strategic Sabatoge,Scenario 1,2,4,1,10
+Strategic Sabatoge,Scenario 1,0,2,1,0
+Strategic Sabatoge,Scenario 1,2,2,1,6
+Strategic Sabatoge,Scenario 1,2,2,3,10
+Strategic Sabatoge,Scenario 1,2,2,3,10
+Strategic Sabatoge,Scenario 1,2,3,2,10
+Strategic Sabatoge,Scenario 1,2,4,2,12
+Strategic Sabatoge,Scenario 1,2,4,2,12
+Strategic Sabatoge,Scenario 1,2,3,2,10
+Disrupt EN Tactical Support Area,Scenario 1,2,4,4,16
+Disrupt EN Tactical Support Area,Scenario 1,2,2,4,12
+Disrupt EN Tactical Support Area,Scenario 1,2,2,2,8
+Disrupt EN Tactical Support Area,Scenario 1,0,0,0,0
+Disrupt EN Tactical Support Area,Scenario 1,2,1,1,4
+Disrupt EN Tactical Support Area,Scenario 1,2,3,4,14
+Disrupt EN Tactical Support Area,Scenario 1,2,2,2,8
+Disrupt EN Tactical Support Area,Scenario 1,2,3,3,12
+Disrupt EN Tactical Support Area,Scenario 1,2,3,1,8
+Disrupt EN Tactical Support Area,Scenario 1,2,3,1,8
+Disrupt EN Tactical Support Area,Scenario 1,1,2,1,3
+Disrupt EN Tactical Support Area,Scenario 1,3,2,1,9
+Disrupt EN Tactical Support Area,Scenario 1,3,1,1,6
+Disrupt EN Tactical Support Area,Scenario 1,1,3,2,5
+Disrupt EN Tactical Support Area,Scenario 1,2,2,4,12
+Disrupt EN Tactical Support Area,Scenario 1,1,3,3,6
+Disrupt EN Tactical Support Area,Scenario 1,1,3,3,6
+Disrupt EN Tactical Support Area,Scenario 1,2,4,2,12
+Disrupt EN Tactical Support Area,Scenario 1,2,4,2,12
+Disrupt EN Tactical Support Area,Scenario 1,2,3,2,10
+Expose Adversary Strategic Flanks,Scenario 1,2,4,4,16
+Expose Adversary Strategic Flanks,Scenario 1,2,3,2,10
+Expose Adversary Strategic Flanks,Scenario 1,1,2,3,5
+Expose Adversary Strategic Flanks,Scenario 1,1,2,2,4
+Expose Adversary Strategic Flanks,Scenario 1,2,2,3,10
+Expose Adversary Strategic Flanks,Scenario 1,2,3,4,14
+Expose Adversary Strategic Flanks,Scenario 1,1,1,4,5
+Expose Adversary Strategic Flanks,Scenario 1,2,2,2,8
+Expose Adversary Strategic Flanks,Scenario 1,3,2,2,12
+Expose Adversary Strategic Flanks,Scenario 1,2,2,3,10
+Expose Adversary Strategic Flanks,Scenario 1,2,3,1,8
+Expose Adversary Strategic Flanks,Scenario 1,2,3,1,8
+Expose Adversary Strategic Flanks,Scenario 1,1,2,4,6
+Expose Adversary Strategic Flanks,Scenario 1,2,1,2,6
+Expose Adversary Strategic Flanks,Scenario 1,2,4,4,16
+Expose Adversary Strategic Flanks,Scenario 1,2,2,3,10
+Expose Adversary Strategic Flanks,Scenario 1,2,1,2,6
+Expose Adversary Strategic Flanks,Scenario 1,2,2,2,8
+Expose Adversary Strategic Flanks,Scenario 1,2,2,2,8
+Expose Adversary Strategic Flanks,Scenario 1,2,3,3,12
+Expose Adversary Strategic Flanks,Scenario 1,2,3,3,12
+Expose Adversary Strategic Flanks,Scenario 1,1,3,4,7
+Expose Adversary Strategic Flanks,Scenario 1,2,3,4,14
+Unconventional Warfare (Support to Resistance),Scenario 1,2,4,4,16
+Unconventional Warfare (Support to Resistance),Scenario 1,3,2,1,9
+Unconventional Warfare (Support to Resistance),Scenario 1,1,3,2,5
+Unconventional Warfare (Support to Resistance),Scenario 1,1,3,2,5
+Unconventional Warfare (Support to Resistance),Scenario 1,1,3,2,5
+Unconventional Warfare (Support to Resistance),Scenario 1,1,2,2,4
+Unconventional Warfare (Support to Resistance),Scenario 1,2,4,4,16
+Unconventional Warfare (Support to Resistance),Scenario 1,2,2,2,8
+Unconventional Warfare (Support to Resistance),Scenario 1,2,2,3,10
+Unconventional Warfare (Support to Resistance),Scenario 1,1,2,1,3
+Unconventional Warfare (Support to Resistance),Scenario 1,2,4,1,10
+Unconventional Warfare (Support to Resistance),Scenario 1,2,2,1,6
+Unconventional Warfare (Support to Resistance),Scenario 1,2,2,2,8
+Unconventional Warfare (Support to Resistance),Scenario 1,1,2,1,3
+Unconventional Warfare (Support to Resistance),Scenario 1,1,3,2,5
+Unconventional Warfare (Support to Resistance),Scenario 1,2,4,2,12
+Unconventional Warfare (Support to Resistance),Scenario 1,1,3,4,7
+Unconventional Warfare (Support to Resistance),Scenario 1,1,3,4,7
+Unconventional Warfare (Support to Resistance),Scenario 1,2,3,2,10
+Unconventional Warfare (Support to Resistance),Scenario 1,2,4,2,12
+Unconventional Warfare (Support to Resistance),Scenario 1,2,3,2,10
+Unconventional Warfare (Support to Resistance),Scenario 1,2,3,2,10
+Precision Messaging,Scenario 1,3,1,1,6
+Precision Messaging,Scenario 1,3,4,4,24
+Precision Messaging,Scenario 1,2,3,3,12
+Precision Messaging,Scenario 1,2,4,4,16
+Precision Messaging,Scenario 1,2,2,3,10
+Precision Messaging,Scenario 1,2,2,3,10
+Precision Messaging,Scenario 1,2,2,3,10
+Precision Messaging,Scenario 1,2,2,2,8
+Precision Messaging,Scenario 1,2,2,2,8
+Precision Messaging,Scenario 1,2,2,2,8
+Precision Messaging,Scenario 1,3,4,3,21
+Precision Messaging,Scenario 1,2,2,2,8
+Precision Messaging,Scenario 1,2,3,4,14
+Precision Messaging,Scenario 1,3,2,2,12
+Precision Messaging,Scenario 1,2,1,1,4
+Precision Messaging,Scenario 1,2,3,4,14
+Precision Messaging,Scenario 1,1,2,4,6
+Precision Messaging,Scenario 1,3,4,4,24
+Precision Messaging,Scenario 1,1,1,4,5
+Precision Messaging,Scenario 1,3,4,4,24
+Precision Messaging,Scenario 1,2,2,1,6
+Precision Messaging,Scenario 1,1,2,4,6
+Precision Messaging,Scenario 1,2,2,3,10
+Precision Messaging,Scenario 1,2,2,3,10
+Precision Messaging,Scenario 1,1,1,1,2
+Precision Messaging,Scenario 1,3,2,2,12
+Precision Messaging,Scenario 1,3,4,2,18
+Precision Messaging,Scenario 1,3,4,4,24
+Effect Threat Information Warfare Capabilities,Scenario 1,3,1,2,9
+Effect Threat Information Warfare Capabilities,Scenario 1,3,4,4,24
+Effect Threat Information Warfare Capabilities,Scenario 1,1,2,3,5
+Effect Threat Information Warfare Capabilities,Scenario 1,2,4,4,16
+Effect Threat Information Warfare Capabilities,Scenario 1,2,3,4,14
+Effect Threat Information Warfare Capabilities,Scenario 1,2,3,4,14
+Effect Threat Information Warfare Capabilities,Scenario 1,2,3,4,14
+Effect Threat Information Warfare Capabilities,Scenario 1,2,2,2,8
+Effect Threat Information Warfare Capabilities,Scenario 1,2,2,2,8
+Effect Threat Information Warfare Capabilities,Scenario 1,3,2,2,12
+Effect Threat Information Warfare Capabilities,Scenario 1,3,4,3,21
+Effect Threat Information Warfare Capabilities,Scenario 1,2,2,3,10
+Effect Threat Information Warfare Capabilities,Scenario 1,2,4,3,14
+Effect Threat Information Warfare Capabilities,Scenario 1,3,3,2,15
+Effect Threat Information Warfare Capabilities,Scenario 1,2,2,4,12
+Effect Threat Information Warfare Capabilities,Scenario 1,2,3,4,14
+Effect Threat Information Warfare Capabilities,Scenario 1,0,2,3,0
+Effect Threat Information Warfare Capabilities,Scenario 1,2,1,3,8
+Effect Threat Information Warfare Capabilities,Scenario 1,1,3,4,7
+Effect Threat Information Warfare Capabilities,Scenario 1,3,4,4,24
+Effect Threat Information Warfare Capabilities,Scenario 1,2,2,3,10
+Effect Threat Information Warfare Capabilities,Scenario 1,1,2,2,4
+Effect Threat Information Warfare Capabilities,Scenario 1,2,3,2,10
+Effect Threat Information Warfare Capabilities,Scenario 1,3,3,3,18
+Effect Threat Information Warfare Capabilities,Scenario 1,2,1,2,6
+Effect Threat Information Warfare Capabilities,Scenario 1,2,2,1,6
+Effect Threat Information Warfare Capabilities,Scenario 1,3,3,2,15
+Effect Threat Information Warfare Capabilities,Scenario 1,3,4,4,24
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 1,3,1,1,6
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 1,2,3,3,12
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 1,1,3,2,5
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 1,2,3,2,10
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 1,1,2,3,5
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 1,1,2,2,4
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 1,1,2,2,4
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 1,1,2,2,4
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 1,2,1,2,6
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 1,2,2,2,8
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 1,2,3,3,12
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 1,2,1,2,6
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 1,2,2,3,10
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 1,2,2,2,8
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 1,1,2,1,3
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 1,2,3,3,12
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 1,1,1,2,3
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 1,2,1,3,8
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 1,2,1,1,4
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 1,1,2,2,4
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 1,2,3,4,14
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 1,1,1,2,3
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 1,3,2,3,15
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 1,3,3,3,18
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 1,2,3,2,10
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 1,2,2,3,10
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 1,2,3,2,10
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 1,3,3,3,18
+TAC-D/DISO,Scenario 1,3,1,1,6
+TAC-D/DISO,Scenario 1,3,3,4,21
+TAC-D/DISO,Scenario 1,2,3,3,12
+TAC-D/DISO,Scenario 1,2,3,2,10
+TAC-D/DISO,Scenario 1,2,1,1,4
+TAC-D/DISO,Scenario 1,2,1,1,4
+TAC-D/DISO,Scenario 1,2,1,1,4
+TAC-D/DISO,Scenario 1,2,2,1,6
+TAC-D/DISO,Scenario 1,2,3,2,10
+TAC-D/DISO,Scenario 1,2,2,2,8
+TAC-D/DISO,Scenario 1,2,2,1,6
+TAC-D/DISO,Scenario 1,2,2,1,6
+TAC-D/DISO,Scenario 1,3,3,2,15
+TAC-D/DISO,Scenario 1,2,1,2,6
+TAC-D/DISO,Scenario 1,2,2,3,10
+TAC-D/DISO,Scenario 1,2,3,4,14
+TAC-D/DISO,Scenario 1,0,2,1,0
+TAC-D/DISO,Scenario 1,3,4,4,24
+TAC-D/DISO,Scenario 1,1,4,2,6
+TAC-D/DISO,Scenario 1,3,2,2,12
+TAC-D/DISO,Scenario 1,3,3,3,18
+TAC-D/DISO,Scenario 1,3,2,2,12
+TAC-D/DISO,Scenario 1,2,1,2,6
+TAC-D/DISO,Scenario 1,3,3,2,15
+TAC-D/DISO,Scenario 1,3,3,4,21
+TAC-D/DISO,Scenario 1,3,3,4,21
+TAC-D/DISO,Scenario 1,2,2,2,8
+TAC-D/DISO,Scenario 1,2,4,2,12
+MILDEC,Scenario 1,3,1,1,6
+MILDEC,Scenario 1,2,2,2,8
+MILDEC,Scenario 1,2,3,3,12
+MILDEC,Scenario 1,2,4,2,12
+MILDEC,Scenario 1,2,1,1,4
+MILDEC,Scenario 1,2,4,2,12
+MILDEC,Scenario 1,2,4,2,12
+MILDEC,Scenario 1,2,3,2,10
+MILDEC,Scenario 1,3,3,1,12
+MILDEC,Scenario 1,2,3,4,14
+MILDEC,Scenario 1,2,2,2,8
+MILDEC,Scenario 1,-1,2,2,-4
+MILDEC,Scenario 1,3,2,2,12
+MILDEC,Scenario 1,3,4,4,24
+MILDEC,Scenario 1,2,1,1,4
+MILDEC,Scenario 1,2,3,4,14
+MILDEC,Scenario 1,0,2,2,0
+MILDEC,Scenario 1,3,4,4,24
+MILDEC,Scenario 1,1,4,2,6
+MILDEC,Scenario 1,3,2,3,15
+MILDEC,Scenario 1,2,2,1,6
+MILDEC,Scenario 1,3,4,4,24
+MILDEC,Scenario 1,2,2,4,12
+MILDEC,Scenario 1,2,3,1,8
+MILDEC,Scenario 1,3,4,2,18
+MILDEC,Scenario 1,3,4,4,24
+Sustainment/Medical in Deep/Periphery,Scenario 1,0,4,2,0
+Sustainment/Medical in Deep/Periphery,Scenario 1,1,4,4,8
+Sustainment/Medical in Deep/Periphery,Scenario 1,2,3,2,10
+Sustainment/Medical in Deep/Periphery,Scenario 1,1,3,3,6
+Sustainment/Medical in Deep/Periphery,Scenario 1,2,2,3,10
+Sustainment/Medical in Deep/Periphery,Scenario 1,2,2,2,8
+Sustainment/Medical in Deep/Periphery,Scenario 1,2,4,4,16
+Sustainment/Medical in Deep/Periphery,Scenario 1,2,3,4,14
+Sustainment/Medical in Deep/Periphery,Scenario 1,2,2,3,10
+Sustainment/Medical in Deep/Periphery,Scenario 1,2,4,4,16
+Sustainment/Medical in Deep/Periphery,Scenario 1,2,4,2,12
+Sustainment/Medical in Deep/Periphery,Scenario 1,1,4,4,8
+Sustainment/Medical in Deep/Periphery,Scenario 1,2,2,2,8
+Sustainment/Medical in Deep/Periphery,Scenario 1,2,2,4,12
+Sustainment/Medical in Deep/Periphery,Scenario 1,2,2,4,12
+Sustainment/Medical in Deep/Periphery,Scenario 1,2,2,4,12
+Sustainment/Medical in Deep/Periphery,Scenario 1,2,4,3,14
+Sustainment/Medical in Deep/Periphery,Scenario 1,1,2,2,4
+Sustainment/Medical in Deep/Periphery,Scenario 1,3,4,4,24
+Robotics (TTP/Means/Ways/Concepts),Scenario 1,3,4,4,24
+Robotics (TTP/Means/Ways/Concepts),Scenario 1,0,2,3,0
+Robotics (TTP/Means/Ways/Concepts),Scenario 1,2,4,4,16
+Robotics (TTP/Means/Ways/Concepts),Scenario 1,3,1,4,15
+Robotics (TTP/Means/Ways/Concepts),Scenario 1,3,4,2,18
+Robotics (TTP/Means/Ways/Concepts),Scenario 1,3,4,4,24
+Robotics (TTP/Means/Ways/Concepts),Scenario 1,3,3,2,15
+Robotics (TTP/Means/Ways/Concepts),Scenario 1,3,3,4,21
+Robotics (TTP/Means/Ways/Concepts),Scenario 1,3,3,4,21
+Robotics (TTP/Means/Ways/Concepts),Scenario 1,3,3,4,21
+Robotics (TTP/Means/Ways/Concepts),Scenario 1,2,3,4,14
+Robotics (TTP/Means/Ways/Concepts),Scenario 1,3,4,2,18
+Robotics (TTP/Means/Ways/Concepts),Scenario 1,3,4,4,24
+Robotics (TTP/Means/Ways/Concepts),Scenario 1,0,3,3,0
+Robotics (TTP/Means/Ways/Concepts),Scenario 1,3,2,2,12
+Robotics (TTP/Means/Ways/Concepts),Scenario 1,3,2,2,12
+Robotics (TTP/Means/Ways/Concepts),Scenario 1,3,2,2,12
+Robotics (TTP/Means/Ways/Concepts),Scenario 1,3,4,4,24
+Robotics (TTP/Means/Ways/Concepts),Scenario 1,2,2,1,6
+Robotics (TTP/Means/Ways/Concepts),Scenario 1,3,3,3,18
+Robotics (TTP/Means/Ways/Concepts),Scenario 1,3,3,3,18
+UAS (TTP/Means/Ways/Concepts),Scenario 1,0,0,0,0
+TRIAD (TTP/Means/Ways/Concepts),Scenario 1,3,4,4,24
+TRIAD (TTP/Means/Ways/Concepts),Scenario 1,3,4,4,24
+TRIAD (TTP/Means/Ways/Concepts),Scenario 1,3,3,4,21
+TRIAD (TTP/Means/Ways/Concepts),Scenario 1,2,2,2,8
+TRIAD (TTP/Means/Ways/Concepts),Scenario 1,3,4,4,24
+TRIAD (TTP/Means/Ways/Concepts),Scenario 1,3,3,4,21
+TRIAD (TTP/Means/Ways/Concepts),Scenario 1,3,3,4,21
+TRIAD (TTP/Means/Ways/Concepts),Scenario 1,2,3,4,14
+TRIAD (TTP/Means/Ways/Concepts),Scenario 1,2,3,4,14
+TRIAD (TTP/Means/Ways/Concepts),Scenario 1,3,3,4,21
+TRIAD (TTP/Means/Ways/Concepts),Scenario 1,3,3,4,21
+TRIAD (TTP/Means/Ways/Concepts),Scenario 1,3,4,4,24
+TRIAD (TTP/Means/Ways/Concepts),Scenario 1,0,3,3,0
+TRIAD (TTP/Means/Ways/Concepts),Scenario 1,3,4,1,15
+TRIAD (TTP/Means/Ways/Concepts),Scenario 1,3,4,4,24
+TRIAD (TTP/Means/Ways/Concepts),Scenario 1,3,4,4,24
+TRIAD (TTP/Means/Ways/Concepts),Scenario 1,3,4,4,24
+TRIAD (TTP/Means/Ways/Concepts),Scenario 1,3,3,4,21
+TRIAD (TTP/Means/Ways/Concepts),Scenario 1,3,4,4,24
+Forward Edge Short Range Strike,Scenario 1,1,3,3,6
+Forward Edge Short Range Strike,Scenario 1,3,4,1,15
+Forward Edge Short Range Strike,Scenario 1,3,3,2,15
+Forward Edge Short Range Strike,Scenario 1,2,4,4,16
+Forward Edge Short Range Strike,Scenario 1,2,4,4,16
+Forward Edge Short Range Strike,Scenario 1,2,1,2,6
+Forward Edge Short Range Strike,Scenario 1,0,1,1,0
+Forward Edge Short Range Strike,Scenario 1,2,2,4,12
+Forward Edge Short Range Strike,Scenario 1,2,2,2,8
+Forward Edge Short Range Strike,Scenario 1,3,2,1,9
+Forward Edge Short Range Strike,Scenario 1,1,3,3,6
+Forward Edge Short Range Strike,Scenario 1,1,2,3,5
+Forward Edge Short Range Strike,Scenario 1,3,3,1,12
+Forward Edge Short Range Strike,Scenario 1,3,3,1,12
+Forward Edge Short Range Strike,Scenario 1,1,3,3,6
+Forward Edge Short Range Strike,Scenario 1,-1,0,0,0
+Forward Edge Short Range Strike,Scenario 1,1,0,0,0
+Forward Edge Short Range Strike,Scenario 1,1,1,1,2
+Forward Edge Short Range Strike,Scenario 1,1,0,0,0
+Forward Edge Short Range Strike,Scenario 1,1,0,0,0
+Forward Edge Short Range Strike,Scenario 1,2,3,2,10
+Forward Edge Short Range Strike,Scenario 1,2,3,2,10
+Doctrine,Scenario 1,3,1,4,15
+Doctrine,Scenario 1,2,1,4,10
+Doctrine,Scenario 1,3,2,2,12
+Doctrine,Scenario 1,3,4,3,21
+Doctrine,Scenario 1,1,1,2,3
+Doctrine,Scenario 1,3,4,2,18
+Doctrine,Scenario 1,3,4,4,24
+Doctrine,Scenario 1,1,1,2,3
+Doctrine,Scenario 1,2,3,3,12
+Doctrine,Scenario 1,2,3,2,10
+Doctrine,Scenario 1,3,4,4,24
+Doctrine,Scenario 1,2,4,4,16
+Doctrine,Scenario 1,3,4,4,24
+Doctrine,Scenario 1,1,1,2,3
+Doctrine,Scenario 1,3,3,4,21
+Doctrine,Scenario 1,2,2,4,12
+Doctrine,Scenario 1,2,3,4,14
+Doctrine,Scenario 1,0,1,1,0
+Doctrine,Scenario 1,1,1,4,5
+Doctrine,Scenario 1,2,2,2,8
+Doctrine,Scenario 1,3,3,4,21
+Organization,Scenario 1,2,2,4,12
+Organization,Scenario 1,3,2,4,18
+Organization,Scenario 1,2,2,3,10
+Organization,Scenario 1,3,3,4,21
+Organization,Scenario 1,1,1,2,3
+Organization,Scenario 1,2,3,4,14
+Organization,Scenario 1,2,2,4,12
+Organization,Scenario 1,1,1,2,3
+Organization,Scenario 1,3,3,3,18
+Organization,Scenario 1,2,3,3,12
+Organization,Scenario 1,2,4,4,16
+Organization,Scenario 1,2,4,4,16
+Organization,Scenario 1,2,4,4,16
+Organization,Scenario 1,2,2,2,8
+Organization,Scenario 1,2,3,4,14
+Organization,Scenario 1,3,3,3,18
+Organization,Scenario 1,1,3,4,7
+Organization,Scenario 1,3,4,4,24
+Organization,Scenario 1,1,2,4,6
+Organization,Scenario 1,3,2,2,12
+Organization,Scenario 1,2,3,4,14
+Training,Scenario 1,2,3,4,14
+Training,Scenario 1,3,3,4,21
+Training,Scenario 1,2,3,4,14
+Training,Scenario 1,2,3,3,12
+Training,Scenario 1,1,2,4,6
+Training,Scenario 1,2,2,4,12
+Training,Scenario 1,2,3,4,14
+Training,Scenario 1,2,2,3,10
+Training,Scenario 1,2,3,2,10
+Training,Scenario 1,2,3,3,12
+Training,Scenario 1,2,4,4,16
+Training,Scenario 1,2,4,4,16
+Training,Scenario 1,2,4,4,16
+Training,Scenario 1,2,2,4,12
+Training,Scenario 1,3,2,4,18
+Training,Scenario 1,2,3,4,14
+Training,Scenario 1,3,4,4,24
+Training,Scenario 1,1,4,4,8
+Training,Scenario 1,1,2,4,6
+Training,Scenario 1,2,4,4,16
+Training,Scenario 1,1,4,4,8
+Material,Scenario 1,2,3,4,14
+Material,Scenario 1,2,2,4,12
+Material,Scenario 1,2,3,4,14
+Material,Scenario 1,3,4,4,24
+Material,Scenario 1,2,2,4,12
+Material,Scenario 1,1,1,4,5
+Material,Scenario 1,3,4,4,24
+Material,Scenario 1,3,3,3,18
+Material,Scenario 1,3,4,3,21
+Material,Scenario 1,3,3,3,18
+Material,Scenario 1,3,4,4,24
+Material,Scenario 1,2,4,4,16
+Material,Scenario 1,3,4,4,24
+Material,Scenario 1,3,3,2,15
+Material,Scenario 1,3,4,4,24
+Material,Scenario 1,2,3,2,10
+Material,Scenario 1,2,3,4,14
+Material,Scenario 1,0,4,3,0
+Material,Scenario 1,2,2,4,12
+Material,Scenario 1,3,3,3,18
+Material,Scenario 1,3,3,4,21
+Leadership & Education,Scenario 1,2,2,4,12
+Leadership & Education,Scenario 1,2,2,4,12
+Leadership & Education,Scenario 1,1,1,4,5
+Leadership & Education,Scenario 1,2,4,3,14
+Leadership & Education,Scenario 1,1,3,4,7
+Leadership & Education,Scenario 1,2,4,3,14
+Leadership & Education,Scenario 1,1,2,4,6
+Leadership & Education,Scenario 1,1,1,2,3
+Leadership & Education,Scenario 1,2,2,3,10
+Leadership & Education,Scenario 1,2,3,3,12
+Leadership & Education,Scenario 1,2,4,4,16
+Leadership & Education,Scenario 1,1,3,3,6
+Leadership & Education,Scenario 1,2,4,4,16
+Leadership & Education,Scenario 1,3,2,4,18
+Leadership & Education,Scenario 1,2,2,4,12
+Leadership & Education,Scenario 1,2,4,4,16
+Leadership & Education,Scenario 1,2,3,4,14
+Leadership & Education,Scenario 1,1,3,3,6
+Leadership & Education,Scenario 1,1,2,4,6
+Leadership & Education,Scenario 1,2,4,4,16
+Leadership & Education,Scenario 1,3,4,4,24
+Personnel,Scenario 1,2,2,4,12
+Personnel,Scenario 1,2,4,4,16
+Personnel,Scenario 1,1,4,4,8
+Personnel,Scenario 1,3,3,3,18
+Personnel,Scenario 1,1,4,4,8
+Personnel,Scenario 1,1,2,2,4
+Personnel,Scenario 1,1,2,3,5
+Personnel,Scenario 1,1,1,2,3
+Personnel,Scenario 1,3,4,3,21
+Personnel,Scenario 1,2,3,3,12
+Personnel,Scenario 1,2,4,4,16
+Personnel,Scenario 1,3,4,4,24
+Personnel,Scenario 1,2,4,4,16
+Personnel,Scenario 1,1,4,2,6
+Personnel,Scenario 1,2,2,4,12
+Personnel,Scenario 1,2,4,4,16
+Personnel,Scenario 1,2,2,4,12
+Personnel,Scenario 1,0,2,2,0
+Personnel,Scenario 1,1,2,4,6
+Personnel,Scenario 1,3,4,4,24
+Personnel,Scenario 1,1,4,4,8
+Facilities,Scenario 1,1,1,4,5
+Facilities,Scenario 1,2,2,2,8
+Facilities,Scenario 1,1,2,2,4
+Facilities,Scenario 1,2,3,3,12
+Facilities,Scenario 1,1,1,3,4
+Facilities,Scenario 1,1,1,3,4
+Facilities,Scenario 1,1,2,3,5
+Facilities,Scenario 1,2,2,2,8
+Facilities,Scenario 1,1,4,3,7
+Facilities,Scenario 1,2,2,2,8
+Facilities,Scenario 1,3,4,4,24
+Facilities,Scenario 1,0,4,4,0
+Facilities,Scenario 1,3,4,4,24
+Facilities,Scenario 1,2,4,4,16
+Facilities,Scenario 1,2,1,4,10
+Facilities,Scenario 1,1,2,2,4
+Facilities,Scenario 1,1,1,4,5
+Facilities,Scenario 1,1,2,2,4
+Facilities,Scenario 1,2,2,4,12
+Facilities,Scenario 1,2,2,2,8
+Facilities,Scenario 1,1,2,4,6
+Policy,Scenario 1,2,3,4,14
+Policy,Scenario 1,1,4,4,8
+Policy,Scenario 1,2,4,4,16
+Policy,Scenario 1,3,4,4,24
+Policy,Scenario 1,2,3,3,12
+Policy,Scenario 1,2,3,2,10
+Policy,Scenario 1,3,4,4,24
+Policy,Scenario 1,2,2,2,8
+Policy,Scenario 1,3,4,4,24
+Policy,Scenario 1,3,3,3,18
+Policy,Scenario 1,3,4,4,24
+Policy,Scenario 1,2,4,4,16
+Policy,Scenario 1,3,4,4,24
+Policy,Scenario 1,1,3,3,6
+Policy,Scenario 1,2,3,4,14
+Policy,Scenario 1,3,4,4,24
+Policy,Scenario 1,3,4,4,24
+Policy,Scenario 1,0,4,4,0
+Policy,Scenario 1,2,2,4,12
+Policy,Scenario 1,2,3,3,12
+Policy,Scenario 1,3,4,4,24
+Authorities,Scenario 1,2,3,4,14
+Authorities,Scenario 1,1,4,4,8
+Authorities,Scenario 1,2,4,4,16
+Authorities,Scenario 1,1,2,2,4
+Authorities,Scenario 1,2,3,3,12
+Authorities,Scenario 1,1,4,1,5
+Authorities,Scenario 1,3,4,4,24
+Authorities,Scenario 1,2,2,2,8
+Authorities,Scenario 1,3,4,4,24
+Authorities,Scenario 1,3,4,4,24
+Authorities,Scenario 1,2,4,4,16
+Authorities,Scenario 1,2,4,4,16
+Authorities,Scenario 1,2,4,4,16
+Authorities,Scenario 1,3,3,2,15
+Authorities,Scenario 1,3,4,4,24
+Authorities,Scenario 1,2,4,4,16
+Authorities,Scenario 1,3,4,4,24
+Authorities,Scenario 1,0,4,4,0
+Authorities,Scenario 1,2,2,4,12
+Authorities,Scenario 1,3,3,4,21
+Authorities,Scenario 1,2,4,4,16
+Permissions,Scenario 1,2,3,4,14
+Permissions,Scenario 1,2,3,4,14
+Permissions,Scenario 1,1,4,4,8
+Permissions,Scenario 1,3,4,4,24
+Permissions,Scenario 1,2,3,3,12
+Permissions,Scenario 1,3,3,2,15
+Permissions,Scenario 1,3,4,4,24
+Permissions,Scenario 1,1,1,1,2
+Permissions,Scenario 1,3,4,4,24
+Permissions,Scenario 1,3,4,4,24
+Permissions,Scenario 1,3,4,4,24
+Permissions,Scenario 1,3,4,4,24
+Permissions,Scenario 1,3,4,4,24
+Permissions,Scenario 1,3,3,3,18
+Permissions,Scenario 1,3,4,4,24
+Permissions,Scenario 1,3,4,2,18
+Permissions,Scenario 1,3,4,4,24
+Permissions,Scenario 1,0,4,4,0
+Permissions,Scenario 1,2,2,4,12
+Permissions,Scenario 1,3,3,4,21
+Permissions,Scenario 1,3,4,4,24
+Operational Planning,Scenario 1,2,4,4,16
+Operational Planning,Scenario 1,3,3,4,21
+Operational Planning,Scenario 1,1,3,3,6
+Operational Planning,Scenario 1,2,3,3,12
+Operational Planning,Scenario 1,1,2,2,4
+Operational Planning,Scenario 1,2,2,1,6
+Operational Planning,Scenario 1,1,2,2,4
+Operational Planning,Scenario 1,0,1,1,0
+Operational Planning,Scenario 1,3,2,2,12
+Operational Planning,Scenario 1,2,3,3,12
+Operational Planning,Scenario 1,2,4,4,16
+Operational Planning,Scenario 1,1,4,4,8
+Operational Planning,Scenario 1,2,4,4,16
+Operational Planning,Scenario 1,1,1,3,4
+Operational Planning,Scenario 1,2,3,4,14
+Operational Planning,Scenario 1,3,4,4,24
+Operational Planning,Scenario 1,2,4,4,16
+Operational Planning,Scenario 1,0,4,3,0
+Operational Planning,Scenario 1,1,1,4,5
+Operational Planning,Scenario 1,2,3,4,14
+Operational Planning,Scenario 1,3,4,4,24
+"Organizational Relationships, Structure, Exchange",Scenario 1,2,2,4,12
+"Organizational Relationships, Structure, Exchange",Scenario 1,2,3,3,12
+"Organizational Relationships, Structure, Exchange",Scenario 1,1,2,2,4
+"Organizational Relationships, Structure, Exchange",Scenario 1,3,4,4,24
+"Organizational Relationships, Structure, Exchange",Scenario 1,1,1,4,5
+"Organizational Relationships, Structure, Exchange",Scenario 1,3,4,4,24
+"Organizational Relationships, Structure, Exchange",Scenario 1,2,4,3,14
+"Organizational Relationships, Structure, Exchange",Scenario 1,0,1,1,0
+"Organizational Relationships, Structure, Exchange",Scenario 1,2,3,2,10
+"Organizational Relationships, Structure, Exchange",Scenario 1,2,2,3,10
+"Organizational Relationships, Structure, Exchange",Scenario 1,1,3,3,6
+"Organizational Relationships, Structure, Exchange",Scenario 1,2,4,4,16
+"Organizational Relationships, Structure, Exchange",Scenario 1,1,3,3,6
+"Organizational Relationships, Structure, Exchange",Scenario 1,2,2,4,12
+"Organizational Relationships, Structure, Exchange",Scenario 1,2,3,4,14
+"Organizational Relationships, Structure, Exchange",Scenario 1,3,3,2,15
+"Organizational Relationships, Structure, Exchange",Scenario 1,3,3,4,21
+"Organizational Relationships, Structure, Exchange",Scenario 1,0,3,3,0
+"Organizational Relationships, Structure, Exchange",Scenario 1,1,1,4,5
+"Organizational Relationships, Structure, Exchange",Scenario 1,1,4,4,8
+"Organizational Relationships, Structure, Exchange",Scenario 1,2,4,4,16
+Masked,Scenario 1,2,4,4,16
+Masked,Scenario 1,2,3,3,12
+Masked,Scenario 1,2,3,3,12
+Masked,Scenario 1,3,4,4,24
+Masked,Scenario 1,2,2,2,8
+Masked,Scenario 1,0,1,1,0
+Masked,Scenario 1,2,3,3,12
+Masked,Scenario 1,0,1,1,0
+Masked,Scenario 1,3,4,4,24
+Masked,Scenario 1,2,3,3,12
+Masked,Scenario 1,3,4,4,24
+Masked,Scenario 1,2,4,4,16
+Masked,Scenario 1,3,4,4,24
+Masked,Scenario 1,3,2,2,12
+Masked,Scenario 1,2,3,4,14
+Masked,Scenario 1,3,3,2,15
+Masked,Scenario 1,2,3,3,12
+Masked,Scenario 1,1,4,4,8
+Masked,Scenario 1,2,2,3,10
+Masked,Scenario 1,3,3,3,18
+Masked,Scenario 1,2,4,4,16
+TS/SAP/STO Access at Echelon,Scenario 1,3,2,3,15
+TS/SAP/STO Access at Echelon,Scenario 1,3,2,2,12
+TS/SAP/STO Access at Echelon,Scenario 1,0,1,1,0
+TS/SAP/STO Access at Echelon,Scenario 1,3,4,4,24
+TS/SAP/STO Access at Echelon,Scenario 1,1,2,2,4
+TS/SAP/STO Access at Echelon,Scenario 1,2,2,2,8
+TS/SAP/STO Access at Echelon,Scenario 1,3,4,4,24
+TS/SAP/STO Access at Echelon,Scenario 1,2,2,2,8
+TS/SAP/STO Access at Echelon,Scenario 1,3,4,4,24
+TS/SAP/STO Access at Echelon,Scenario 1,3,3,3,18
+TS/SAP/STO Access at Echelon,Scenario 1,3,3,3,18
+TS/SAP/STO Access at Echelon,Scenario 1,2,4,4,16
+TS/SAP/STO Access at Echelon,Scenario 1,3,4,4,24
+TS/SAP/STO Access at Echelon,Scenario 1,3,3,2,15
+TS/SAP/STO Access at Echelon,Scenario 1,3,4,4,24
+TS/SAP/STO Access at Echelon,Scenario 1,3,4,4,24
+TS/SAP/STO Access at Echelon,Scenario 1,3,2,4,18
+TS/SAP/STO Access at Echelon,Scenario 1,1,4,4,8
+TS/SAP/STO Access at Echelon,Scenario 1,2,2,3,10
+TS/SAP/STO Access at Echelon,Scenario 1,2,2,3,10
+TS/SAP/STO Access at Echelon,Scenario 1,3,3,4,21
+Places/Venues to Train/Validate,Scenario 1,2,3,4,14
+Places/Venues to Train/Validate,Scenario 1,2,2,4,12
+Places/Venues to Train/Validate,Scenario 1,1,2,2,4
+Places/Venues to Train/Validate,Scenario 1,2,3,3,12
+Places/Venues to Train/Validate,Scenario 1,1,2,2,4
+Places/Venues to Train/Validate,Scenario 1,1,1,2,3
+Places/Venues to Train/Validate,Scenario 1,1,1,2,3
+Places/Venues to Train/Validate,Scenario 1,2,2,2,8
+Places/Venues to Train/Validate,Scenario 1,1,2,2,4
+Places/Venues to Train/Validate,Scenario 1,3,2,2,12
+Places/Venues to Train/Validate,Scenario 1,2,3,3,12
+Places/Venues to Train/Validate,Scenario 1,1,4,4,8
+Places/Venues to Train/Validate,Scenario 1,2,3,3,12
+Places/Venues to Train/Validate,Scenario 1,3,4,2,18
+Places/Venues to Train/Validate,Scenario 1,1,2,4,6
+Places/Venues to Train/Validate,Scenario 1,1,2,2,4
+Places/Venues to Train/Validate,Scenario 1,1,2,2,4
+Places/Venues to Train/Validate,Scenario 1,1,3,3,6
+Places/Venues to Train/Validate,Scenario 1,2,1,3,8
+Places/Venues to Train/Validate,Scenario 1,3,3,3,18
+Places/Venues to Train/Validate,Scenario 1,2,3,4,14
+C2 COP System of Systems,Scenario 1,2,1,4,10
+C2 COP System of Systems,Scenario 1,2,4,4,16
+C2 COP System of Systems,Scenario 1,0,2,1,0
+C2 COP System of Systems,Scenario 1,2,3,3,12
+C2 COP System of Systems,Scenario 1,2,2,2,8
+C2 COP System of Systems,Scenario 1,3,4,4,24
+C2 COP System of Systems,Scenario 1,1,1,2,3
+C2 COP System of Systems,Scenario 1,2,2,2,8
+C2 COP System of Systems,Scenario 1,3,4,4,24
+C2 COP System of Systems,Scenario 1,3,4,4,24
+C2 COP System of Systems,Scenario 1,3,4,4,24
+C2 COP System of Systems,Scenario 1,2,4,4,16
+C2 COP System of Systems,Scenario 1,2,4,4,16
+C2 COP System of Systems,Scenario 1,3,4,3,21
+C2 COP System of Systems,Scenario 1,2,4,4,16
+C2 COP System of Systems,Scenario 1,2,3,4,14
+C2 COP System of Systems,Scenario 1,2,4,4,16
+C2 COP System of Systems,Scenario 1,0,4,4,0
+C2 COP System of Systems,Scenario 1,2,2,3,10
+C2 COP System of Systems,Scenario 1,2,2,2,8
+C2 COP System of Systems,Scenario 1,3,4,4,24
+Secure/Assured Communications w/ Partner Share,Scenario 1,2,1,4,10
+Secure/Assured Communications w/ Partner Share,Scenario 1,2,3,3,12
+Secure/Assured Communications w/ Partner Share,Scenario 1,2,2,3,10
+Secure/Assured Communications w/ Partner Share,Scenario 1,1,3,2,5
+Secure/Assured Communications w/ Partner Share,Scenario 1,2,2,2,8
+Secure/Assured Communications w/ Partner Share,Scenario 1,2,2,2,8
+Secure/Assured Communications w/ Partner Share,Scenario 1,1,3,3,6
+Secure/Assured Communications w/ Partner Share,Scenario 1,2,2,2,8
+Secure/Assured Communications w/ Partner Share,Scenario 1,2,3,3,12
+Secure/Assured Communications w/ Partner Share,Scenario 1,3,4,4,24
+Secure/Assured Communications w/ Partner Share,Scenario 1,2,3,3,12
+Secure/Assured Communications w/ Partner Share,Scenario 1,3,4,4,24
+Secure/Assured Communications w/ Partner Share,Scenario 1,2,3,3,12
+Secure/Assured Communications w/ Partner Share,Scenario 1,2,3,2,10
+Secure/Assured Communications w/ Partner Share,Scenario 1,2,4,4,16
+Secure/Assured Communications w/ Partner Share,Scenario 1,3,4,2,18
+Secure/Assured Communications w/ Partner Share,Scenario 1,2,4,4,16
+Secure/Assured Communications w/ Partner Share,Scenario 1,1,4,4,8
+Secure/Assured Communications w/ Partner Share,Scenario 1,2,2,3,10
+Secure/Assured Communications w/ Partner Share,Scenario 1,2,2,3,10
+Secure/Assured Communications w/ Partner Share,Scenario 1,2,4,2,12
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 1,3,1,4,15
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 1,2,3,4,14
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 1,0,2,3,0
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 1,2,3,3,12
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 1,1,1,3,4
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 1,2,2,2,8
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 1,2,3,2,10
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 1,1,1,1,2
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 1,2,2,2,8
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 1,2,3,3,12
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 1,2,4,4,16
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 1,2,4,4,16
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 1,2,3,4,14
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 1,2,3,4,14
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 1,2,3,4,14
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 1,2,3,4,14
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 1,1,3,4,7
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 1,0,4,4,0
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 1,2,2,3,10
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 1,2,4,2,12
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 1,2,2,2,8
+Mission Command Culture,Scenario 1,3,3,4,21
+Mission Command Culture,Scenario 1,2,2,3,10
+Mission Command Culture,Scenario 1,1,3,3,6
+Mission Command Culture,Scenario 1,3,4,4,24
+Mission Command Culture,Scenario 1,2,2,2,8
+Mission Command Culture,Scenario 1,2,3,3,12
+Mission Command Culture,Scenario 1,3,4,4,24
+Mission Command Culture,Scenario 1,2,2,2,8
+Mission Command Culture,Scenario 1,2,3,3,12
+Mission Command Culture,Scenario 1,2,2,3,10
+Mission Command Culture,Scenario 1,2,1,2,6
+Mission Command Culture,Scenario 1,1,4,4,8
+Mission Command Culture,Scenario 1,2,0,2,4
+Mission Command Culture,Scenario 1,3,2,4,18
+Mission Command Culture,Scenario 1,2,2,4,12
+Mission Command Culture,Scenario 1,3,3,2,15
+Mission Command Culture,Scenario 1,1,4,4,8
+Mission Command Culture,Scenario 1,0,4,4,0
+Mission Command Culture,Scenario 1,3,2,3,15
+Mission Command Culture,Scenario 1,2,2,2,8
+Mission Command Culture,Scenario 1,1,4,4,8
+Enhance Resilience,Scenario 2,2,3,4,14
+Enhance Resilience,Scenario 2,1,4,4,8
+Enhance Resilience,Scenario 2,2,3,4,14
+Enhance Resilience,Scenario 2,1,3,2,5
+Enhance Resilience,Scenario 2,1,3,2,5
+Enhance Resilience,Scenario 2,1,3,2,5
+Enhance Resilience,Scenario 2,1,3,2,5
+Enhance Resilience,Scenario 2,2,2,4,12
+Enhance Resilience,Scenario 2,2,2,4,12
+Enhance Resilience,Scenario 2,1,2,2,4
+Enhance Resilience,Scenario 2,1,2,2,4
+Enhance Resilience,Scenario 2,2,2,1,6
+Enhance Resilience,Scenario 2,2,4,4,16
+Enhance Resilience,Scenario 2,3,2,4,18
+Enhance Resilience,Scenario 2,1,1,2,3
+Enhance Resilience,Scenario 2,2,3,4,14
+Enhance Resilience,Scenario 2,2,3,4,14
+Enhance Resilience,Scenario 2,2,3,4,14
+Enhance Resilience,Scenario 2,2,2,2,8
+Enhance Resilience,Scenario 2,1,2,4,6
+Enhance Resilience,Scenario 2,2,4,4,16
+Enhance Resilience,Scenario 2,2,1,4,10
+Enhance Resilience,Scenario 2,2,2,4,12
+Enhance Resilience,Scenario 2,2,3,4,14
+Enhance Resilience,Scenario 2,1,1,4,5
+Enhance Resilience,Scenario 2,2,1,4,10
+Develop Resistance Forces,Scenario 2,2,3,3,12
+Develop Resistance Forces,Scenario 2,1,3,4,7
+Develop Resistance Forces,Scenario 2,1,2,3,5
+Develop Resistance Forces,Scenario 2,1,2,3,5
+Develop Resistance Forces,Scenario 2,1,2,3,5
+Develop Resistance Forces,Scenario 2,1,2,2,4
+Develop Resistance Forces,Scenario 2,1,3,3,6
+Develop Resistance Forces,Scenario 2,2,3,4,14
+Develop Resistance Forces,Scenario 2,1,3,4,7
+Develop Resistance Forces,Scenario 2,2,3,3,12
+Develop Resistance Forces,Scenario 2,1,2,2,4
+Develop Resistance Forces,Scenario 2,2,2,2,8
+Develop Resistance Forces,Scenario 2,2,3,2,10
+Develop Resistance Forces,Scenario 2,2,2,1,6
+Develop Resistance Forces,Scenario 2,2,3,4,14
+Develop Resistance Forces,Scenario 2,2,2,4,12
+Develop Resistance Forces,Scenario 2,1,3,3,6
+Develop Resistance Forces,Scenario 2,2,3,4,14
+Develop Resistance Forces,Scenario 2,2,3,3,12
+Develop Resistance Forces,Scenario 2,1,2,4,6
+Develop Resistance Forces,Scenario 2,2,4,4,16
+Develop Resistance Forces,Scenario 2,2,2,4,12
+Develop Resistance Forces,Scenario 2,2,2,4,12
+Develop Resistance Forces,Scenario 2,2,3,4,14
+Develop Resistance Forces,Scenario 2,3,1,4,15
+Develop Resistance Forces,Scenario 2,2,4,4,16
+Develop Resistance Forces,Scenario 2,2,1,4,10
+Develop Resistance Forces,Scenario 2,1,2,4,6
+Consolidate Gains,Scenario 2,1,2,2,4
+Consolidate Gains,Scenario 2,1,3,4,7
+Consolidate Gains,Scenario 2,3,4,4,24
+Consolidate Gains,Scenario 2,3,4,4,24
+Consolidate Gains,Scenario 2,3,4,4,24
+Consolidate Gains,Scenario 2,3,4,4,24
+Consolidate Gains,Scenario 2,1,4,4,8
+Consolidate Gains,Scenario 2,3,3,4,21
+Consolidate Gains,Scenario 2,1,2,2,4
+Consolidate Gains,Scenario 2,2,2,4,12
+Consolidate Gains,Scenario 2,2,3,2,10
+Consolidate Gains,Scenario 2,1,1,1,2
+Consolidate Gains,Scenario 2,3,4,3,21
+Consolidate Gains,Scenario 2,1,3,4,7
+Consolidate Gains,Scenario 2,-1,0,4,-4
+Consolidate Gains,Scenario 2,2,3,4,14
+Consolidate Gains,Scenario 2,1,4,4,8
+Consolidate Gains,Scenario 2,2,3,4,14
+Consolidate Gains,Scenario 2,3,3,4,21
+Consolidate Gains,Scenario 2,1,1,4,5
+Consolidate Gains,Scenario 2,2,4,2,12
+Consolidate Gains,Scenario 2,2,4,2,12
+Consolidate Gains,Scenario 2,1,2,4,6
+Consolidate Gains,Scenario 2,2,3,2,10
+Consolidate Gains,Scenario 2,1,3,3,6
+Consolidate Gains,Scenario 2,1,3,3,6
+Consolidate Gains,Scenario 2,2,4,2,12
+Consolidate Gains,Scenario 2,3,3,2,15
+Civil Network Development and Engagement,Scenario 2,2,3,4,14
+Civil Network Development and Engagement,Scenario 2,2,1,1,4
+Civil Network Development and Engagement,Scenario 2,2,1,1,4
+Civil Network Development and Engagement,Scenario 2,2,1,2,6
+Civil Network Development and Engagement,Scenario 2,2,1,2,6
+Civil Network Development and Engagement,Scenario 2,1,3,3,6
+Civil Network Development and Engagement,Scenario 2,1,2,3,5
+Civil Network Development and Engagement,Scenario 2,1,2,4,6
+Civil Network Development and Engagement,Scenario 2,1,2,4,6
+Civil Network Development and Engagement,Scenario 2,2,3,2,10
+Civil Network Development and Engagement,Scenario 2,3,2,2,12
+Civil Network Development and Engagement,Scenario 2,2,3,4,14
+Civil Network Development and Engagement,Scenario 2,1,2,4,6
+Civil Network Development and Engagement,Scenario 2,2,3,2,10
+Civil Network Development and Engagement,Scenario 2,2,3,4,14
+Civil Network Development and Engagement,Scenario 2,2,4,4,16
+Civil Network Development and Engagement,Scenario 2,2,3,4,14
+Civil Network Development and Engagement,Scenario 2,2,3,4,14
+Civil Network Development and Engagement,Scenario 2,1,1,4,5
+Civil Network Development and Engagement,Scenario 2,1,4,2,6
+Civil Network Development and Engagement,Scenario 2,2,4,4,16
+Civil Network Development and Engagement,Scenario 2,3,2,3,15
+Civil Network Development and Engagement,Scenario 2,2,1,4,10
+Civil Network Development and Engagement,Scenario 2,2,2,4,12
+Civil Network Development and Engagement,Scenario 2,2,2,4,12
+Civil Network Development and Engagement,Scenario 2,2,2,2,8
+Multidomain Special Reconnaissance,Scenario 2,2,3,4,14
+Multidomain Special Reconnaissance,Scenario 2,3,4,2,18
+Multidomain Special Reconnaissance,Scenario 2,2,3,4,14
+Multidomain Special Reconnaissance,Scenario 2,2,2,4,12
+Multidomain Special Reconnaissance,Scenario 2,3,4,3,21
+Multidomain Special Reconnaissance,Scenario 2,2,3,4,14
+Multidomain Special Reconnaissance,Scenario 2,2,3,4,14
+Multidomain Special Reconnaissance,Scenario 2,3,3,2,15
+Multidomain Special Reconnaissance,Scenario 2,3,3,2,15
+Multidomain Special Reconnaissance,Scenario 2,2,3,4,14
+Multidomain Special Reconnaissance,Scenario 2,1,3,4,7
+Multidomain Special Reconnaissance,Scenario 2,2,3,4,14
+Multidomain Special Reconnaissance,Scenario 2,3,3,2,15
+Multidomain Special Reconnaissance,Scenario 2,2,2,4,12
+Multidomain Special Reconnaissance,Scenario 2,1,2,4,6
+Multidomain Special Reconnaissance,Scenario 2,1,2,4,6
+Multidomain Special Reconnaissance,Scenario 2,1,2,2,4
+Multidomain Special Reconnaissance,Scenario 2,2,4,4,16
+Multidomain Special Reconnaissance,Scenario 2,2,4,4,16
+Multidomain Special Reconnaissance,Scenario 2,2,3,4,14
+Multidomain Special Reconnaissance,Scenario 2,2,3,4,14
+Multidomain Special Reconnaissance,Scenario 2,2,3,4,14
+Illuminate Corp/Op/Strat Deep,Scenario 2,2,3,4,14
+Illuminate Corp/Op/Strat Deep,Scenario 2,3,4,3,21
+Illuminate Corp/Op/Strat Deep,Scenario 2,2,2,2,8
+Illuminate Corp/Op/Strat Deep,Scenario 2,2,1,3,8
+Illuminate Corp/Op/Strat Deep,Scenario 2,2,2,3,10
+Illuminate Corp/Op/Strat Deep,Scenario 2,2,3,4,14
+Illuminate Corp/Op/Strat Deep,Scenario 2,2,2,4,12
+Illuminate Corp/Op/Strat Deep,Scenario 2,2,3,4,14
+Illuminate Corp/Op/Strat Deep,Scenario 2,3,3,2,15
+Illuminate Corp/Op/Strat Deep,Scenario 2,2,4,4,16
+Illuminate Corp/Op/Strat Deep,Scenario 2,2,4,4,16
+Illuminate Corp/Op/Strat Deep,Scenario 2,2,3,4,14
+Illuminate Corp/Op/Strat Deep,Scenario 2,2,3,3,12
+Illuminate Corp/Op/Strat Deep,Scenario 2,1,3,4,7
+Illuminate Corp/Op/Strat Deep,Scenario 2,1,3,4,7
+Illuminate Corp/Op/Strat Deep,Scenario 2,3,4,4,24
+Illuminate Corp/Op/Strat Deep,Scenario 2,2,4,4,16
+Illuminate Corp/Op/Strat Deep,Scenario 2,2,3,4,14
+Illuminate Corp/Op/Strat Deep,Scenario 2,1,3,2,4
+Illuminate Corp/Op/Strat Deep,Scenario 2,1,4,4,8
+Remote Advise Assist Operations,Scenario 2,2,3,4,14
+Remote Advise Assist Operations,Scenario 2,0,3,4,0
+Remote Advise Assist Operations,Scenario 2,1,2,4,6
+Remote Advise Assist Operations,Scenario 2,2,1,3,8
+Remote Advise Assist Operations,Scenario 2,3,2,4,18
+Remote Advise Assist Operations,Scenario 2,2,3,2,10
+Remote Advise Assist Operations,Scenario 2,1,3,4,7
+Remote Advise Assist Operations,Scenario 2,2,3,2,10
+Remote Advise Assist Operations,Scenario 2,3,2,2,12
+Remote Advise Assist Operations,Scenario 2,1,2,4,6
+Remote Advise Assist Operations,Scenario 2,1,2,4,6
+Remote Advise Assist Operations,Scenario 2,1,2,4,6
+Remote Advise Assist Operations,Scenario 2,3,3,4,21
+Remote Advise Assist Operations,Scenario 2,2,3,2,10
+Remote Advise Assist Operations,Scenario 2,2,2,4,12
+Remote Advise Assist Operations,Scenario 2,1,2,2,4
+Remote Advise Assist Operations,Scenario 2,2,4,2,12
+Remote Advise Assist Operations,Scenario 2,1,3,4,7
+Remote Advise Assist Operations,Scenario 2,1,2,2,4
+Remote Advise Assist Operations,Scenario 2,1,2,4,6
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 2,2,2,4,12
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 2,3,2,4,18
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 2,2,3,4,14
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 2,2,2,4,12
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 2,2,3,3,12
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 2,3,3,4,21
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 2,3,4,4,24
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 2,3,3,4,21
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 2,3,3,4,21
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 2,2,4,4,16
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 2,2,4,4,16
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 2,2,4,4,16
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 2,2,3,4,14
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 2,2,3,4,14
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 2,3,3,4,21
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 2,2,3,4,14
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 2,3,3,2,15
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 2,3,4,4,24
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 2,2,4,4,16
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 2,2,3,2,10
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 2,2,2,4,12
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 2,3,3,4,21
+Strategic Sabatoge,Scenario 2,0,0,0,0
+Disrupt EN Tactical Support Area,Scenario 2,2,3,4,14
+Disrupt EN Tactical Support Area,Scenario 2,2,4,3,14
+Disrupt EN Tactical Support Area,Scenario 2,2,2,2,8
+Disrupt EN Tactical Support Area,Scenario 2,2,4,4,16
+Disrupt EN Tactical Support Area,Scenario 2,2,3,2,10
+Disrupt EN Tactical Support Area,Scenario 2,2,3,4,14
+Disrupt EN Tactical Support Area,Scenario 2,2,4,3,14
+Disrupt EN Tactical Support Area,Scenario 2,2,4,3,14
+Disrupt EN Tactical Support Area,Scenario 2,2,4,3,14
+Disrupt EN Tactical Support Area,Scenario 2,2,2,2,8
+Disrupt EN Tactical Support Area,Scenario 2,3,3,4,21
+Disrupt EN Tactical Support Area,Scenario 2,2,1,2,6
+Disrupt EN Tactical Support Area,Scenario 2,2,1,2,6
+Disrupt EN Tactical Support Area,Scenario 2,1,3,4,7
+Disrupt EN Tactical Support Area,Scenario 2,1,3,4,7
+Disrupt EN Tactical Support Area,Scenario 2,3,4,4,24
+Disrupt EN Tactical Support Area,Scenario 2,2,4,2,12
+Disrupt EN Tactical Support Area,Scenario 2,1,2,3,5
+Disrupt EN Tactical Support Area,Scenario 2,2,2,4,12
+Disrupt EN Tactical Support Area,Scenario 2,1,3,4,7
+Disrupt EN Tactical Support Area,Scenario 2,2,1,1,4
+Disrupt EN Tactical Support Area,Scenario 2,3,3,2,15
+Disrupt EN Tactical Support Area,Scenario 2,2,4,2,12
+Disrupt EN Tactical Support Area,Scenario 2,-1,2,1,-3
+Disrupt EN Tactical Support Area,Scenario 2,1,2,3,5
+Disrupt EN Tactical Support Area,Scenario 2,2,4,2,12
+Disrupt EN Tactical Support Area,Scenario 2,2,2,3,10
+Disrupt EN Tactical Support Area,Scenario 2,1,3,3,6
+Expose Adversary Strategic Flanks,Scenario 2,0,0,0,0
+Unconventional Warfare (Support to Resistance),Scenario 2,2,3,4,14
+Unconventional Warfare (Support to Resistance),Scenario 2,2,3,3,12
+Unconventional Warfare (Support to Resistance),Scenario 2,2,2,2,8
+Unconventional Warfare (Support to Resistance),Scenario 2,3,2,2,12
+Unconventional Warfare (Support to Resistance),Scenario 2,2,3,4,14
+Unconventional Warfare (Support to Resistance),Scenario 2,2,3,3,12
+Unconventional Warfare (Support to Resistance),Scenario 2,2,3,3,12
+Unconventional Warfare (Support to Resistance),Scenario 2,2,3,3,12
+Unconventional Warfare (Support to Resistance),Scenario 2,1,3,2,5
+Unconventional Warfare (Support to Resistance),Scenario 2,2,2,3,10
+Unconventional Warfare (Support to Resistance),Scenario 2,2,3,4,14
+Unconventional Warfare (Support to Resistance),Scenario 2,3,3,4,21
+Unconventional Warfare (Support to Resistance),Scenario 2,2,4,4,16
+Unconventional Warfare (Support to Resistance),Scenario 2,2,3,2,10
+Unconventional Warfare (Support to Resistance),Scenario 2,2,3,2,10
+Unconventional Warfare (Support to Resistance),Scenario 2,2,3,4,14
+Unconventional Warfare (Support to Resistance),Scenario 2,2,2,4,12
+Unconventional Warfare (Support to Resistance),Scenario 2,1,2,4,6
+Unconventional Warfare (Support to Resistance),Scenario 2,1,4,2,6
+Unconventional Warfare (Support to Resistance),Scenario 2,1,3,4,7
+Unconventional Warfare (Support to Resistance),Scenario 2,2,2,2,8
+Unconventional Warfare (Support to Resistance),Scenario 2,1,3,4,7
+Unconventional Warfare (Support to Resistance),Scenario 2,1,2,1,3
+Unconventional Warfare (Support to Resistance),Scenario 2,1,3,4,7
+Precision Messaging,Scenario 2,2,3,4,14
+Precision Messaging,Scenario 2,2,3,4,14
+Precision Messaging,Scenario 2,2,2,3,10
+Precision Messaging,Scenario 2,2,2,4,12
+Precision Messaging,Scenario 2,2,2,4,12
+Precision Messaging,Scenario 2,2,3,4,14
+Precision Messaging,Scenario 2,3,2,2,12
+Precision Messaging,Scenario 2,1,1,4,5
+Precision Messaging,Scenario 2,3,3,2,15
+Precision Messaging,Scenario 2,2,3,4,14
+Precision Messaging,Scenario 2,3,3,4,21
+Precision Messaging,Scenario 2,2,3,4,14
+Precision Messaging,Scenario 2,2,2,3,10
+Precision Messaging,Scenario 2,2,2,4,12
+Precision Messaging,Scenario 2,1,1,4,5
+Precision Messaging,Scenario 2,1,3,4,7
+Precision Messaging,Scenario 2,1,2,4,6
+Precision Messaging,Scenario 2,1,2,4,6
+Precision Messaging,Scenario 2,3,4,4,24
+Precision Messaging,Scenario 2,2,4,4,16
+Precision Messaging,Scenario 2,3,2,3,15
+Effect Threat Information Warfare Capabilities,Scenario 2,2,4,4,16
+Effect Threat Information Warfare Capabilities,Scenario 2,2,3,2,10
+Effect Threat Information Warfare Capabilities,Scenario 2,2,3,4,14
+Effect Threat Information Warfare Capabilities,Scenario 2,2,3,4,14
+Effect Threat Information Warfare Capabilities,Scenario 2,2,2,4,12
+Effect Threat Information Warfare Capabilities,Scenario 2,2,3,4,14
+Effect Threat Information Warfare Capabilities,Scenario 2,1,2,2,4
+Effect Threat Information Warfare Capabilities,Scenario 2,2,1,2,6
+Effect Threat Information Warfare Capabilities,Scenario 2,2,3,3,12
+Effect Threat Information Warfare Capabilities,Scenario 2,2,2,3,10
+Effect Threat Information Warfare Capabilities,Scenario 2,3,3,4,21
+Effect Threat Information Warfare Capabilities,Scenario 2,2,3,4,14
+Effect Threat Information Warfare Capabilities,Scenario 2,2,2,3,10
+Effect Threat Information Warfare Capabilities,Scenario 2,3,2,2,12
+Effect Threat Information Warfare Capabilities,Scenario 2,1,2,4,6
+Effect Threat Information Warfare Capabilities,Scenario 2,1,2,4,6
+Effect Threat Information Warfare Capabilities,Scenario 2,1,1,1,2
+Effect Threat Information Warfare Capabilities,Scenario 2,1,1,1,2
+Effect Threat Information Warfare Capabilities,Scenario 2,3,3,4,21
+Effect Threat Information Warfare Capabilities,Scenario 2,1,3,4,7
+Effect Threat Information Warfare Capabilities,Scenario 2,-1,1,0,-1
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 2,3,4,4,24
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 2,2,3,4,14
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 2,1,1,2,3
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 2,2,3,4,14
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 2,1,2,4,6
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 2,2,2,4,12
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 2,2,3,3,12
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 2,2,1,2,6
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 2,1,3,2,5
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 2,2,4,4,16
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 2,2,2,3,10
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 2,2,2,4,12
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 2,2,2,3,10
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 2,1,2,3,5
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 2,2,2,4,12
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 2,1,1,4,5
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 2,1,2,3,5
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 2,1,2,3,5
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 2,2,2,4,12
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 2,3,4,4,24
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 2,1,4,4,8
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 2,2,2,4,12
+TAC-D/DISO,Scenario 2,3,4,4,24
+TAC-D/DISO,Scenario 2,2,2,2,8
+TAC-D/DISO,Scenario 2,2,2,2,8
+TAC-D/DISO,Scenario 2,3,2,2,12
+TAC-D/DISO,Scenario 2,2,2,2,8
+TAC-D/DISO,Scenario 2,3,3,4,21
+TAC-D/DISO,Scenario 2,3,3,4,21
+TAC-D/DISO,Scenario 2,2,2,2,8
+TAC-D/DISO,Scenario 2,3,4,4,24
+TAC-D/DISO,Scenario 2,3,3,3,18
+TAC-D/DISO,Scenario 2,1,3,4,7
+TAC-D/DISO,Scenario 2,3,3,4,21
+TAC-D/DISO,Scenario 2,2,3,4,14
+TAC-D/DISO,Scenario 2,2,2,4,12
+TAC-D/DISO,Scenario 2,2,4,4,16
+TAC-D/DISO,Scenario 2,3,2,4,18
+TAC-D/DISO,Scenario 2,3,4,4,24
+TAC-D/DISO,Scenario 2,2,4,4,16
+TAC-D/DISO,Scenario 2,2,3,4,14
+TAC-D/DISO,Scenario 2,3,4,4,24
+TAC-D/DISO,Scenario 2,2,4,2,12
+TAC-D/DISO,Scenario 2,2,2,4,12
+MILDEC,Scenario 2,2,4,4,16
+MILDEC,Scenario 2,2,2,3,10
+MILDEC,Scenario 2,2,3,3,12
+MILDEC,Scenario 2,3,2,2,12
+MILDEC,Scenario 2,2,2,2,8
+MILDEC,Scenario 2,2,4,4,16
+MILDEC,Scenario 2,3,3,4,21
+MILDEC,Scenario 2,3,3,3,18
+MILDEC,Scenario 2,2,4,4,16
+MILDEC,Scenario 2,2,3,2,10
+MILDEC,Scenario 2,3,3,2,15
+MILDEC,Scenario 2,2,3,3,12
+MILDEC,Scenario 2,2,2,3,10
+MILDEC,Scenario 2,2,4,2,12
+MILDEC,Scenario 2,3,2,4,18
+MILDEC,Scenario 2,3,4,4,24
+MILDEC,Scenario 2,2,3,4,14
+MILDEC,Scenario 2,2,3,3,12
+MILDEC,Scenario 2,2,3,4,14
+MILDEC,Scenario 2,2,4,4,16
+MILDEC,Scenario 2,3,3,3,18
+Sustainment/Medical in Deep/Periphery,Scenario 2,1,3,2,5
+Sustainment/Medical in Deep/Periphery,Scenario 2,3,3,4,21
+Sustainment/Medical in Deep/Periphery,Scenario 2,1,3,4,7
+Sustainment/Medical in Deep/Periphery,Scenario 2,3,3,2,15
+Sustainment/Medical in Deep/Periphery,Scenario 2,1,4,3,7
+Sustainment/Medical in Deep/Periphery,Scenario 2,1,4,4,8
+Sustainment/Medical in Deep/Periphery,Scenario 2,2,4,4,16
+Sustainment/Medical in Deep/Periphery,Scenario 2,3,3,2,15
+Sustainment/Medical in Deep/Periphery,Scenario 2,3,3,1,12
+Sustainment/Medical in Deep/Periphery,Scenario 2,3,3,3,18
+Sustainment/Medical in Deep/Periphery,Scenario 2,3,3,3,18
+Sustainment/Medical in Deep/Periphery,Scenario 2,3,3,3,18
+Sustainment/Medical in Deep/Periphery,Scenario 2,3,4,2,18
+Sustainment/Medical in Deep/Periphery,Scenario 2,2,2,4,12
+Sustainment/Medical in Deep/Periphery,Scenario 2,2,2,4,12
+Sustainment/Medical in Deep/Periphery,Scenario 2,2,4,4,16
+Sustainment/Medical in Deep/Periphery,Scenario 2,2,3,3,12
+Sustainment/Medical in Deep/Periphery,Scenario 2,2,2,2,8
+Sustainment/Medical in Deep/Periphery,Scenario 2,3,3,2,15
+Sustainment/Medical in Deep/Periphery,Scenario 2,2,3,3,12
+Sustainment/Medical in Deep/Periphery,Scenario 2,2,2,4,12
+Sustainment/Medical in Deep/Periphery,Scenario 2,2,2,4,12
+Sustainment/Medical in Deep/Periphery,Scenario 2,3,3,2,15
+Sustainment/Medical in Deep/Periphery,Scenario 2,3,4,3,21
+Sustainment/Medical in Deep/Periphery,Scenario 2,2,1,3,8
+Sustainment/Medical in Deep/Periphery,Scenario 2,2,3,4,14
+Sustainment/Medical in Deep/Periphery,Scenario 2,1,4,4,8
+Robotics (TTP/Means/Ways/Concepts),Scenario 2,1,1,4,5
+Robotics (TTP/Means/Ways/Concepts),Scenario 2,3,3,4,21
+Robotics (TTP/Means/Ways/Concepts),Scenario 2,3,3,4,21
+Robotics (TTP/Means/Ways/Concepts),Scenario 2,2,3,3,12
+Robotics (TTP/Means/Ways/Concepts),Scenario 2,1,4,2,6
+Robotics (TTP/Means/Ways/Concepts),Scenario 2,2,1,1,4
+Robotics (TTP/Means/Ways/Concepts),Scenario 2,3,4,4,24
+Robotics (TTP/Means/Ways/Concepts),Scenario 2,2,1,2,6
+Robotics (TTP/Means/Ways/Concepts),Scenario 2,3,3,4,21
+Robotics (TTP/Means/Ways/Concepts),Scenario 2,2,2,3,10
+Robotics (TTP/Means/Ways/Concepts),Scenario 2,2,2,3,10
+Robotics (TTP/Means/Ways/Concepts),Scenario 2,2,2,3,10
+Robotics (TTP/Means/Ways/Concepts),Scenario 2,2,4,4,16
+Robotics (TTP/Means/Ways/Concepts),Scenario 2,3,3,4,21
+Robotics (TTP/Means/Ways/Concepts),Scenario 2,3,2,4,18
+Robotics (TTP/Means/Ways/Concepts),Scenario 2,2,2,4,12
+Robotics (TTP/Means/Ways/Concepts),Scenario 2,3,2,3,15
+Robotics (TTP/Means/Ways/Concepts),Scenario 2,3,4,4,24
+Robotics (TTP/Means/Ways/Concepts),Scenario 2,3,4,2,18
+Robotics (TTP/Means/Ways/Concepts),Scenario 2,2,3,4,14
+Robotics (TTP/Means/Ways/Concepts),Scenario 2,2,2,3,10
+Robotics (TTP/Means/Ways/Concepts),Scenario 2,3,3,4,21
+Robotics (TTP/Means/Ways/Concepts),Scenario 2,2,2,3,10
+Robotics (TTP/Means/Ways/Concepts),Scenario 2,3,3,4,21
+Robotics (TTP/Means/Ways/Concepts),Scenario 2,1,4,4,8
+Robotics (TTP/Means/Ways/Concepts),Scenario 2,2,3,3,12
+UAS (TTP/Means/Ways/Concepts),Scenario 2,0,0,0,0
+TRIAD (TTP/Means/Ways/Concepts),Scenario 2,3,4,4,24
+TRIAD (TTP/Means/Ways/Concepts),Scenario 2,3,3,4,21
+TRIAD (TTP/Means/Ways/Concepts),Scenario 2,2,2,2,8
+TRIAD (TTP/Means/Ways/Concepts),Scenario 2,1,3,4,7
+TRIAD (TTP/Means/Ways/Concepts),Scenario 2,2,3,4,14
+TRIAD (TTP/Means/Ways/Concepts),Scenario 2,2,3,4,14
+TRIAD (TTP/Means/Ways/Concepts),Scenario 2,2,3,4,14
+TRIAD (TTP/Means/Ways/Concepts),Scenario 2,2,3,4,14
+TRIAD (TTP/Means/Ways/Concepts),Scenario 2,2,3,4,14
+TRIAD (TTP/Means/Ways/Concepts),Scenario 2,2,4,2,12
+TRIAD (TTP/Means/Ways/Concepts),Scenario 2,2,2,4,12
+TRIAD (TTP/Means/Ways/Concepts),Scenario 2,3,3,4,21
+TRIAD (TTP/Means/Ways/Concepts),Scenario 2,2,3,4,14
+TRIAD (TTP/Means/Ways/Concepts),Scenario 2,3,3,4,21
+TRIAD (TTP/Means/Ways/Concepts),Scenario 2,3,4,2,18
+TRIAD (TTP/Means/Ways/Concepts),Scenario 2,2,4,2,12
+TRIAD (TTP/Means/Ways/Concepts),Scenario 2,-1,0,1,-1
+TRIAD (TTP/Means/Ways/Concepts),Scenario 2,1,4,4,8
+Forward Edge Short Range Strike,Scenario 2,3,3,4,21
+Forward Edge Short Range Strike,Scenario 2,2,2,4,12
+Forward Edge Short Range Strike,Scenario 2,2,2,2,8
+Forward Edge Short Range Strike,Scenario 2,1,2,2,4
+Forward Edge Short Range Strike,Scenario 2,3,2,2,12
+Forward Edge Short Range Strike,Scenario 2,2,2,2,8
+Forward Edge Short Range Strike,Scenario 2,1,2,4,6
+Forward Edge Short Range Strike,Scenario 2,1,2,4,6
+Forward Edge Short Range Strike,Scenario 2,1,2,4,6
+Forward Edge Short Range Strike,Scenario 2,2,2,2,8
+Forward Edge Short Range Strike,Scenario 2,2,1,3,8
+Forward Edge Short Range Strike,Scenario 2,3,4,4,24
+Forward Edge Short Range Strike,Scenario 2,3,3,4,21
+Forward Edge Short Range Strike,Scenario 2,2,2,4,12
+Forward Edge Short Range Strike,Scenario 2,1,3,3,6
+Forward Edge Short Range Strike,Scenario 2,3,3,4,21
+Forward Edge Short Range Strike,Scenario 2,2,2,2,8
+Forward Edge Short Range Strike,Scenario 2,3,2,4,18
+Forward Edge Short Range Strike,Scenario 2,2,3,1,8
+Forward Edge Short Range Strike,Scenario 2,2,3,1,8
+Forward Edge Short Range Strike,Scenario 2,2,3,2,10
+Forward Edge Short Range Strike,Scenario 2,-1,1,1,-2
+Forward Edge Short Range Strike,Scenario 2,1,2,2,4
+Doctrine,Scenario 2,2,4,4,16
+Doctrine,Scenario 2,2,4,4,16
+Doctrine,Scenario 2,2,4,4,16
+Doctrine,Scenario 2,2,4,4,16
+Doctrine,Scenario 2,2,2,4,12
+Doctrine,Scenario 2,1,1,2,3
+Doctrine,Scenario 2,1,2,4,6
+Doctrine,Scenario 2,2,1,4,10
+Doctrine,Scenario 2,1,1,4,5
+Doctrine,Scenario 2,2,3,4,14
+Doctrine,Scenario 2,2,4,4,16
+Doctrine,Scenario 2,3,4,4,24
+Doctrine,Scenario 2,2,2,3,10
+Doctrine,Scenario 2,2,3,4,14
+Doctrine,Scenario 2,2,3,3,12
+Doctrine,Scenario 2,2,2,4,12
+Doctrine,Scenario 2,2,4,4,16
+Doctrine,Scenario 2,1,2,4,6
+Doctrine,Scenario 2,1,4,4,8
+Doctrine,Scenario 2,2,3,4,14
+Doctrine,Scenario 2,3,4,2,18
+Doctrine,Scenario 2,2,4,4,16
+Doctrine,Scenario 2,3,4,4,24
+Doctrine,Scenario 2,1,1,1,2
+Doctrine,Scenario 2,1,1,4,5
+Doctrine,Scenario 2,2,1,4,10
+Doctrine,Scenario 2,3,4,2,18
+Doctrine,Scenario 2,2,2,2,8
+Doctrine,Scenario 2,1,2,2,4
+Organization,Scenario 2,2,4,4,16
+Organization,Scenario 2,2,3,2,10
+Organization,Scenario 2,2,3,2,10
+Organization,Scenario 2,2,3,2,10
+Organization,Scenario 2,1,3,4,7
+Organization,Scenario 2,3,2,3,15
+Organization,Scenario 2,2,2,4,12
+Organization,Scenario 2,2,2,4,12
+Organization,Scenario 2,2,3,4,14
+Organization,Scenario 2,2,3,4,14
+Organization,Scenario 2,3,4,4,24
+Organization,Scenario 2,2,2,2,8
+Organization,Scenario 2,1,3,3,6
+Organization,Scenario 2,2,2,4,12
+Organization,Scenario 2,2,3,4,14
+Organization,Scenario 2,3,3,2,15
+Organization,Scenario 2,2,4,4,16
+Organization,Scenario 2,1,2,4,6
+Organization,Scenario 2,2,4,4,16
+Organization,Scenario 2,2,3,4,14
+Organization,Scenario 2,3,3,4,21
+Organization,Scenario 2,2,3,4,14
+Organization,Scenario 2,2,3,4,14
+Organization,Scenario 2,2,2,1,6
+Organization,Scenario 2,1,2,4,6
+Organization,Scenario 2,3,2,4,18
+Organization,Scenario 2,3,3,2,15
+Organization,Scenario 2,2,2,2,8
+Organization,Scenario 2,1,2,3,5
+Training,Scenario 2,2,4,4,16
+Training,Scenario 2,2,4,2,12
+Training,Scenario 2,3,2,3,15
+Training,Scenario 2,3,2,3,15
+Training,Scenario 2,2,3,4,14
+Training,Scenario 2,1,3,3,6
+Training,Scenario 2,1,3,4,7
+Training,Scenario 2,2,3,4,14
+Training,Scenario 2,1,1,4,5
+Training,Scenario 2,2,3,4,14
+Training,Scenario 2,2,4,4,16
+Training,Scenario 2,2,4,4,16
+Training,Scenario 2,3,3,4,21
+Training,Scenario 2,2,3,4,14
+Training,Scenario 2,3,3,4,21
+Training,Scenario 2,2,2,4,12
+Training,Scenario 2,3,4,4,24
+Training,Scenario 2,2,3,2,10
+Training,Scenario 2,1,4,4,8
+Training,Scenario 2,1,3,4,7
+Training,Scenario 2,3,4,4,24
+Training,Scenario 2,2,3,4,14
+Training,Scenario 2,2,4,4,16
+Training,Scenario 2,2,1,1,4
+Training,Scenario 2,2,3,4,14
+Training,Scenario 2,3,4,4,24
+Training,Scenario 2,3,3,2,15
+Training,Scenario 2,2,2,2,8
+Training,Scenario 2,3,3,2,15
+Material,Scenario 2,2,4,4,16
+Material,Scenario 2,3,3,3,18
+Material,Scenario 2,2,3,3,12
+Material,Scenario 2,2,3,3,12
+Material,Scenario 2,2,2,4,12
+Material,Scenario 2,2,4,4,16
+Material,Scenario 2,1,3,4,7
+Material,Scenario 2,2,2,3,10
+Material,Scenario 2,2,2,4,12
+Material,Scenario 2,3,3,4,21
+Material,Scenario 2,2,3,3,12
+Material,Scenario 2,1,2,1,3
+Material,Scenario 2,2,4,3,14
+Material,Scenario 2,2,2,4,12
+Material,Scenario 2,3,4,4,24
+Material,Scenario 2,2,2,4,12
+Material,Scenario 2,2,4,4,16
+Material,Scenario 2,3,4,4,24
+Material,Scenario 2,1,2,2,4
+Material,Scenario 2,1,3,4,7
+Material,Scenario 2,2,2,4,12
+Material,Scenario 2,2,3,4,14
+Material,Scenario 2,2,3,4,14
+Material,Scenario 2,1,1,2,3
+Material,Scenario 2,2,3,4,14
+Material,Scenario 2,3,4,4,24
+Material,Scenario 2,3,3,2,15
+Material,Scenario 2,3,2,2,12
+Material,Scenario 2,3,3,3,18
+Leadership & Education,Scenario 2,1,4,4,8
+Leadership & Education,Scenario 2,2,4,3,14
+Leadership & Education,Scenario 2,2,4,3,14
+Leadership & Education,Scenario 2,2,4,3,14
+Leadership & Education,Scenario 2,2,3,4,14
+Leadership & Education,Scenario 2,2,3,3,12
+Leadership & Education,Scenario 2,2,2,4,12
+Leadership & Education,Scenario 2,3,3,4,21
+Leadership & Education,Scenario 2,1,1,4,5
+Leadership & Education,Scenario 2,2,3,3,12
+Leadership & Education,Scenario 2,2,4,4,16
+Leadership & Education,Scenario 2,3,4,4,24
+Leadership & Education,Scenario 2,3,4,4,24
+Leadership & Education,Scenario 2,2,2,3,10
+Leadership & Education,Scenario 2,2,3,4,14
+Leadership & Education,Scenario 2,3,3,2,15
+Leadership & Education,Scenario 2,2,4,4,16
+Leadership & Education,Scenario 2,2,3,4,14
+Leadership & Education,Scenario 2,1,3,4,7
+Leadership & Education,Scenario 2,3,4,4,24
+Leadership & Education,Scenario 2,3,2,4,18
+Leadership & Education,Scenario 2,1,2,4,6
+Leadership & Education,Scenario 2,2,3,4,14
+Leadership & Education,Scenario 2,1,1,1,2
+Leadership & Education,Scenario 2,1,2,4,6
+Leadership & Education,Scenario 2,2,2,4,12
+Leadership & Education,Scenario 2,3,4,2,18
+Leadership & Education,Scenario 2,2,2,2,8
+Leadership & Education,Scenario 2,2,2,2,8
+Personnel,Scenario 2,2,4,4,16
+Personnel,Scenario 2,2,4,4,16
+Personnel,Scenario 2,2,4,4,16
+Personnel,Scenario 2,2,4,4,16
+Personnel,Scenario 2,1,3,4,7
+Personnel,Scenario 2,3,4,4,24
+Personnel,Scenario 2,2,2,3,10
+Personnel,Scenario 2,3,3,4,21
+Personnel,Scenario 2,1,2,4,6
+Personnel,Scenario 2,2,3,3,12
+Personnel,Scenario 2,2,4,4,16
+Personnel,Scenario 2,1,1,0,1
+Personnel,Scenario 2,2,4,4,16
+Personnel,Scenario 2,2,3,4,14
+Personnel,Scenario 2,2,4,4,16
+Personnel,Scenario 2,3,4,4,24
+Personnel,Scenario 2,2,4,4,16
+Personnel,Scenario 2,2,3,4,14
+Personnel,Scenario 2,2,4,3,14
+Personnel,Scenario 2,1,3,4,7
+Personnel,Scenario 2,1,2,4,6
+Personnel,Scenario 2,2,3,4,14
+Personnel,Scenario 2,3,4,4,24
+Personnel,Scenario 2,2,1,2,6
+Personnel,Scenario 2,1,3,4,7
+Personnel,Scenario 2,2,3,4,14
+Personnel,Scenario 2,2,3,2,10
+Personnel,Scenario 2,2,2,2,8
+Personnel,Scenario 2,3,3,3,18
+Facilities,Scenario 2,1,4,4,8
+Facilities,Scenario 2,2,1,1,4
+Facilities,Scenario 2,2,1,1,4
+Facilities,Scenario 2,2,1,1,4
+Facilities,Scenario 2,1,2,2,4
+Facilities,Scenario 2,1,2,2,4
+Facilities,Scenario 2,1,1,0,1
+Facilities,Scenario 2,1,1,4,5
+Facilities,Scenario 2,1,2,4,6
+Facilities,Scenario 2,1,3,2,5
+Facilities,Scenario 2,2,4,4,16
+Facilities,Scenario 2,0,0,0,0
+Facilities,Scenario 2,1,2,2,4
+Facilities,Scenario 2,1,2,4,6
+Facilities,Scenario 2,1,2,3,5
+Facilities,Scenario 2,2,1,2,6
+Facilities,Scenario 2,1,4,4,8
+Facilities,Scenario 2,1,2,4,6
+Facilities,Scenario 2,2,3,3,12
+Facilities,Scenario 2,1,3,4,7
+Facilities,Scenario 2,1,1,2,3
+Facilities,Scenario 2,1,2,4,6
+Facilities,Scenario 2,1,3,4,7
+Facilities,Scenario 2,-1,0,1,-1
+Facilities,Scenario 2,1,1,4,5
+Facilities,Scenario 2,1,1,4,5
+Facilities,Scenario 2,2,2,2,8
+Facilities,Scenario 2,2,2,2,8
+Facilities,Scenario 2,2,2,2,8
+Policy,Scenario 2,3,4,4,24
+Policy,Scenario 2,3,3,2,15
+Policy,Scenario 2,2,4,3,14
+Policy,Scenario 2,2,4,3,14
+Policy,Scenario 2,3,3,4,21
+Policy,Scenario 2,3,3,4,21
+Policy,Scenario 2,-1,2,4,-6
+Policy,Scenario 2,2,3,4,14
+Policy,Scenario 2,3,4,4,24
+Policy,Scenario 2,3,3,4,21
+Policy,Scenario 2,2,4,4,16
+Policy,Scenario 2,1,1,0,1
+Policy,Scenario 2,3,4,4,24
+Policy,Scenario 2,3,4,4,24
+Policy,Scenario 2,2,3,4,14
+Policy,Scenario 2,1,1,4,5
+Policy,Scenario 2,2,4,4,16
+Policy,Scenario 2,3,4,4,24
+Policy,Scenario 2,2,4,4,16
+Policy,Scenario 2,3,3,4,21
+Policy,Scenario 2,3,4,4,24
+Policy,Scenario 2,2,3,4,14
+Policy,Scenario 2,2,4,4,16
+Policy,Scenario 2,2,2,2,8
+Policy,Scenario 2,1,2,4,6
+Policy,Scenario 2,2,3,4,14
+Policy,Scenario 2,2,2,2,8
+Policy,Scenario 2,2,2,2,8
+Policy,Scenario 2,1,2,3,5
+Authorities,Scenario 2,2,4,4,16
+Authorities,Scenario 2,1,2,2,4
+Authorities,Scenario 2,2,4,3,14
+Authorities,Scenario 2,2,4,3,14
+Authorities,Scenario 2,3,3,4,21
+Authorities,Scenario 2,3,3,4,21
+Authorities,Scenario 2,-1,4,3,-7
+Authorities,Scenario 2,3,3,4,21
+Authorities,Scenario 2,3,4,4,24
+Authorities,Scenario 2,3,3,4,21
+Authorities,Scenario 2,2,4,4,16
+Authorities,Scenario 2,0,0,0,0
+Authorities,Scenario 2,2,4,4,16
+Authorities,Scenario 2,0,0,0,0
+Authorities,Scenario 2,3,4,4,24
+Authorities,Scenario 2,3,3,4,21
+Authorities,Scenario 2,2,4,4,16
+Authorities,Scenario 2,2,3,4,14
+Authorities,Scenario 2,2,4,4,16
+Authorities,Scenario 2,3,3,4,21
+Authorities,Scenario 2,3,4,4,24
+Authorities,Scenario 2,2,3,4,14
+Authorities,Scenario 2,2,4,4,16
+Authorities,Scenario 2,2,1,2,6
+Authorities,Scenario 2,1,2,4,6
+Authorities,Scenario 2,2,3,4,14
+Authorities,Scenario 2,2,2,2,8
+Authorities,Scenario 2,3,2,2,12
+Authorities,Scenario 2,2,2,3,10
+Permissions,Scenario 2,3,4,4,24
+Permissions,Scenario 2,1,2,2,4
+Permissions,Scenario 2,2,4,3,14
+Permissions,Scenario 2,2,4,4,16
+Permissions,Scenario 2,3,4,4,24
+Permissions,Scenario 2,3,3,4,21
+Permissions,Scenario 2,1,4,3,7
+Permissions,Scenario 2,3,3,4,21
+Permissions,Scenario 2,3,4,4,24
+Permissions,Scenario 2,3,3,4,21
+Permissions,Scenario 2,2,4,4,16
+Permissions,Scenario 2,0,0,0,0
+Permissions,Scenario 2,3,4,4,24
+Permissions,Scenario 2,0,0,0,0
+Permissions,Scenario 2,3,4,4,24
+Permissions,Scenario 2,3,2,4,18
+Permissions,Scenario 2,2,4,4,16
+Permissions,Scenario 2,3,4,4,24
+Permissions,Scenario 2,1,4,4,8
+Permissions,Scenario 2,3,3,4,21
+Permissions,Scenario 2,3,4,4,24
+Permissions,Scenario 2,2,3,4,14
+Permissions,Scenario 2,2,4,4,16
+Permissions,Scenario 2,1,2,1,3
+Permissions,Scenario 2,1,2,4,6
+Permissions,Scenario 2,2,3,4,14
+Permissions,Scenario 2,2,2,2,8
+Permissions,Scenario 2,3,2,2,12
+Permissions,Scenario 2,2,2,3,10
+Operational Planning,Scenario 2,3,4,4,24
+Operational Planning,Scenario 2,3,2,2,12
+Operational Planning,Scenario 2,2,4,4,16
+Operational Planning,Scenario 2,2,3,4,14
+Operational Planning,Scenario 2,3,3,4,21
+Operational Planning,Scenario 2,2,3,4,14
+Operational Planning,Scenario 2,2,2,3,10
+Operational Planning,Scenario 2,2,3,4,14
+Operational Planning,Scenario 2,2,2,4,12
+Operational Planning,Scenario 2,3,4,4,24
+Operational Planning,Scenario 2,2,4,4,16
+Operational Planning,Scenario 2,2,2,1,6
+Operational Planning,Scenario 2,3,4,4,24
+Operational Planning,Scenario 2,2,3,3,12
+Operational Planning,Scenario 2,2,3,4,14
+Operational Planning,Scenario 2,2,1,2,6
+Operational Planning,Scenario 2,1,4,4,8
+Operational Planning,Scenario 2,2,3,4,14
+Operational Planning,Scenario 2,2,4,4,16
+Operational Planning,Scenario 2,3,4,4,24
+Operational Planning,Scenario 2,3,3,4,21
+Operational Planning,Scenario 2,2,2,4,12
+Operational Planning,Scenario 2,3,4,4,24
+Operational Planning,Scenario 2,1,0,1,1
+Operational Planning,Scenario 2,2,3,4,14
+Operational Planning,Scenario 2,3,2,4,18
+Operational Planning,Scenario 2,2,3,2,10
+Operational Planning,Scenario 2,2,2,2,8
+Operational Planning,Scenario 2,2,3,4,14
+"Organizational Relationships, Structure, Exchange",Scenario 2,3,4,4,24
+"Organizational Relationships, Structure, Exchange",Scenario 2,1,2,2,4
+"Organizational Relationships, Structure, Exchange",Scenario 2,2,3,4,14
+"Organizational Relationships, Structure, Exchange",Scenario 2,2,3,4,14
+"Organizational Relationships, Structure, Exchange",Scenario 2,3,3,4,21
+"Organizational Relationships, Structure, Exchange",Scenario 2,2,2,4,12
+"Organizational Relationships, Structure, Exchange",Scenario 2,2,3,3,12
+"Organizational Relationships, Structure, Exchange",Scenario 2,3,4,4,24
+"Organizational Relationships, Structure, Exchange",Scenario 2,2,2,4,12
+"Organizational Relationships, Structure, Exchange",Scenario 2,3,4,4,24
+"Organizational Relationships, Structure, Exchange",Scenario 2,3,4,4,24
+"Organizational Relationships, Structure, Exchange",Scenario 2,3,4,4,24
+"Organizational Relationships, Structure, Exchange",Scenario 2,3,3,2,15
+"Organizational Relationships, Structure, Exchange",Scenario 2,2,3,2,10
+"Organizational Relationships, Structure, Exchange",Scenario 2,3,4,4,24
+"Organizational Relationships, Structure, Exchange",Scenario 2,2,2,2,8
+"Organizational Relationships, Structure, Exchange",Scenario 2,2,4,4,16
+"Organizational Relationships, Structure, Exchange",Scenario 2,2,2,4,12
+"Organizational Relationships, Structure, Exchange",Scenario 2,1,3,3,6
+"Organizational Relationships, Structure, Exchange",Scenario 2,3,3,4,21
+"Organizational Relationships, Structure, Exchange",Scenario 2,2,2,4,12
+"Organizational Relationships, Structure, Exchange",Scenario 2,2,2,4,12
+"Organizational Relationships, Structure, Exchange",Scenario 2,2,4,4,16
+"Organizational Relationships, Structure, Exchange",Scenario 2,2,1,2,6
+"Organizational Relationships, Structure, Exchange",Scenario 2,1,2,4,6
+"Organizational Relationships, Structure, Exchange",Scenario 2,3,2,4,18
+"Organizational Relationships, Structure, Exchange",Scenario 2,3,3,2,15
+"Organizational Relationships, Structure, Exchange",Scenario 2,2,2,2,8
+"Organizational Relationships, Structure, Exchange",Scenario 2,2,2,3,10
+Masked,Scenario 2,3,4,4,24
+Masked,Scenario 2,3,2,1,9
+Masked,Scenario 2,2,4,4,16
+Masked,Scenario 2,2,4,4,16
+Masked,Scenario 2,2,4,4,16
+Masked,Scenario 2,2,4,4,16
+Masked,Scenario 2,3,3,3,18
+Masked,Scenario 2,2,3,4,14
+Masked,Scenario 2,2,2,4,12
+Masked,Scenario 2,3,3,3,18
+Masked,Scenario 2,3,4,4,24
+Masked,Scenario 2,2,4,2,12
+Masked,Scenario 2,3,4,4,24
+Masked,Scenario 2,2,3,3,12
+Masked,Scenario 2,3,4,4,24
+Masked,Scenario 2,2,2,2,8
+Masked,Scenario 2,-1,4,4,-8
+Masked,Scenario 2,2,3,4,14
+Masked,Scenario 2,1,4,4,8
+Masked,Scenario 2,3,3,4,21
+Masked,Scenario 2,2,2,3,10
+Masked,Scenario 2,1,3,4,7
+Masked,Scenario 2,3,4,4,24
+Masked,Scenario 2,2,2,2,8
+Masked,Scenario 2,3,3,4,21
+Masked,Scenario 2,3,4,4,24
+Masked,Scenario 2,3,3,2,15
+Masked,Scenario 2,2,2,2,8
+Masked,Scenario 2,3,4,3,21
+TS/SAP/STO Access at Echelon,Scenario 2,3,4,4,24
+TS/SAP/STO Access at Echelon,Scenario 2,3,2,1,9
+TS/SAP/STO Access at Echelon,Scenario 2,2,4,4,16
+TS/SAP/STO Access at Echelon,Scenario 2,2,4,4,16
+TS/SAP/STO Access at Echelon,Scenario 2,3,3,4,21
+TS/SAP/STO Access at Echelon,Scenario 2,2,3,4,14
+TS/SAP/STO Access at Echelon,Scenario 2,-1,2,4,-6
+TS/SAP/STO Access at Echelon,Scenario 2,2,3,4,14
+TS/SAP/STO Access at Echelon,Scenario 2,3,3,4,21
+TS/SAP/STO Access at Echelon,Scenario 2,3,4,4,24
+TS/SAP/STO Access at Echelon,Scenario 2,3,4,4,24
+TS/SAP/STO Access at Echelon,Scenario 2,2,2,2,8
+TS/SAP/STO Access at Echelon,Scenario 2,3,4,4,24
+TS/SAP/STO Access at Echelon,Scenario 2,0,0,0,0
+TS/SAP/STO Access at Echelon,Scenario 2,3,4,4,24
+TS/SAP/STO Access at Echelon,Scenario 2,3,1,2,9
+TS/SAP/STO Access at Echelon,Scenario 2,1,4,4,8
+TS/SAP/STO Access at Echelon,Scenario 2,1,2,4,6
+TS/SAP/STO Access at Echelon,Scenario 2,1,4,3,7
+TS/SAP/STO Access at Echelon,Scenario 2,3,2,4,18
+TS/SAP/STO Access at Echelon,Scenario 2,2,2,2,8
+TS/SAP/STO Access at Echelon,Scenario 2,2,3,4,14
+TS/SAP/STO Access at Echelon,Scenario 2,2,2,4,12
+TS/SAP/STO Access at Echelon,Scenario 2,1,1,2,3
+TS/SAP/STO Access at Echelon,Scenario 2,2,2,3,10
+TS/SAP/STO Access at Echelon,Scenario 2,2,2,4,12
+TS/SAP/STO Access at Echelon,Scenario 2,2,2,2,8
+TS/SAP/STO Access at Echelon,Scenario 2,3,2,2,12
+TS/SAP/STO Access at Echelon,Scenario 2,3,4,4,24
+Places/Venues to Train/Validate,Scenario 2,3,4,4,24
+Places/Venues to Train/Validate,Scenario 2,1,2,2,4
+Places/Venues to Train/Validate,Scenario 2,1,3,3,6
+Places/Venues to Train/Validate,Scenario 2,1,3,3,6
+Places/Venues to Train/Validate,Scenario 2,1,2,2,4
+Places/Venues to Train/Validate,Scenario 2,1,2,4,6
+Places/Venues to Train/Validate,Scenario 2,3,3,2,15
+Places/Venues to Train/Validate,Scenario 2,3,2,4,18
+Places/Venues to Train/Validate,Scenario 2,1,1,4,5
+Places/Venues to Train/Validate,Scenario 2,1,4,3,7
+Places/Venues to Train/Validate,Scenario 2,1,4,4,8
+Places/Venues to Train/Validate,Scenario 2,3,3,2,15
+Places/Venues to Train/Validate,Scenario 2,2,3,2,10
+Places/Venues to Train/Validate,Scenario 2,2,2,3,10
+Places/Venues to Train/Validate,Scenario 2,1,2,4,6
+Places/Venues to Train/Validate,Scenario 2,3,3,2,15
+Places/Venues to Train/Validate,Scenario 2,1,4,4,8
+Places/Venues to Train/Validate,Scenario 2,2,3,4,14
+Places/Venues to Train/Validate,Scenario 2,2,4,4,16
+Places/Venues to Train/Validate,Scenario 2,1,2,4,6
+Places/Venues to Train/Validate,Scenario 2,3,2,4,18
+Places/Venues to Train/Validate,Scenario 2,1,2,4,6
+Places/Venues to Train/Validate,Scenario 2,1,3,4,7
+Places/Venues to Train/Validate,Scenario 2,0,1,1,0
+Places/Venues to Train/Validate,Scenario 2,1,1,4,5
+Places/Venues to Train/Validate,Scenario 2,3,4,4,24
+Places/Venues to Train/Validate,Scenario 2,3,3,2,15
+Places/Venues to Train/Validate,Scenario 2,3,2,2,12
+Places/Venues to Train/Validate,Scenario 2,2,2,3,10
+C2 COP System of Systems,Scenario 2,3,4,4,24
+C2 COP System of Systems,Scenario 2,2,1,4,10
+C2 COP System of Systems,Scenario 2,1,3,3,6
+C2 COP System of Systems,Scenario 2,1,3,4,7
+C2 COP System of Systems,Scenario 2,3,4,4,24
+C2 COP System of Systems,Scenario 2,2,2,4,12
+C2 COP System of Systems,Scenario 2,2,2,2,8
+C2 COP System of Systems,Scenario 2,2,2,3,10
+C2 COP System of Systems,Scenario 2,2,1,4,10
+C2 COP System of Systems,Scenario 2,3,2,2,12
+C2 COP System of Systems,Scenario 2,3,4,4,24
+C2 COP System of Systems,Scenario 2,2,2,4,12
+C2 COP System of Systems,Scenario 2,2,3,3,12
+C2 COP System of Systems,Scenario 2,2,2,4,12
+C2 COP System of Systems,Scenario 2,3,4,4,24
+C2 COP System of Systems,Scenario 2,2,1,2,6
+C2 COP System of Systems,Scenario 2,1,4,4,8
+C2 COP System of Systems,Scenario 2,2,3,4,14
+C2 COP System of Systems,Scenario 2,1,4,4,8
+C2 COP System of Systems,Scenario 2,3,3,4,21
+C2 COP System of Systems,Scenario 2,3,2,4,18
+C2 COP System of Systems,Scenario 2,3,4,4,24
+C2 COP System of Systems,Scenario 2,3,4,4,24
+C2 COP System of Systems,Scenario 2,2,1,2,6
+C2 COP System of Systems,Scenario 2,2,2,4,12
+C2 COP System of Systems,Scenario 2,2,2,4,12
+C2 COP System of Systems,Scenario 2,3,4,2,18
+C2 COP System of Systems,Scenario 2,3,2,2,12
+C2 COP System of Systems,Scenario 2,2,2,3,10
+Secure/Assured Communications w/ Partner Share,Scenario 2,3,4,4,24
+Secure/Assured Communications w/ Partner Share,Scenario 2,2,3,4,14
+Secure/Assured Communications w/ Partner Share,Scenario 2,2,4,4,16
+Secure/Assured Communications w/ Partner Share,Scenario 2,2,4,4,16
+Secure/Assured Communications w/ Partner Share,Scenario 2,2,3,4,14
+Secure/Assured Communications w/ Partner Share,Scenario 2,3,4,4,24
+Secure/Assured Communications w/ Partner Share,Scenario 2,3,3,2,15
+Secure/Assured Communications w/ Partner Share,Scenario 2,2,3,3,12
+Secure/Assured Communications w/ Partner Share,Scenario 2,2,2,4,12
+Secure/Assured Communications w/ Partner Share,Scenario 2,1,3,3,6
+Secure/Assured Communications w/ Partner Share,Scenario 2,3,4,4,24
+Secure/Assured Communications w/ Partner Share,Scenario 2,2,2,4,12
+Secure/Assured Communications w/ Partner Share,Scenario 2,3,4,4,24
+Secure/Assured Communications w/ Partner Share,Scenario 2,2,3,3,12
+Secure/Assured Communications w/ Partner Share,Scenario 2,3,4,4,24
+Secure/Assured Communications w/ Partner Share,Scenario 2,2,3,2,10
+Secure/Assured Communications w/ Partner Share,Scenario 2,2,4,4,16
+Secure/Assured Communications w/ Partner Share,Scenario 2,2,3,4,14
+Secure/Assured Communications w/ Partner Share,Scenario 2,1,4,4,8
+Secure/Assured Communications w/ Partner Share,Scenario 2,3,3,4,21
+Secure/Assured Communications w/ Partner Share,Scenario 2,2,2,4,12
+Secure/Assured Communications w/ Partner Share,Scenario 2,2,2,4,12
+Secure/Assured Communications w/ Partner Share,Scenario 2,2,4,4,16
+Secure/Assured Communications w/ Partner Share,Scenario 2,2,2,2,8
+Secure/Assured Communications w/ Partner Share,Scenario 2,1,2,4,6
+Secure/Assured Communications w/ Partner Share,Scenario 2,2,2,3,10
+Secure/Assured Communications w/ Partner Share,Scenario 2,3,4,2,18
+Secure/Assured Communications w/ Partner Share,Scenario 2,3,2,2,12
+Secure/Assured Communications w/ Partner Share,Scenario 2,3,3,3,18
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 2,3,4,4,24
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 2,2,3,3,12
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 2,2,3,4,14
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 2,2,3,4,14
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 2,2,3,4,14
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 2,2,3,4,14
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 2,2,2,4,12
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 2,2,2,3,10
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 2,1,2,4,6
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 2,1,2,2,4
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 2,2,4,4,16
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 2,2,3,2,10
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 2,2,4,4,16
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 2,2,2,4,12
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 2,2,2,4,12
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 2,2,3,3,12
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 2,3,4,4,24
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 2,2,3,4,14
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 2,3,4,4,24
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 2,1,2,4,6
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 2,2,1,4,10
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 2,2,2,4,12
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 2,2,4,4,16
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 2,1,2,3,5
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 2,1,3,4,7
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 2,2,3,4,14
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 2,2,2,2,8
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 2,2,2,2,8
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 2,2,2,2,8
+Mission Command Culture,Scenario 2,3,4,4,24
+Mission Command Culture,Scenario 2,2,2,4,12
+Mission Command Culture,Scenario 2,1,2,4,6
+Mission Command Culture,Scenario 2,1,2,4,6
+Mission Command Culture,Scenario 2,2,3,4,14
+Mission Command Culture,Scenario 2,2,4,4,16
+Mission Command Culture,Scenario 2,3,3,2,15
+Mission Command Culture,Scenario 2,2,3,3,12
+Mission Command Culture,Scenario 2,2,2,4,12
+Mission Command Culture,Scenario 2,3,4,3,21
+Mission Command Culture,Scenario 2,2,4,4,16
+Mission Command Culture,Scenario 2,1,1,1,2
+Mission Command Culture,Scenario 2,2,4,4,16
+Mission Command Culture,Scenario 2,2,3,3,12
+Mission Command Culture,Scenario 2,2,3,4,14
+Mission Command Culture,Scenario 2,3,2,2,12
+Mission Command Culture,Scenario 2,1,4,4,8
+Mission Command Culture,Scenario 2,2,3,4,14
+Mission Command Culture,Scenario 2,3,4,4,24
+Mission Command Culture,Scenario 2,2,2,4,12
+Mission Command Culture,Scenario 2,2,2,4,12
+Mission Command Culture,Scenario 2,3,4,4,24
+Mission Command Culture,Scenario 2,1,3,4,7
+Mission Command Culture,Scenario 2,2,2,3,10
+Mission Command Culture,Scenario 2,1,2,4,6
+Mission Command Culture,Scenario 2,3,3,4,21
+Mission Command Culture,Scenario 2,2,2,2,8
+Mission Command Culture,Scenario 2,2,2,2,8
+Mission Command Culture,Scenario 2,2,2,3,10
+Enhance Resilience,Scenario 3,2,3,4,14
+Enhance Resilience,Scenario 3,1,1,2,3
+Enhance Resilience,Scenario 3,2,2,3,10
+Enhance Resilience,Scenario 3,2,4,3,14
+Enhance Resilience,Scenario 3,2,2,4,12
+Enhance Resilience,Scenario 3,2,2,4,12
+Enhance Resilience,Scenario 3,2,2,2,8
+Enhance Resilience,Scenario 3,1,1,4,5
+Enhance Resilience,Scenario 3,1,2,4,6
+Enhance Resilience,Scenario 3,2,4,4,16
+Enhance Resilience,Scenario 3,2,4,4,16
+Enhance Resilience,Scenario 3,2,4,4,16
+Enhance Resilience,Scenario 3,2,2,4,12
+Enhance Resilience,Scenario 3,1,2,4,6
+Enhance Resilience,Scenario 3,2,2,4,12
+Enhance Resilience,Scenario 3,1,3,4,7
+Enhance Resilience,Scenario 3,1,1,4,5
+Enhance Resilience,Scenario 3,2,3,3,12
+Enhance Resilience,Scenario 3,1,1,2,3
+Enhance Resilience,Scenario 3,2,2,4,12
+Enhance Resilience,Scenario 3,3,2,3,15
+Enhance Resilience,Scenario 3,1,1,4,5
+Enhance Resilience,Scenario 3,2,3,2,10
+Develop Resistance Forces,Scenario 3,1,2,4,6
+Develop Resistance Forces,Scenario 3,1,2,1,3
+Develop Resistance Forces,Scenario 3,2,2,3,10
+Develop Resistance Forces,Scenario 3,2,3,2,10
+Develop Resistance Forces,Scenario 3,2,2,4,12
+Develop Resistance Forces,Scenario 3,2,2,4,12
+Develop Resistance Forces,Scenario 3,1,1,4,5
+Develop Resistance Forces,Scenario 3,1,2,4,6
+Develop Resistance Forces,Scenario 3,1,2,4,6
+Develop Resistance Forces,Scenario 3,1,2,4,6
+Develop Resistance Forces,Scenario 3,1,4,4,8
+Develop Resistance Forces,Scenario 3,1,4,4,8
+Develop Resistance Forces,Scenario 3,2,4,4,16
+Develop Resistance Forces,Scenario 3,1,2,4,6
+Develop Resistance Forces,Scenario 3,2,2,4,12
+Develop Resistance Forces,Scenario 3,2,3,4,14
+Develop Resistance Forces,Scenario 3,3,3,2,15
+Develop Resistance Forces,Scenario 3,2,3,2,10
+Develop Resistance Forces,Scenario 3,3,3,4,21
+Develop Resistance Forces,Scenario 3,2,1,4,10
+Develop Resistance Forces,Scenario 3,2,3,4,14
+Develop Resistance Forces,Scenario 3,1,3,4,7
+Develop Resistance Forces,Scenario 3,1,3,4,7
+Develop Resistance Forces,Scenario 3,2,4,4,16
+Develop Resistance Forces,Scenario 3,3,2,3,15
+Develop Resistance Forces,Scenario 3,2,1,2,6
+Develop Resistance Forces,Scenario 3,1,3,4,7
+Consolidate Gains,Scenario 3,0,0,0,0
+Civil Network Development and Engagement,Scenario 3,1,2,4,6
+Civil Network Development and Engagement,Scenario 3,1,2,2,4
+Civil Network Development and Engagement,Scenario 3,2,2,3,10
+Civil Network Development and Engagement,Scenario 3,2,3,4,14
+Civil Network Development and Engagement,Scenario 3,2,2,4,12
+Civil Network Development and Engagement,Scenario 3,3,2,3,15
+Civil Network Development and Engagement,Scenario 3,2,2,4,12
+Civil Network Development and Engagement,Scenario 3,2,2,4,12
+Civil Network Development and Engagement,Scenario 3,1,1,4,5
+Civil Network Development and Engagement,Scenario 3,2,3,4,14
+Civil Network Development and Engagement,Scenario 3,2,2,2,8
+Civil Network Development and Engagement,Scenario 3,2,2,4,12
+Civil Network Development and Engagement,Scenario 3,1,4,4,8
+Civil Network Development and Engagement,Scenario 3,1,4,4,8
+Civil Network Development and Engagement,Scenario 3,1,4,4,8
+Civil Network Development and Engagement,Scenario 3,2,2,3,10
+Civil Network Development and Engagement,Scenario 3,3,3,4,21
+Civil Network Development and Engagement,Scenario 3,2,2,4,12
+Civil Network Development and Engagement,Scenario 3,3,2,2,12
+Civil Network Development and Engagement,Scenario 3,1,3,4,7
+Civil Network Development and Engagement,Scenario 3,1,3,4,7
+Civil Network Development and Engagement,Scenario 3,2,3,4,14
+Civil Network Development and Engagement,Scenario 3,0,1,2,0
+Civil Network Development and Engagement,Scenario 3,1,3,4,7
+Civil Network Development and Engagement,Scenario 3,2,2,4,12
+Multidomain Special Reconnaissance,Scenario 3,2,3,4,14
+Multidomain Special Reconnaissance,Scenario 3,3,2,4,18
+Multidomain Special Reconnaissance,Scenario 3,2,3,4,14
+Multidomain Special Reconnaissance,Scenario 3,3,3,4,21
+Multidomain Special Reconnaissance,Scenario 3,2,3,4,14
+Multidomain Special Reconnaissance,Scenario 3,2,3,4,14
+Multidomain Special Reconnaissance,Scenario 3,2,3,4,14
+Multidomain Special Reconnaissance,Scenario 3,2,2,4,12
+Multidomain Special Reconnaissance,Scenario 3,2,1,3,8
+Multidomain Special Reconnaissance,Scenario 3,1,2,3,5
+Multidomain Special Reconnaissance,Scenario 3,1,2,4,6
+Multidomain Special Reconnaissance,Scenario 3,3,3,4,21
+Multidomain Special Reconnaissance,Scenario 3,3,4,4,24
+Multidomain Special Reconnaissance,Scenario 3,3,3,4,21
+Multidomain Special Reconnaissance,Scenario 3,2,3,4,14
+Multidomain Special Reconnaissance,Scenario 3,2,3,4,14
+Multidomain Special Reconnaissance,Scenario 3,2,3,4,14
+Multidomain Special Reconnaissance,Scenario 3,2,3,4,14
+Multidomain Special Reconnaissance,Scenario 3,2,2,3,10
+Multidomain Special Reconnaissance,Scenario 3,1,2,3,5
+Multidomain Special Reconnaissance,Scenario 3,2,4,3,14
+Multidomain Special Reconnaissance,Scenario 3,-1,1,0,-1
+Multidomain Special Reconnaissance,Scenario 3,2,3,4,14
+Multidomain Special Reconnaissance,Scenario 3,2,2,3,10
+Multidomain Special Reconnaissance,Scenario 3,1,3,3,6
+Illuminate Corp/Op/Strat Deep,Scenario 3,2,3,4,14
+Illuminate Corp/Op/Strat Deep,Scenario 3,2,4,4,16
+Illuminate Corp/Op/Strat Deep,Scenario 3,2,4,4,16
+Illuminate Corp/Op/Strat Deep,Scenario 3,1,3,4,7
+Illuminate Corp/Op/Strat Deep,Scenario 3,2,4,4,16
+Illuminate Corp/Op/Strat Deep,Scenario 3,2,3,2,10
+Illuminate Corp/Op/Strat Deep,Scenario 3,3,2,4,18
+Illuminate Corp/Op/Strat Deep,Scenario 3,2,2,4,12
+Illuminate Corp/Op/Strat Deep,Scenario 3,2,1,4,10
+Illuminate Corp/Op/Strat Deep,Scenario 3,1,2,2,4
+Illuminate Corp/Op/Strat Deep,Scenario 3,1,3,4,7
+Illuminate Corp/Op/Strat Deep,Scenario 3,2,3,4,14
+Illuminate Corp/Op/Strat Deep,Scenario 3,2,3,3,12
+Illuminate Corp/Op/Strat Deep,Scenario 3,2,3,4,14
+Illuminate Corp/Op/Strat Deep,Scenario 3,2,4,4,16
+Illuminate Corp/Op/Strat Deep,Scenario 3,2,4,2,12
+Illuminate Corp/Op/Strat Deep,Scenario 3,2,2,4,12
+Illuminate Corp/Op/Strat Deep,Scenario 3,2,3,3,12
+Illuminate Corp/Op/Strat Deep,Scenario 3,2,2,4,12
+Illuminate Corp/Op/Strat Deep,Scenario 3,2,4,4,16
+Illuminate Corp/Op/Strat Deep,Scenario 3,2,3,4,14
+Remote Advise Assist Operations,Scenario 3,2,3,4,14
+Remote Advise Assist Operations,Scenario 3,2,3,4,14
+Remote Advise Assist Operations,Scenario 3,2,3,4,14
+Remote Advise Assist Operations,Scenario 3,1,3,4,7
+Remote Advise Assist Operations,Scenario 3,2,3,4,14
+Remote Advise Assist Operations,Scenario 3,2,3,4,14
+Remote Advise Assist Operations,Scenario 3,2,2,4,12
+Remote Advise Assist Operations,Scenario 3,3,2,4,18
+Remote Advise Assist Operations,Scenario 3,2,1,3,8
+Remote Advise Assist Operations,Scenario 3,1,3,3,6
+Remote Advise Assist Operations,Scenario 3,2,2,4,12
+Remote Advise Assist Operations,Scenario 3,1,2,2,4
+Remote Advise Assist Operations,Scenario 3,3,3,4,21
+Remote Advise Assist Operations,Scenario 3,2,3,4,14
+Remote Advise Assist Operations,Scenario 3,2,2,4,12
+Remote Advise Assist Operations,Scenario 3,1,1,4,5
+Remote Advise Assist Operations,Scenario 3,1,3,4,7
+Remote Advise Assist Operations,Scenario 3,2,2,3,10
+Remote Advise Assist Operations,Scenario 3,1,2,1,3
+Remote Advise Assist Operations,Scenario 3,1,2,4,6
+Remote Advise Assist Operations,Scenario 3,1,3,4,7
+Remote Advise Assist Operations,Scenario 3,2,2,3,10
+Remote Advise Assist Operations,Scenario 3,2,2,4,12
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 3,2,3,4,14
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 3,3,2,2,12
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 3,2,4,4,16
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 3,3,2,2,12
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 3,3,4,4,24
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 3,2,3,4,14
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 3,2,2,4,12
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 3,2,1,2,6
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 3,3,3,4,21
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 3,3,3,3,18
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 3,2,3,4,14
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 3,2,2,2,8
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 3,2,3,4,14
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 3,2,2,2,8
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 3,2,1,1,4
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 3,2,3,4,14
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 3,3,4,4,24
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 3,3,1,2,9
+"Extend, Expand, & Terrestrially Close MD Mx Threads",Scenario 3,2,2,4,12
+Strategic Sabatoge,Scenario 3,2,3,4,14
+Strategic Sabatoge,Scenario 3,3,2,4,18
+Strategic Sabatoge,Scenario 3,1,3,4,7
+Strategic Sabatoge,Scenario 3,-1,2,3,-5
+Strategic Sabatoge,Scenario 3,2,2,4,12
+Strategic Sabatoge,Scenario 3,2,4,4,16
+Strategic Sabatoge,Scenario 3,3,4,4,24
+Strategic Sabatoge,Scenario 3,2,4,4,16
+Strategic Sabatoge,Scenario 3,3,3,2,15
+Strategic Sabatoge,Scenario 3,3,3,2,15
+Strategic Sabatoge,Scenario 3,3,3,4,21
+Strategic Sabatoge,Scenario 3,3,4,4,24
+Strategic Sabatoge,Scenario 3,2,3,4,14
+Strategic Sabatoge,Scenario 3,1,2,3,5
+Strategic Sabatoge,Scenario 3,3,4,1,15
+Strategic Sabatoge,Scenario 3,2,4,2,12
+Strategic Sabatoge,Scenario 3,3,3,4,21
+Strategic Sabatoge,Scenario 3,2,2,4,12
+Strategic Sabatoge,Scenario 3,2,4,4,16
+Strategic Sabatoge,Scenario 3,3,2,4,18
+Strategic Sabatoge,Scenario 3,2,2,2,8
+Strategic Sabatoge,Scenario 3,2,2,3,10
+Strategic Sabatoge,Scenario 3,1,4,2,6
+Strategic Sabatoge,Scenario 3,3,2,2,12
+Disrupt EN Tactical Support Area,Scenario 3,0,0,0,0
+Expose Adversary Strategic Flanks,Scenario 3,3,3,2,15
+Expose Adversary Strategic Flanks,Scenario 3,3,4,4,24
+Expose Adversary Strategic Flanks,Scenario 3,3,4,4,24
+Expose Adversary Strategic Flanks,Scenario 3,2,3,4,14
+Expose Adversary Strategic Flanks,Scenario 3,2,2,4,12
+Expose Adversary Strategic Flanks,Scenario 3,1,3,2,5
+Expose Adversary Strategic Flanks,Scenario 3,-1,2,3,-5
+Expose Adversary Strategic Flanks,Scenario 3,3,3,4,21
+Expose Adversary Strategic Flanks,Scenario 3,3,4,4,24
+Expose Adversary Strategic Flanks,Scenario 3,3,3,2,15
+Expose Adversary Strategic Flanks,Scenario 3,3,3,2,15
+Expose Adversary Strategic Flanks,Scenario 3,3,3,4,21
+Expose Adversary Strategic Flanks,Scenario 3,2,3,2,10
+Expose Adversary Strategic Flanks,Scenario 3,1,2,2,4
+Expose Adversary Strategic Flanks,Scenario 3,2,3,1,8
+Expose Adversary Strategic Flanks,Scenario 3,2,3,4,14
+Expose Adversary Strategic Flanks,Scenario 3,3,3,4,21
+Expose Adversary Strategic Flanks,Scenario 3,3,3,4,21
+Expose Adversary Strategic Flanks,Scenario 3,2,2,4,12
+Expose Adversary Strategic Flanks,Scenario 3,2,2,4,12
+Expose Adversary Strategic Flanks,Scenario 3,2,2,4,12
+Expose Adversary Strategic Flanks,Scenario 3,2,2,2,8
+Expose Adversary Strategic Flanks,Scenario 3,2,4,3,14
+Unconventional Warfare (Support to Resistance),Scenario 3,2,2,4,12
+Unconventional Warfare (Support to Resistance),Scenario 3,1,2,3,5
+Unconventional Warfare (Support to Resistance),Scenario 3,2,2,4,12
+Unconventional Warfare (Support to Resistance),Scenario 3,2,2,4,12
+Unconventional Warfare (Support to Resistance),Scenario 3,3,2,4,18
+Unconventional Warfare (Support to Resistance),Scenario 3,2,4,4,16
+Unconventional Warfare (Support to Resistance),Scenario 3,2,4,4,16
+Unconventional Warfare (Support to Resistance),Scenario 3,2,4,4,16
+Unconventional Warfare (Support to Resistance),Scenario 3,1,2,2,4
+Unconventional Warfare (Support to Resistance),Scenario 3,2,3,2,10
+Unconventional Warfare (Support to Resistance),Scenario 3,2,2,2,8
+Unconventional Warfare (Support to Resistance),Scenario 3,2,2,4,12
+Unconventional Warfare (Support to Resistance),Scenario 3,2,4,4,16
+Unconventional Warfare (Support to Resistance),Scenario 3,2,4,4,16
+Unconventional Warfare (Support to Resistance),Scenario 3,3,4,4,24
+Unconventional Warfare (Support to Resistance),Scenario 3,2,2,4,12
+Unconventional Warfare (Support to Resistance),Scenario 3,3,3,4,21
+Unconventional Warfare (Support to Resistance),Scenario 3,3,4,4,24
+Unconventional Warfare (Support to Resistance),Scenario 3,2,2,4,12
+Unconventional Warfare (Support to Resistance),Scenario 3,1,3,4,7
+Unconventional Warfare (Support to Resistance),Scenario 3,1,4,2,6
+Unconventional Warfare (Support to Resistance),Scenario 3,2,1,2,6
+Unconventional Warfare (Support to Resistance),Scenario 3,2,1,4,10
+Precision Messaging,Scenario 3,3,3,4,21
+Precision Messaging,Scenario 3,2,2,4,12
+Precision Messaging,Scenario 3,2,2,3,10
+Precision Messaging,Scenario 3,3,3,4,21
+Precision Messaging,Scenario 3,3,3,4,21
+Precision Messaging,Scenario 3,2,2,3,10
+Precision Messaging,Scenario 3,3,3,4,21
+Precision Messaging,Scenario 3,2,4,4,16
+Precision Messaging,Scenario 3,1,1,2,3
+Precision Messaging,Scenario 3,2,2,4,12
+Precision Messaging,Scenario 3,3,3,4,21
+Precision Messaging,Scenario 3,2,2,4,12
+Precision Messaging,Scenario 3,2,3,4,14
+Precision Messaging,Scenario 3,2,3,4,14
+Precision Messaging,Scenario 3,2,2,2,8
+Precision Messaging,Scenario 3,2,4,4,16
+Precision Messaging,Scenario 3,2,4,4,16
+Precision Messaging,Scenario 3,1,2,4,6
+Precision Messaging,Scenario 3,2,4,4,16
+Precision Messaging,Scenario 3,2,2,4,12
+Precision Messaging,Scenario 3,1,1,4,5
+Precision Messaging,Scenario 3,2,3,4,14
+Precision Messaging,Scenario 3,3,4,4,24
+Precision Messaging,Scenario 3,2,3,4,14
+Effect Threat Information Warfare Capabilities,Scenario 3,2,3,4,14
+Effect Threat Information Warfare Capabilities,Scenario 3,2,3,4,14
+Effect Threat Information Warfare Capabilities,Scenario 3,2,3,4,14
+Effect Threat Information Warfare Capabilities,Scenario 3,2,1,4,10
+Effect Threat Information Warfare Capabilities,Scenario 3,2,3,4,14
+Effect Threat Information Warfare Capabilities,Scenario 3,2,2,4,12
+Effect Threat Information Warfare Capabilities,Scenario 3,3,3,4,21
+Effect Threat Information Warfare Capabilities,Scenario 3,2,4,4,16
+Effect Threat Information Warfare Capabilities,Scenario 3,2,4,4,16
+Effect Threat Information Warfare Capabilities,Scenario 3,2,3,3,12
+Effect Threat Information Warfare Capabilities,Scenario 3,3,4,1,15
+Effect Threat Information Warfare Capabilities,Scenario 3,2,3,4,14
+Effect Threat Information Warfare Capabilities,Scenario 3,3,3,4,21
+Effect Threat Information Warfare Capabilities,Scenario 3,2,1,3,8
+Effect Threat Information Warfare Capabilities,Scenario 3,3,3,2,15
+Effect Threat Information Warfare Capabilities,Scenario 3,1,4,4,8
+Effect Threat Information Warfare Capabilities,Scenario 3,3,3,4,21
+Effect Threat Information Warfare Capabilities,Scenario 3,2,2,4,12
+Effect Threat Information Warfare Capabilities,Scenario 3,1,1,4,5
+Effect Threat Information Warfare Capabilities,Scenario 3,2,2,1,6
+Effect Threat Information Warfare Capabilities,Scenario 3,2,2,4,12
+Effect Threat Information Warfare Capabilities,Scenario 3,2,3,4,14
+Effect Threat Information Warfare Capabilities,Scenario 3,2,4,4,16
+Effect Threat Information Warfare Capabilities,Scenario 3,2,1,3,8
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 3,1,2,4,6
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 3,2,3,3,12
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 3,2,2,3,10
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 3,1,2,3,5
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 3,3,3,4,21
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 3,1,4,4,8
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 3,2,2,4,12
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 3,2,3,4,14
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 3,2,4,4,16
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 3,2,4,4,16
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 3,2,3,4,14
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 3,2,1,4,10
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 3,2,1,2,6
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 3,1,1,4,5
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 3,2,2,4,12
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 3,2,2,4,12
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 3,2,2,3,10
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 3,2,2,4,12
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 3,3,4,4,24
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 3,2,3,3,12
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 3,2,1,3,8
+Degrade (Morale/Surrender/Defection) Enemy Combat Power,Scenario 3,2,3,4,14
+TAC-D/DISO,Scenario 3,2,3,4,14
+TAC-D/DISO,Scenario 3,2,3,4,14
+TAC-D/DISO,Scenario 3,2,2,3,10
+TAC-D/DISO,Scenario 3,3,4,4,24
+TAC-D/DISO,Scenario 3,2,3,4,14
+TAC-D/DISO,Scenario 3,2,4,4,16
+TAC-D/DISO,Scenario 3,2,4,4,16
+TAC-D/DISO,Scenario 3,2,2,4,12
+TAC-D/DISO,Scenario 3,2,3,2,10
+TAC-D/DISO,Scenario 3,2,2,1,6
+TAC-D/DISO,Scenario 3,2,4,4,16
+TAC-D/DISO,Scenario 3,2,3,3,12
+TAC-D/DISO,Scenario 3,2,4,3,14
+TAC-D/DISO,Scenario 3,2,2,4,12
+TAC-D/DISO,Scenario 3,2,3,0,6
+TAC-D/DISO,Scenario 3,2,1,1,4
+TAC-D/DISO,Scenario 3,2,4,4,16
+TAC-D/DISO,Scenario 3,1,1,1,2
+TAC-D/DISO,Scenario 3,1,1,1,2
+TAC-D/DISO,Scenario 3,3,3,3,18
+TAC-D/DISO,Scenario 3,2,2,4,12
+TAC-D/DISO,Scenario 3,2,3,4,14
+TAC-D/DISO,Scenario 3,2,2,4,12
+MILDEC,Scenario 3,2,3,4,14
+MILDEC,Scenario 3,3,2,4,18
+MILDEC,Scenario 3,2,2,3,10
+MILDEC,Scenario 3,3,4,4,24
+MILDEC,Scenario 3,2,3,2,10
+MILDEC,Scenario 3,2,4,4,16
+MILDEC,Scenario 3,3,3,4,21
+MILDEC,Scenario 3,3,3,4,21
+MILDEC,Scenario 3,2,3,4,14
+MILDEC,Scenario 3,2,2,4,12
+MILDEC,Scenario 3,2,1,1,4
+MILDEC,Scenario 3,2,4,4,16
+MILDEC,Scenario 3,3,1,2,9
+MILDEC,Scenario 3,2,1,1,4
+MILDEC,Scenario 3,3,3,4,21
+MILDEC,Scenario 3,3,4,4,24
+MILDEC,Scenario 3,3,3,3,18
+MILDEC,Scenario 3,2,3,4,14
+MILDEC,Scenario 3,2,1,1,4
+MILDEC,Scenario 3,2,2,4,12
+MILDEC,Scenario 3,2,4,4,16
+MILDEC,Scenario 3,2,4,4,16
+Sustainment/Medical in Deep/Periphery,Scenario 3,3,3,4,21
+Sustainment/Medical in Deep/Periphery,Scenario 3,2,1,1,4
+Sustainment/Medical in Deep/Periphery,Scenario 3,1,2,3,5
+Sustainment/Medical in Deep/Periphery,Scenario 3,2,3,4,14
+Sustainment/Medical in Deep/Periphery,Scenario 3,2,4,4,16
+Sustainment/Medical in Deep/Periphery,Scenario 3,2,4,4,16
+Sustainment/Medical in Deep/Periphery,Scenario 3,3,4,3,21
+Sustainment/Medical in Deep/Periphery,Scenario 3,3,4,3,21
+Sustainment/Medical in Deep/Periphery,Scenario 3,1,4,4,8
+Sustainment/Medical in Deep/Periphery,Scenario 3,3,3,4,21
+Sustainment/Medical in Deep/Periphery,Scenario 3,3,3,4,21
+Sustainment/Medical in Deep/Periphery,Scenario 3,1,4,4,8
+Sustainment/Medical in Deep/Periphery,Scenario 3,3,4,4,24
+Sustainment/Medical in Deep/Periphery,Scenario 3,3,4,2,18
+Sustainment/Medical in Deep/Periphery,Scenario 3,3,3,4,21
+Sustainment/Medical in Deep/Periphery,Scenario 3,3,4,3,21
+Sustainment/Medical in Deep/Periphery,Scenario 3,2,2,4,12
+Sustainment/Medical in Deep/Periphery,Scenario 3,1,4,4,8
+Sustainment/Medical in Deep/Periphery,Scenario 3,2,2,3,10
+Sustainment/Medical in Deep/Periphery,Scenario 3,3,3,4,21
+Sustainment/Medical in Deep/Periphery,Scenario 3,2,2,4,12
+Sustainment/Medical in Deep/Periphery,Scenario 3,1,3,2,5
+Sustainment/Medical in Deep/Periphery,Scenario 3,1,2,2,4
+Sustainment/Medical in Deep/Periphery,Scenario 3,2,2,4,12
+Robotics (TTP/Means/Ways/Concepts),Scenario 3,3,4,4,24
+Robotics (TTP/Means/Ways/Concepts),Scenario 3,2,1,1,4
+Robotics (TTP/Means/Ways/Concepts),Scenario 3,3,4,4,24
+Robotics (TTP/Means/Ways/Concepts),Scenario 3,3,3,4,21
+Robotics (TTP/Means/Ways/Concepts),Scenario 3,3,3,4,21
+Robotics (TTP/Means/Ways/Concepts),Scenario 3,2,3,4,14
+Robotics (TTP/Means/Ways/Concepts),Scenario 3,3,2,2,12
+Robotics (TTP/Means/Ways/Concepts),Scenario 3,2,4,3,14
+Robotics (TTP/Means/Ways/Concepts),Scenario 3,2,2,4,12
+Robotics (TTP/Means/Ways/Concepts),Scenario 3,3,3,4,21
+Robotics (TTP/Means/Ways/Concepts),Scenario 3,3,1,1,6
+Robotics (TTP/Means/Ways/Concepts),Scenario 3,2,2,2,8
+Robotics (TTP/Means/Ways/Concepts),Scenario 3,3,2,3,15
+Robotics (TTP/Means/Ways/Concepts),Scenario 3,3,2,4,18
+Robotics (TTP/Means/Ways/Concepts),Scenario 3,2,2,3,10
+Robotics (TTP/Means/Ways/Concepts),Scenario 3,3,3,4,21
+Robotics (TTP/Means/Ways/Concepts),Scenario 3,3,2,4,18
+Robotics (TTP/Means/Ways/Concepts),Scenario 3,3,3,2,15
+Robotics (TTP/Means/Ways/Concepts),Scenario 3,3,3,4,21
+Robotics (TTP/Means/Ways/Concepts),Scenario 3,3,3,4,21
+Robotics (TTP/Means/Ways/Concepts),Scenario 3,2,2,4,12
+Robotics (TTP/Means/Ways/Concepts),Scenario 3,3,1,2,9
+Robotics (TTP/Means/Ways/Concepts),Scenario 3,2,2,4,12
+UAS (TTP/Means/Ways/Concepts),Scenario 3,0,0,0,0
+TRIAD (TTP/Means/Ways/Concepts),Scenario 3,3,4,4,24
+TRIAD (TTP/Means/Ways/Concepts),Scenario 3,2,1,2,6
+TRIAD (TTP/Means/Ways/Concepts),Scenario 3,3,4,4,24
+TRIAD (TTP/Means/Ways/Concepts),Scenario 3,3,3,4,21
+TRIAD (TTP/Means/Ways/Concepts),Scenario 3,2,4,4,16
+TRIAD (TTP/Means/Ways/Concepts),Scenario 3,3,4,4,24
+TRIAD (TTP/Means/Ways/Concepts),Scenario 3,3,4,4,24
+TRIAD (TTP/Means/Ways/Concepts),Scenario 3,3,4,4,24
+TRIAD (TTP/Means/Ways/Concepts),Scenario 3,2,4,4,16
+TRIAD (TTP/Means/Ways/Concepts),Scenario 3,2,3,4,14
+TRIAD (TTP/Means/Ways/Concepts),Scenario 3,3,3,4,21
+TRIAD (TTP/Means/Ways/Concepts),Scenario 3,3,1,1,6
+TRIAD (TTP/Means/Ways/Concepts),Scenario 3,3,3,3,18
+TRIAD (TTP/Means/Ways/Concepts),Scenario 3,3,3,4,21
+TRIAD (TTP/Means/Ways/Concepts),Scenario 3,3,3,4,21
+TRIAD (TTP/Means/Ways/Concepts),Scenario 3,3,3,4,21
+TRIAD (TTP/Means/Ways/Concepts),Scenario 3,3,4,4,24
+TRIAD (TTP/Means/Ways/Concepts),Scenario 3,3,3,4,21
+TRIAD (TTP/Means/Ways/Concepts),Scenario 3,2,3,4,14
+TRIAD (TTP/Means/Ways/Concepts),Scenario 3,2,3,4,14
+TRIAD (TTP/Means/Ways/Concepts),Scenario 3,1,2,2,4
+TRIAD (TTP/Means/Ways/Concepts),Scenario 3,2,2,4,12
+TRIAD (TTP/Means/Ways/Concepts),Scenario 3,3,3,4,21
+Forward Edge Short Range Strike,Scenario 3,3,4,4,24
+Forward Edge Short Range Strike,Scenario 3,2,2,3,10
+Forward Edge Short Range Strike,Scenario 3,2,2,2,8
+Forward Edge Short Range Strike,Scenario 3,2,2,2,8
+Forward Edge Short Range Strike,Scenario 3,-1,1,1,-2
+Forward Edge Short Range Strike,Scenario 3,3,3,4,21
+Forward Edge Short Range Strike,Scenario 3,2,3,2,10
+Forward Edge Short Range Strike,Scenario 3,2,3,2,10
+Forward Edge Short Range Strike,Scenario 3,2,3,4,14
+Forward Edge Short Range Strike,Scenario 3,2,4,3,14
+Forward Edge Short Range Strike,Scenario 3,2,2,4,12
+Forward Edge Short Range Strike,Scenario 3,2,3,3,12
+Forward Edge Short Range Strike,Scenario 3,3,1,1,6
+Forward Edge Short Range Strike,Scenario 3,2,2,2,8
+Forward Edge Short Range Strike,Scenario 3,3,3,3,18
+Forward Edge Short Range Strike,Scenario 3,2,2,3,10
+Forward Edge Short Range Strike,Scenario 3,3,4,4,24
+Forward Edge Short Range Strike,Scenario 3,3,3,4,21
+Forward Edge Short Range Strike,Scenario 3,3,3,4,21
+Forward Edge Short Range Strike,Scenario 3,2,3,3,12
+Forward Edge Short Range Strike,Scenario 3,2,2,4,12
+Forward Edge Short Range Strike,Scenario 3,3,3,4,21
+Doctrine,Scenario 3,2,3,4,14
+Doctrine,Scenario 3,1,1,4,5
+Doctrine,Scenario 3,1,4,4,8
+Doctrine,Scenario 3,2,3,4,14
+Doctrine,Scenario 3,3,3,4,21
+Doctrine,Scenario 3,1,1,1,2
+Doctrine,Scenario 3,2,1,2,6
+Doctrine,Scenario 3,1,1,4,5
+Doctrine,Scenario 3,2,1,4,10
+Doctrine,Scenario 3,1,3,2,5
+Doctrine,Scenario 3,2,3,2,10
+Doctrine,Scenario 3,1,1,4,5
+Doctrine,Scenario 3,2,3,4,14
+Doctrine,Scenario 3,3,3,4,21
+Doctrine,Scenario 3,2,4,4,16
+Doctrine,Scenario 3,3,4,4,24
+Doctrine,Scenario 3,1,1,2,3
+Doctrine,Scenario 3,3,4,4,24
+Doctrine,Scenario 3,3,3,3,18
+Doctrine,Scenario 3,1,2,4,6
+Doctrine,Scenario 3,2,2,4,12
+Doctrine,Scenario 3,2,2,4,12
+Doctrine,Scenario 3,2,2,2,8
+Doctrine,Scenario 3,2,3,4,14
+Doctrine,Scenario 3,3,1,4,15
+Organization,Scenario 3,2,3,3,12
+Organization,Scenario 3,1,1,4,5
+Organization,Scenario 3,2,4,3,14
+Organization,Scenario 3,2,3,4,14
+Organization,Scenario 3,3,4,4,24
+Organization,Scenario 3,2,2,2,8
+Organization,Scenario 3,2,1,4,10
+Organization,Scenario 3,2,2,4,12
+Organization,Scenario 3,2,2,4,12
+Organization,Scenario 3,1,3,3,6
+Organization,Scenario 3,1,2,2,4
+Organization,Scenario 3,1,1,4,5
+Organization,Scenario 3,2,3,4,14
+Organization,Scenario 3,2,3,4,14
+Organization,Scenario 3,2,4,4,16
+Organization,Scenario 3,2,4,4,16
+Organization,Scenario 3,2,2,2,8
+Organization,Scenario 3,2,4,4,16
+Organization,Scenario 3,3,4,4,24
+Organization,Scenario 3,3,2,4,18
+Organization,Scenario 3,2,2,4,12
+Organization,Scenario 3,2,3,2,10
+Organization,Scenario 3,2,2,2,8
+Organization,Scenario 3,2,3,3,12
+Organization,Scenario 3,2,3,4,14
+Training,Scenario 3,2,3,3,12
+Training,Scenario 3,2,3,4,14
+Training,Scenario 3,1,4,3,7
+Training,Scenario 3,2,4,4,16
+Training,Scenario 3,3,4,4,24
+Training,Scenario 3,3,4,4,24
+Training,Scenario 3,2,2,3,10
+Training,Scenario 3,1,1,4,5
+Training,Scenario 3,2,2,4,12
+Training,Scenario 3,1,2,2,4
+Training,Scenario 3,3,4,4,24
+Training,Scenario 3,2,2,4,12
+Training,Scenario 3,3,4,4,24
+Training,Scenario 3,2,2,4,12
+Training,Scenario 3,3,4,4,24
+Training,Scenario 3,3,4,4,24
+Training,Scenario 3,2,1,1,4
+Training,Scenario 3,3,4,4,24
+Training,Scenario 3,3,4,4,24
+Training,Scenario 3,2,2,4,12
+Training,Scenario 3,3,3,4,21
+Training,Scenario 3,2,4,2,12
+Training,Scenario 3,2,2,2,8
+Training,Scenario 3,3,4,4,24
+Training,Scenario 3,3,4,4,24
+Material,Scenario 3,2,3,4,14
+Material,Scenario 3,2,3,4,14
+Material,Scenario 3,2,4,4,16
+Material,Scenario 3,2,3,4,14
+Material,Scenario 3,2,3,4,14
+Material,Scenario 3,3,3,2,15
+Material,Scenario 3,2,3,3,12
+Material,Scenario 3,2,1,4,10
+Material,Scenario 3,2,2,4,12
+Material,Scenario 3,2,3,2,10
+Material,Scenario 3,2,2,2,8
+Material,Scenario 3,3,3,4,21
+Material,Scenario 3,2,2,4,12
+Material,Scenario 3,2,2,4,12
+Material,Scenario 3,2,4,4,16
+Material,Scenario 3,3,4,4,24
+Material,Scenario 3,1,1,2,3
+Material,Scenario 3,3,4,4,24
+Material,Scenario 3,3,3,3,18
+Material,Scenario 3,3,1,4,15
+Material,Scenario 3,1,1,4,5
+Material,Scenario 3,3,3,2,15
+Material,Scenario 3,3,2,2,12
+Material,Scenario 3,2,3,4,14
+Material,Scenario 3,3,4,4,24
+Leadership & Education,Scenario 3,1,3,4,7
+Leadership & Education,Scenario 3,1,1,4,5
+Leadership & Education,Scenario 3,2,3,3,12
+Leadership & Education,Scenario 3,2,2,4,12
+Leadership & Education,Scenario 3,2,4,4,16
+Leadership & Education,Scenario 3,1,3,4,7
+Leadership & Education,Scenario 3,3,1,2,9
+Leadership & Education,Scenario 3,1,1,4,5
+Leadership & Education,Scenario 3,2,2,4,12
+Leadership & Education,Scenario 3,2,2,2,8
+Leadership & Education,Scenario 3,2,3,4,14
+Leadership & Education,Scenario 3,2,2,4,12
+Leadership & Education,Scenario 3,3,4,4,24
+Leadership & Education,Scenario 3,1,2,4,6
+Leadership & Education,Scenario 3,2,4,4,16
+Leadership & Education,Scenario 3,3,4,4,24
+Leadership & Education,Scenario 3,1,1,2,3
+Leadership & Education,Scenario 3,2,4,4,16
+Leadership & Education,Scenario 3,2,3,2,10
+Leadership & Education,Scenario 3,2,3,4,14
+Leadership & Education,Scenario 3,3,3,4,21
+Leadership & Education,Scenario 3,2,3,2,10
+Leadership & Education,Scenario 3,2,2,2,8
+Leadership & Education,Scenario 3,3,4,4,24
+Leadership & Education,Scenario 3,2,2,4,12
+Personnel,Scenario 3,2,4,4,16
+Personnel,Scenario 3,1,1,4,5
+Personnel,Scenario 3,1,4,4,8
+Personnel,Scenario 3,2,3,4,14
+Personnel,Scenario 3,3,4,4,24
+Personnel,Scenario 3,2,4,4,16
+Personnel,Scenario 3,3,3,4,21
+Personnel,Scenario 3,1,2,4,6
+Personnel,Scenario 3,2,2,4,12
+Personnel,Scenario 3,2,2,3,10
+Personnel,Scenario 3,1,1,0,1
+Personnel,Scenario 3,2,2,4,12
+Personnel,Scenario 3,2,4,4,16
+Personnel,Scenario 3,2,2,4,12
+Personnel,Scenario 3,2,4,4,16
+Personnel,Scenario 3,3,4,4,24
+Personnel,Scenario 3,2,2,2,8
+Personnel,Scenario 3,3,4,4,24
+Personnel,Scenario 3,3,4,4,24
+Personnel,Scenario 3,3,3,4,21
+Personnel,Scenario 3,3,4,4,24
+Personnel,Scenario 3,2,4,2,12
+Personnel,Scenario 3,2,2,2,8
+Personnel,Scenario 3,2,3,4,14
+Personnel,Scenario 3,2,4,4,16
+Facilities,Scenario 3,2,3,4,14
+Facilities,Scenario 3,1,1,4,5
+Facilities,Scenario 3,3,3,3,18
+Facilities,Scenario 3,1,2,4,6
+Facilities,Scenario 3,1,4,4,8
+Facilities,Scenario 3,2,3,2,10
+Facilities,Scenario 3,1,1,2,3
+Facilities,Scenario 3,1,1,4,5
+Facilities,Scenario 3,1,2,1,3
+Facilities,Scenario 3,0,2,2,0
+Facilities,Scenario 3,1,0,0,0
+Facilities,Scenario 3,1,1,4,5
+Facilities,Scenario 3,2,2,4,12
+Facilities,Scenario 3,1,1,4,5
+Facilities,Scenario 3,1,3,4,7
+Facilities,Scenario 3,3,4,4,24
+Facilities,Scenario 3,2,1,1,4
+Facilities,Scenario 3,2,4,4,16
+Facilities,Scenario 3,3,4,4,24
+Facilities,Scenario 3,1,1,1,2
+Facilities,Scenario 3,2,3,4,14
+Facilities,Scenario 3,1,2,2,4
+Facilities,Scenario 3,2,2,2,8
+Facilities,Scenario 3,1,3,3,6
+Facilities,Scenario 3,2,1,4,10
+Policy,Scenario 3,2,4,4,16
+Policy,Scenario 3,1,1,4,5
+Policy,Scenario 3,1,4,4,8
+Policy,Scenario 3,2,3,4,14
+Policy,Scenario 3,2,4,4,16
+Policy,Scenario 3,1,1,4,5
+Policy,Scenario 3,3,3,4,21
+Policy,Scenario 3,2,3,4,14
+Policy,Scenario 3,2,2,4,12
+Policy,Scenario 3,2,2,3,10
+Policy,Scenario 3,3,4,4,24
+Policy,Scenario 3,3,3,4,21
+Policy,Scenario 3,2,4,4,16
+Policy,Scenario 3,2,3,4,14
+Policy,Scenario 3,3,4,4,24
+Policy,Scenario 3,3,4,4,24
+Policy,Scenario 3,1,2,3,5
+Policy,Scenario 3,3,4,4,24
+Policy,Scenario 3,2,2,3,10
+Policy,Scenario 3,3,3,4,21
+Policy,Scenario 3,1,2,4,6
+Policy,Scenario 3,3,4,2,18
+Policy,Scenario 3,3,2,2,12
+Policy,Scenario 3,2,4,4,16
+Policy,Scenario 3,2,2,4,12
+Authorities,Scenario 3,0,4,4,0
+Authorities,Scenario 3,1,2,4,6
+Authorities,Scenario 3,1,4,4,8
+Authorities,Scenario 3,3,4,4,24
+Authorities,Scenario 3,3,4,4,24
+Authorities,Scenario 3,3,4,1,15
+Authorities,Scenario 3,3,3,3,18
+Authorities,Scenario 3,2,3,4,14
+Authorities,Scenario 3,2,2,4,12
+Authorities,Scenario 3,2,2,3,10
+Authorities,Scenario 3,3,4,4,24
+Authorities,Scenario 3,3,3,4,21
+Authorities,Scenario 3,3,4,4,24
+Authorities,Scenario 3,2,3,4,14
+Authorities,Scenario 3,3,4,4,24
+Authorities,Scenario 3,3,4,4,24
+Authorities,Scenario 3,1,2,2,4
+Authorities,Scenario 3,3,4,4,24
+Authorities,Scenario 3,2,2,3,10
+Authorities,Scenario 3,3,3,4,21
+Authorities,Scenario 3,3,4,4,24
+Authorities,Scenario 3,3,4,2,18
+Authorities,Scenario 3,3,2,2,12
+Authorities,Scenario 3,3,4,4,24
+Authorities,Scenario 3,1,3,4,7
+Permissions,Scenario 3,0,4,4,0
+Permissions,Scenario 3,1,2,4,6
+Permissions,Scenario 3,1,4,4,8
+Permissions,Scenario 3,3,4,4,24
+Permissions,Scenario 3,3,4,4,24
+Permissions,Scenario 3,2,4,1,10
+Permissions,Scenario 3,3,3,3,18
+Permissions,Scenario 3,2,3,4,14
+Permissions,Scenario 3,2,2,4,12
+Permissions,Scenario 3,3,3,3,18
+Permissions,Scenario 3,3,4,4,24
+Permissions,Scenario 3,3,3,4,21
+Permissions,Scenario 3,3,4,4,24
+Permissions,Scenario 3,2,3,4,14
+Permissions,Scenario 3,3,4,4,24
+Permissions,Scenario 3,3,4,4,24
+Permissions,Scenario 3,2,2,2,8
+Permissions,Scenario 3,3,4,4,24
+Permissions,Scenario 3,2,3,3,12
+Permissions,Scenario 3,3,3,4,21
+Permissions,Scenario 3,3,4,4,24
+Permissions,Scenario 3,3,4,2,18
+Permissions,Scenario 3,3,2,2,12
+Permissions,Scenario 3,3,4,4,24
+Permissions,Scenario 3,3,4,4,24
+Operational Planning,Scenario 3,2,3,4,14
+Operational Planning,Scenario 3,1,3,4,7
+Operational Planning,Scenario 3,2,4,3,14
+Operational Planning,Scenario 3,1,2,4,6
+Operational Planning,Scenario 3,2,4,4,16
+Operational Planning,Scenario 3,3,1,4,15
+Operational Planning,Scenario 3,3,4,4,24
+Operational Planning,Scenario 3,2,2,4,12
+Operational Planning,Scenario 3,1,2,4,6
+Operational Planning,Scenario 3,2,3,3,12
+Operational Planning,Scenario 3,2,2,2,8
+Operational Planning,Scenario 3,2,2,4,12
+Operational Planning,Scenario 3,3,4,4,24
+Operational Planning,Scenario 3,2,2,4,12
+Operational Planning,Scenario 3,2,4,4,16
+Operational Planning,Scenario 3,3,4,4,24
+Operational Planning,Scenario 3,1,1,2,3
+Operational Planning,Scenario 3,3,4,4,24
+Operational Planning,Scenario 3,3,4,2,18
+Operational Planning,Scenario 3,1,4,4,8
+Operational Planning,Scenario 3,3,3,4,21
+Operational Planning,Scenario 3,2,3,2,10
+Operational Planning,Scenario 3,2,2,2,8
+Operational Planning,Scenario 3,2,3,4,14
+Operational Planning,Scenario 3,3,3,4,21
+"Organizational Relationships, Structure, Exchange",Scenario 3,2,3,3,12
+"Organizational Relationships, Structure, Exchange",Scenario 3,1,1,4,5
+"Organizational Relationships, Structure, Exchange",Scenario 3,2,3,3,12
+"Organizational Relationships, Structure, Exchange",Scenario 3,2,3,4,14
+"Organizational Relationships, Structure, Exchange",Scenario 3,3,4,4,24
+"Organizational Relationships, Structure, Exchange",Scenario 3,1,0,4,4
+"Organizational Relationships, Structure, Exchange",Scenario 3,1,4,4,8
+"Organizational Relationships, Structure, Exchange",Scenario 3,1,2,4,6
+"Organizational Relationships, Structure, Exchange",Scenario 3,1,2,4,6
+"Organizational Relationships, Structure, Exchange",Scenario 3,1,3,3,6
+"Organizational Relationships, Structure, Exchange",Scenario 3,2,3,2,10
+"Organizational Relationships, Structure, Exchange",Scenario 3,2,2,4,12
+"Organizational Relationships, Structure, Exchange",Scenario 3,2,4,4,16
+"Organizational Relationships, Structure, Exchange",Scenario 3,2,3,4,14
+"Organizational Relationships, Structure, Exchange",Scenario 3,2,3,4,14
+"Organizational Relationships, Structure, Exchange",Scenario 3,3,4,4,24
+"Organizational Relationships, Structure, Exchange",Scenario 3,2,1,2,6
+"Organizational Relationships, Structure, Exchange",Scenario 3,3,4,4,24
+"Organizational Relationships, Structure, Exchange",Scenario 3,2,3,3,12
+"Organizational Relationships, Structure, Exchange",Scenario 3,1,2,3,5
+"Organizational Relationships, Structure, Exchange",Scenario 3,2,3,4,14
+"Organizational Relationships, Structure, Exchange",Scenario 3,2,3,2,10
+"Organizational Relationships, Structure, Exchange",Scenario 3,2,2,2,8
+"Organizational Relationships, Structure, Exchange",Scenario 3,3,3,3,18
+"Organizational Relationships, Structure, Exchange",Scenario 3,3,2,4,18
+Masked,Scenario 3,2,3,3,12
+Masked,Scenario 3,2,4,4,16
+Masked,Scenario 3,1,4,3,7
+Masked,Scenario 3,3,4,4,24
+Masked,Scenario 3,3,3,3,18
+Masked,Scenario 3,3,4,2,18
+Masked,Scenario 3,2,2,2,8
+Masked,Scenario 3,3,3,4,21
+Masked,Scenario 3,2,2,2,8
+Masked,Scenario 3,1,3,2,5
+Masked,Scenario 3,2,4,2,12
+Masked,Scenario 3,1,1,4,5
+Masked,Scenario 3,3,4,4,24
+Masked,Scenario 3,2,4,4,16
+Masked,Scenario 3,2,3,2,10
+Masked,Scenario 3,3,4,4,24
+Masked,Scenario 3,-1,1,1,-2
+Masked,Scenario 3,3,4,4,24
+Masked,Scenario 3,3,4,4,24
+Masked,Scenario 3,1,2,4,6
+Masked,Scenario 3,3,4,4,24
+Masked,Scenario 3,3,3,2,15
+Masked,Scenario 3,2,2,2,8
+Masked,Scenario 3,3,4,4,24
+Masked,Scenario 3,3,4,3,21
+TS/SAP/STO Access at Echelon,Scenario 3,0,2,2,0
+TS/SAP/STO Access at Echelon,Scenario 3,2,2,2,8
+TS/SAP/STO Access at Echelon,Scenario 3,3,4,3,21
+TS/SAP/STO Access at Echelon,Scenario 3,3,4,4,24
+TS/SAP/STO Access at Echelon,Scenario 3,3,4,4,24
+TS/SAP/STO Access at Echelon,Scenario 3,2,1,4,10
+TS/SAP/STO Access at Echelon,Scenario 3,2,3,3,12
+TS/SAP/STO Access at Echelon,Scenario 3,2,2,4,12
+TS/SAP/STO Access at Echelon,Scenario 3,2,2,4,12
+TS/SAP/STO Access at Echelon,Scenario 3,2,2,3,10
+TS/SAP/STO Access at Echelon,Scenario 3,2,3,2,10
+TS/SAP/STO Access at Echelon,Scenario 3,2,2,4,12
+TS/SAP/STO Access at Echelon,Scenario 3,2,3,4,14
+TS/SAP/STO Access at Echelon,Scenario 3,2,3,4,14
+TS/SAP/STO Access at Echelon,Scenario 3,3,3,2,15
+TS/SAP/STO Access at Echelon,Scenario 3,3,4,4,24
+TS/SAP/STO Access at Echelon,Scenario 3,2,1,2,6
+TS/SAP/STO Access at Echelon,Scenario 3,3,4,4,24
+TS/SAP/STO Access at Echelon,Scenario 3,3,4,4,24
+TS/SAP/STO Access at Echelon,Scenario 3,2,3,4,14
+TS/SAP/STO Access at Echelon,Scenario 3,1,2,4,6
+TS/SAP/STO Access at Echelon,Scenario 3,3,2,2,12
+TS/SAP/STO Access at Echelon,Scenario 3,3,2,2,12
+TS/SAP/STO Access at Echelon,Scenario 3,3,4,4,24
+TS/SAP/STO Access at Echelon,Scenario 3,2,2,4,12
+Places/Venues to Train/Validate,Scenario 3,2,3,3,12
+Places/Venues to Train/Validate,Scenario 3,1,1,4,5
+Places/Venues to Train/Validate,Scenario 3,2,4,3,14
+Places/Venues to Train/Validate,Scenario 3,1,2,4,6
+Places/Venues to Train/Validate,Scenario 3,2,4,4,16
+Places/Venues to Train/Validate,Scenario 3,3,2,2,12
+Places/Venues to Train/Validate,Scenario 3,3,3,4,21
+Places/Venues to Train/Validate,Scenario 3,1,1,4,5
+Places/Venues to Train/Validate,Scenario 3,3,2,4,18
+Places/Venues to Train/Validate,Scenario 3,1,2,2,4
+Places/Venues to Train/Validate,Scenario 3,3,4,2,18
+Places/Venues to Train/Validate,Scenario 3,2,2,4,12
+Places/Venues to Train/Validate,Scenario 3,3,3,4,21
+Places/Venues to Train/Validate,Scenario 3,2,2,4,12
+Places/Venues to Train/Validate,Scenario 3,1,1,4,5
+Places/Venues to Train/Validate,Scenario 3,3,4,4,24
+Places/Venues to Train/Validate,Scenario 3,1,1,1,2
+Places/Venues to Train/Validate,Scenario 3,3,4,4,24
+Places/Venues to Train/Validate,Scenario 3,2,2,3,10
+Places/Venues to Train/Validate,Scenario 3,2,1,4,10
+Places/Venues to Train/Validate,Scenario 3,2,3,3,12
+Places/Venues to Train/Validate,Scenario 3,1,2,2,4
+Places/Venues to Train/Validate,Scenario 3,2,2,2,8
+Places/Venues to Train/Validate,Scenario 3,2,3,4,14
+Places/Venues to Train/Validate,Scenario 3,3,3,4,21
+C2 COP System of Systems,Scenario 3,2,3,3,12
+C2 COP System of Systems,Scenario 3,2,1,4,10
+C2 COP System of Systems,Scenario 3,1,4,4,8
+C2 COP System of Systems,Scenario 3,3,4,4,24
+C2 COP System of Systems,Scenario 3,3,2,4,18
+C2 COP System of Systems,Scenario 3,2,2,4,12
+C2 COP System of Systems,Scenario 3,2,3,3,12
+C2 COP System of Systems,Scenario 3,1,2,4,6
+C2 COP System of Systems,Scenario 3,3,2,4,18
+C2 COP System of Systems,Scenario 3,2,2,2,8
+C2 COP System of Systems,Scenario 3,1,1,1,2
+C2 COP System of Systems,Scenario 3,2,2,4,12
+C2 COP System of Systems,Scenario 3,3,2,4,18
+C2 COP System of Systems,Scenario 3,3,4,4,24
+C2 COP System of Systems,Scenario 3,1,3,4,7
+C2 COP System of Systems,Scenario 3,3,4,4,24
+C2 COP System of Systems,Scenario 3,1,1,2,3
+C2 COP System of Systems,Scenario 3,3,4,4,24
+C2 COP System of Systems,Scenario 3,2,3,3,12
+C2 COP System of Systems,Scenario 3,2,3,4,14
+C2 COP System of Systems,Scenario 3,3,3,3,18
+C2 COP System of Systems,Scenario 3,3,4,2,18
+C2 COP System of Systems,Scenario 3,3,2,2,12
+C2 COP System of Systems,Scenario 3,2,3,4,14
+C2 COP System of Systems,Scenario 3,2,2,4,12
+Secure/Assured Communications w/ Partner Share,Scenario 3,2,3,4,14
+Secure/Assured Communications w/ Partner Share,Scenario 3,1,2,4,6
+Secure/Assured Communications w/ Partner Share,Scenario 3,1,3,3,6
+Secure/Assured Communications w/ Partner Share,Scenario 3,3,4,4,24
+Secure/Assured Communications w/ Partner Share,Scenario 3,2,2,4,12
+Secure/Assured Communications w/ Partner Share,Scenario 3,3,2,4,18
+Secure/Assured Communications w/ Partner Share,Scenario 3,2,2,2,8
+Secure/Assured Communications w/ Partner Share,Scenario 3,2,2,4,12
+Secure/Assured Communications w/ Partner Share,Scenario 3,2,2,4,12
+Secure/Assured Communications w/ Partner Share,Scenario 3,2,2,2,8
+Secure/Assured Communications w/ Partner Share,Scenario 3,2,2,4,12
+Secure/Assured Communications w/ Partner Share,Scenario 3,2,2,4,12
+Secure/Assured Communications w/ Partner Share,Scenario 3,2,3,4,14
+Secure/Assured Communications w/ Partner Share,Scenario 3,2,3,4,14
+Secure/Assured Communications w/ Partner Share,Scenario 3,2,3,4,14
+Secure/Assured Communications w/ Partner Share,Scenario 3,3,4,4,24
+Secure/Assured Communications w/ Partner Share,Scenario 3,1,2,2,4
+Secure/Assured Communications w/ Partner Share,Scenario 3,3,4,4,24
+Secure/Assured Communications w/ Partner Share,Scenario 3,2,3,3,12
+Secure/Assured Communications w/ Partner Share,Scenario 3,3,2,4,18
+Secure/Assured Communications w/ Partner Share,Scenario 3,3,3,2,15
+Secure/Assured Communications w/ Partner Share,Scenario 3,2,4,2,12
+Secure/Assured Communications w/ Partner Share,Scenario 3,3,2,2,12
+Secure/Assured Communications w/ Partner Share,Scenario 3,3,4,4,24
+Secure/Assured Communications w/ Partner Share,Scenario 3,3,2,4,18
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 3,1,3,4,7
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 3,2,2,4,12
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 3,1,4,4,8
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 3,1,3,4,7
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 3,2,2,4,12
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 3,2,2,4,12
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 3,3,4,4,24
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 3,2,2,4,12
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 3,1,2,4,6
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 3,2,2,4,12
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 3,1,1,1,2
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 3,2,2,4,12
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 3,2,3,4,14
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 3,2,3,4,14
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 3,1,3,4,7
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 3,3,4,4,24
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 3,2,2,3,10
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 3,3,4,4,24
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 3,1,2,2,4
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 3,2,4,4,16
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 3,2,2,3,10
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 3,2,3,2,10
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 3,2,2,2,8
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 3,2,3,3,12
+C2 Nodes at Echelon (Tactical/Operational/Strategic),Scenario 3,3,3,4,21
+Mission Command Culture,Scenario 3,2,3,4,14
+Mission Command Culture,Scenario 3,1,1,4,5
+Mission Command Culture,Scenario 3,2,4,4,16
+Mission Command Culture,Scenario 3,2,3,4,14
+Mission Command Culture,Scenario 3,3,4,4,24
+Mission Command Culture,Scenario 3,1,4,4,8
+Mission Command Culture,Scenario 3,2,3,2,10
+Mission Command Culture,Scenario 3,3,2,4,18
+Mission Command Culture,Scenario 3,2,2,4,12
+Mission Command Culture,Scenario 3,0,2,2,0
+Mission Command Culture,Scenario 3,2,4,2,12
+Mission Command Culture,Scenario 3,2,2,4,12
+Mission Command Culture,Scenario 3,1,3,4,7
+Mission Command Culture,Scenario 3,2,3,4,14
+Mission Command Culture,Scenario 3,1,3,4,7
+Mission Command Culture,Scenario 3,1,4,4,8
+Mission Command Culture,Scenario 3,1,1,1,2
+Mission Command Culture,Scenario 3,3,4,4,24
+Mission Command Culture,Scenario 3,1,2,2,4
+Mission Command Culture,Scenario 3,3,4,4,24
+Mission Command Culture,Scenario 3,3,4,4,24
+Mission Command Culture,Scenario 3,2,3,2,10
+Mission Command Culture,Scenario 3,2,2,2,8
+Mission Command Culture,Scenario 3,3,4,4,24
+Mission Command Culture,Scenario 3,3,4,4,24

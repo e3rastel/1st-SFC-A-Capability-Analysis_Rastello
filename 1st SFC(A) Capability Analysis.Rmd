@@ -1,0 +1,296 @@
+---
+title: "1st Special Forces Command (Airborne) Capability Analysis"
+subtitle: |
+  | G5 Concepts, Plans, and Assessments
+  | `r format(Sys.time(), '%B %d %Y')`
+author:
+  "[LTC Erik Rastello<br>
+   LTC Gabe Samudio](https://github.com/gsamudio7)"
+output:
+  html_document:
+    code_folding: show
+    includes:
+      before_body: assets/header.html
+      in_header: assets/fav.html
+      after_body: assets/header.html
+    css: assets/css/html_report.css
+    highlight: haddock
+    self_contained: yes
+    toc: yes
+    toc_float: yes
+    toc_depth: 2
+---
+
+<style>
+#TOC {
+  background: url("assets/G5.jpg");
+  background-size: contain;
+  padding-top: 287px !important;
+  background-repeat: no-repeat;
+}
+</style>
+
+<center>
+<img src="https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2205/7246048/1000w_q95.jpg" width="450">
+<br>
+
+<b>Figure 1: 7th SFG(A) Joint Combined Exchange Training in Ecuador 2022.</b><br>
+Image from [Defense Visual Information Distribution Service](https://www.dvidshub.net/image/7246048/jcet-ecuador-2022). U.S. Special Forces and Ecuadorian Special Forces breach and clear a shoot house during close quarter combat training for a culminating exercise in Ecuador on May 21, 2022. 
+</center>
+<br>
+<br>
+
+```{r setUp, include=FALSE}
+knitr::opts_chunk$set(
+  cache=FALSE,
+  message=FALSE,
+  warning=FALSE,
+  fig.align="center",
+  class.source="chunk",
+  out.width="100%",
+  fig.retina = 3
+)
+
+library(data.table)
+library(dplyr)
+library(plotly)
+options(scipen=99)
+
+```
+
+# Executive Summary
+- Words
+
+# Key Findings
+- Words
+
+# The Expertiment 
+- Words
+- More Words
+
+# Average Score
+
+We average the scores as an initial assessment of the capabilities. As we have seen in the data, there are very small sample sizes, and a great deal of variability, so the average score for each capability is only an ***estimate*** for the true average score, so we need to show the error interval for how high or low this average could be. We invoke the Central Limit Theorem, which states that sample means are approximately normally distributed, allowing us to take one million bootstrap samples and compute the 95% confidence interval for the average score. The chart below presents these average scores, along with the error interval (95% chance that the true average lies within the interval).
+
+## Key Findings:
+
+- Develop Resistance Forces had the highest average score across Scenarios 1, 2, and 3
+- Scenario 2 produced the largest volume of high scoring capabilities
+- Chart lists Capabilities ranked by average score across all Scenarios
+- Most scores in the Yellow range have an error interval that exceeds 16
+
+```{r calc_avg_plot, eval=FALSE}
+
+# Set the seed for the random number generator 
+set.seed(42)
+
+# Load data 
+dt <- fread("data/CBA Quantitative Analysis_filled_CSV_test_total.csv")
+
+# Define the function
+getAverageSampleMean <- function(obs) {
+  
+  # We load this package within the function so we can use multiple cores 
+  library(data.table)
+  
+  # Take a bootstrap sample of every Capabililty against every Scenario
+  sampled_data <- obs[, .(Bootstrap = sample(Score, replace = TRUE)), by = .(Capability, Scenario)]
+  
+  # Store the average score from the bootstrap sample
+  result <- sampled_data[, .(sampleMean = mean(Bootstrap)), by = .(Capability, Scenario)]
+  
+  # Return the data.table with the average scores
+  return(result)
+}
+
+# Set up a cluster using available cores
+cl <- makeCluster(detectCores() - 1)  # Leaving one core free
+
+# Export the data and function to the cluster
+clusterExport(cl, varlist = c("dt", "getAverageSampleMean"))
+
+# Use parLapply to run the function in parallel
+sampleMeanList <- parLapply(cl, 1:1e6, function(i) getAverageSampleMean(obs=dt))
+
+# Stop the cluster
+stopCluster(cl)
+
+# Organize results by combining into a data.table
+sampleMeansDataTable <- rbindlist(sampleMeanList)
+
+# Define a function to calculate the 95% CI
+getConfInterval <- function(vector) {
+  intervalText <- quantile(vector,c(.025,.975)) %>% round(2) %>% as.character() 
+  return(paste0("[",intervalText[1],", ",intervalText[2],"]"))
+}
+
+# Average the 1M bootstrap sample means, and take the 95% confidence interval
+averageDataTable <- sampleMeansDataTable[,.(averageSampleMean = round(mean(sampleMean),2),
+                                           `Error Interval` = getConfInterval(sampleMean)),
+                            by = .(Capability, Scenario)] %>% 
+  merge.data.table(dt[,.(sampleSize=.N), by = .(Capability, Scenario)])
+
+averageDataTable[,"hoverText" := paste0(`Error Interval`,"\n",
+                                        "<b># of Votes: </b>",sampleSize)]
+
+# Order the Capabilities by highest average sample mean
+flat <- dcast(averageDataTable, Capability ~ Scenario, value.var = "averageSampleMean")
+flat[,"Avg" := rowMeans(.SD, na.rm=TRUE), .SDcols=c("Scenario 1",
+                                                    "Scenario 2",
+                                                    "Scenario 3",
+                                                    "Scenario X")]
+setorder(flat,Avg)
+
+averageDataTable[,"Capability" := factor(averageDataTable$Capability, 
+                                         levels = flat$Capability)]
+# Heatmap
+averageSampleMeanPlot <- plot_ly(
+  data=averageDataTable,
+  colorscale="Viridis",
+  type="heatmap",
+  y=~Capability,
+  x=~Scenario,
+  z=~averageSampleMean,
+  text=~hoverText,
+  hovertemplate=paste0("<b>Capabililty: </b>%{y}<br>",
+                       "<b>Scenario: </b>%{x}<br>",
+                       "<b>Average Score: </b>%{z}<br>",
+                       "<b>Error Interval: </b>%{text}"),
+  colorbar=list(title="<b>Average Score</b>")
+) %>% 
+  layout(
+    title=list(
+      text="<b>Capability Performance</b>\n",
+      pad=list(b = 500)),
+    xaxis = list(side="top",tickangle=0,title="",gridcolor="#333333"),
+    yaxis = list(title="",gridcolor="#333333"),
+    plot_bgcolor  = "#444444",
+    paper_bgcolor = "#444444",
+    font = list(color = '#FFFFFF')
+)
+
+# Save as html and as RData
+save(averageSampleMeanPlot, file = "products/averageSampleMeanPlot.RData")
+
+htmlwidgets::saveWidget(averageSampleMeanPlot,
+                        file="products/averageSampleMeanPlot.html",
+                        selfcontained=TRUE)
+
+```
+
+<br>
+
+```{r avg_plot, echo=FALSE}
+load("products/averageSampleMeanPlot.RData")
+averageSampleMeanPlot
+```
+<center>
+<b><a href="products/averageSampleMeanPlot.html" target="_blank">Figure 2: Average Capability Score Heatmap</a></b>
+</center>
+
+# High Risk Capabilities
+
+Since we are dealing with uncertainty, we need to show a risk of a capability scoring at or above 16, which indicates that it is mission critical. The data reveals a large degree of differing scores, so we can show the proportion of scores at the critical level, which provides an idea for the percentage of voters who believe a capability is mission critical in a given scenario. But again, this is only an ***estimate*** for the true risk of a capability scoring as mission critical. We again invoke the Central Limit Theorem and present an error interval for how high or low this risk could be.
+
+## Key Findings
+
+- Stuff
+- More stuff
+- one more thing
+
+```{r calc_highRiskPlot, eval=FALSE}
+
+# Load data 
+dt <- fread("data/CBA Quantitative Analysis_filled_CSV_test_total.csv")
+
+# Get the proportion of scores at or above 16 
+highRisk <- dt[,.(Proportion = round(sum(Score >= 16)/.N,2),
+                  sampleSize = .N),
+               by = .(Capability, Scenario)]
+
+# Get the 95% confidence intervals
+highRisk[,"Low Interval" := Proportion - 1.96*(sqrt((Proportion*(1-Proportion))/sampleSize))]
+highRisk[highRisk < 0] <- 0
+highRisk[,"High Interval" := Proportion + 1.96*(sqrt((Proportion*(1-Proportion))/sampleSize))]
+highRisk[,"Error Interval" := paste0("[",round(`Low Interval`,2),
+                                         " ,",
+                                         round(`High Interval`,2),
+                                         "]","\n",
+                                         "<b># of Votes: </b>",sampleSize)]
+
+
+# Order the capabilities by highest risk
+flat <- dcast(highRisk, Capability ~ Scenario, value.var = "Proportion")
+flat[,"Avg" := rowMeans(.SD, na.rm=TRUE), .SDcols=c("Scenario 1",
+                                                    "Scenario 2",
+                                                    "Scenario 3",
+                                                    "Scenario X")]
+setorder(flat,Avg)
+
+highRisk[,"Capability" := factor(highRisk[,Capability], levels = flat[,Capability])]
+
+# Heat Map
+highRiskPlot <- plot_ly(
+  data=highRisk,
+  colorscale="Viridis",
+  type="heatmap",
+  y=~Capability,
+  x=~Scenario,
+  z=~Proportion,
+  text=~`Error Interval`,
+  hovertemplate=paste0("<b>Capabililty: </b>%{y}<br>",
+                       "<b>Scenario: </b>%{x}<br>",
+                       "<b>Proportion: </b>%{z}<br>",
+                       "<b>Error Interval: </b>%{text}"),
+  colorbar=list(title="<b>Proportion of Scores<br>Voted >= 16</b>",
+                tickvals=seq(0,1,0.2),ticks="",
+                ticktext=c("0%","20%","40%","60%","80%","100%"))
+) %>% layout(
+  title=list(
+    text="<b>High Risk Capabilities</b>\n",
+    pad=list(b = 500)),
+  xaxis = list(side="top",tickangle=0,title="",gridcolor="#333333"),
+  yaxis = list(title="",gridcolor="#333333"),
+  plot_bgcolor  = "#444444",
+  paper_bgcolor = "#444444",
+  font = list(color = '#FFFFFF'))
+
+# Save as html and as RData
+htmlwidgets::saveWidget(highRiskPlot,
+                        file="products/highRiskPlot.html",
+                        selfcontained=TRUE)
+save(highRiskPlot, file = "products/highRiskPlot.RData")
+```
+
+<br>
+
+```{r highRiskPlot, echo=FALSE}
+load("products/highRiskPlot.RData")
+highRiskPlot
+```
+
+<center>
+<b><a href="products/highRiskPlot.html" target="_blank">Figure 3: High Risk Capability Heatmap</a></b>
+</center>
+
+# Non-Essential Capabilities
+
+Similarly, we can present the proportion of scores that fall at or below zero, indicating the capability is non-essential for the given scenario. We present the proportions in the heatmap below, and provide the error interval. 
+
+## Key Findings
+
+- Stuff
+- More stuff
+- one more thing
+
+```{r nonEssentialPlot, echo=FALSE}
+load("products/nonEssentialPlot.RData")
+nonEssentialPlot
+```
+<center>
+<b><a href="products/nonEssentialPlot.html" target="_blank">Figure 4: Non-Essential Capability Heatmap</a></b>
+</center>
+
+# Way Forward 
+- Stuff and things
+
