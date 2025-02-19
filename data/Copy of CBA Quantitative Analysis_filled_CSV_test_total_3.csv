@@ -1,0 +1,2701 @@
+Capability,Scenario,Grade,Impact,Likelihood,Score
+Authorities,Scenario 1,0,4,4,0
+Authorities,Scenario 1,2,3,4,14
+Authorities,Scenario 1,1,4,4,8
+Authorities,Scenario 1,2,4,4,16
+Authorities,Scenario 1,1,2,2,4
+Authorities,Scenario 1,2,3,3,12
+Authorities,Scenario 1,1,4,1,5
+Authorities,Scenario 1,3,4,4,24
+Authorities,Scenario 1,2,2,2,8
+Authorities,Scenario 1,3,4,4,24
+Authorities,Scenario 1,3,4,4,24
+Authorities,Scenario 1,2,4,4,16
+Authorities,Scenario 1,2,4,4,16
+Authorities,Scenario 1,2,4,4,16
+Authorities,Scenario 1,3,3,2,15
+Authorities,Scenario 1,3,4,4,24
+Authorities,Scenario 1,2,4,4,16
+Authorities,Scenario 1,3,4,4,24
+Authorities,Scenario 1,2,2,4,12
+Authorities,Scenario 1,3,3,4,21
+Authorities,Scenario 1,2,4,4,16
+Authorities,Scenario 2,0,0,0,0
+Authorities,Scenario 2,0,0,0,0
+Authorities,Scenario 2,2,4,4,16
+Authorities,Scenario 2,1,2,2,4
+Authorities,Scenario 2,2,4,3,14
+Authorities,Scenario 2,2,4,3,14
+Authorities,Scenario 2,3,3,4,21
+Authorities,Scenario 2,3,3,4,21
+Authorities,Scenario 2,-1,4,3,-7
+Authorities,Scenario 2,3,3,4,21
+Authorities,Scenario 2,3,4,4,24
+Authorities,Scenario 2,3,3,4,21
+Authorities,Scenario 2,2,4,4,16
+Authorities,Scenario 2,2,4,4,16
+Authorities,Scenario 2,3,4,4,24
+Authorities,Scenario 2,3,3,4,21
+Authorities,Scenario 2,2,4,4,16
+Authorities,Scenario 2,2,3,4,14
+Authorities,Scenario 2,2,4,4,16
+Authorities,Scenario 2,3,3,4,21
+Authorities,Scenario 2,3,4,4,24
+Authorities,Scenario 2,2,3,4,14
+Authorities,Scenario 2,2,4,4,16
+Authorities,Scenario 2,2,1,2,6
+Authorities,Scenario 2,1,2,4,6
+Authorities,Scenario 2,2,3,4,14
+Authorities,Scenario 2,2,2,2,8
+Authorities,Scenario 2,3,2,2,12
+Authorities,Scenario 2,2,2,3,10
+Authorities,Scenario 3,0,4,4,0
+Authorities,Scenario 3,1,2,4,6
+Authorities,Scenario 3,1,4,4,8
+Authorities,Scenario 3,3,4,4,24
+Authorities,Scenario 3,3,4,4,24
+Authorities,Scenario 3,3,4,1,15
+Authorities,Scenario 3,3,3,3,18
+Authorities,Scenario 3,2,3,4,14
+Authorities,Scenario 3,2,2,4,12
+Authorities,Scenario 3,2,2,3,10
+Authorities,Scenario 3,3,4,4,24
+Authorities,Scenario 3,3,3,4,21
+Authorities,Scenario 3,3,4,4,24
+Authorities,Scenario 3,2,3,4,14
+Authorities,Scenario 3,3,4,4,24
+Authorities,Scenario 3,3,4,4,24
+Authorities,Scenario 3,1,2,2,4
+Authorities,Scenario 3,3,4,4,24
+Authorities,Scenario 3,2,2,3,10
+Authorities,Scenario 3,3,3,4,21
+Authorities,Scenario 3,3,4,4,24
+Authorities,Scenario 3,3,4,2,18
+Authorities,Scenario 3,3,2,2,12
+Authorities,Scenario 3,3,4,4,24
+Authorities,Scenario 3,1,3,4,7
+C2 COP,Scenario 1,0,2,1,0
+C2 COP,Scenario 1,0,4,4,0
+C2 COP,Scenario 1,2,1,4,10
+C2 COP,Scenario 1,2,4,4,16
+C2 COP,Scenario 1,2,3,3,12
+C2 COP,Scenario 1,2,2,2,8
+C2 COP,Scenario 1,3,4,4,24
+C2 COP,Scenario 1,1,1,2,3
+C2 COP,Scenario 1,2,2,2,8
+C2 COP,Scenario 1,3,4,4,24
+C2 COP,Scenario 1,3,4,4,24
+C2 COP,Scenario 1,3,4,4,24
+C2 COP,Scenario 1,2,4,4,16
+C2 COP,Scenario 1,2,4,4,16
+C2 COP,Scenario 1,3,4,3,21
+C2 COP,Scenario 1,2,4,4,16
+C2 COP,Scenario 1,2,3,4,14
+C2 COP,Scenario 1,2,4,4,16
+C2 COP,Scenario 1,2,2,3,10
+C2 COP,Scenario 1,2,2,2,8
+C2 COP,Scenario 1,3,4,4,24
+C2 COP,Scenario 2,3,4,4,24
+C2 COP,Scenario 2,2,1,4,10
+C2 COP,Scenario 2,1,3,3,6
+C2 COP,Scenario 2,1,3,4,7
+C2 COP,Scenario 2,3,4,4,24
+C2 COP,Scenario 2,2,2,4,12
+C2 COP,Scenario 2,2,2,2,8
+C2 COP,Scenario 2,2,2,3,10
+C2 COP,Scenario 2,2,1,4,10
+C2 COP,Scenario 2,3,2,2,12
+C2 COP,Scenario 2,3,4,4,24
+C2 COP,Scenario 2,2,2,4,12
+C2 COP,Scenario 2,2,3,3,12
+C2 COP,Scenario 2,2,2,4,12
+C2 COP,Scenario 2,3,4,4,24
+C2 COP,Scenario 2,2,1,2,6
+C2 COP,Scenario 2,1,4,4,8
+C2 COP,Scenario 2,2,3,4,14
+C2 COP,Scenario 2,1,4,4,8
+C2 COP,Scenario 2,3,3,4,21
+C2 COP,Scenario 2,3,2,4,18
+C2 COP,Scenario 2,3,4,4,24
+C2 COP,Scenario 2,3,4,4,24
+C2 COP,Scenario 2,2,1,2,6
+C2 COP,Scenario 2,2,2,4,12
+C2 COP,Scenario 2,2,2,4,12
+C2 COP,Scenario 2,3,4,2,18
+C2 COP,Scenario 2,3,2,2,12
+C2 COP,Scenario 2,2,2,3,10
+C2 COP,Scenario 3,2,3,3,12
+C2 COP,Scenario 3,2,1,4,10
+C2 COP,Scenario 3,1,4,4,8
+C2 COP,Scenario 3,3,4,4,24
+C2 COP,Scenario 3,3,2,4,18
+C2 COP,Scenario 3,2,2,4,12
+C2 COP,Scenario 3,2,3,3,12
+C2 COP,Scenario 3,1,2,4,6
+C2 COP,Scenario 3,3,2,4,18
+C2 COP,Scenario 3,2,2,2,8
+C2 COP,Scenario 3,1,1,1,2
+C2 COP,Scenario 3,2,2,4,12
+C2 COP,Scenario 3,3,2,4,18
+C2 COP,Scenario 3,3,4,4,24
+C2 COP,Scenario 3,1,3,4,7
+C2 COP,Scenario 3,3,4,4,24
+C2 COP,Scenario 3,1,1,2,3
+C2 COP,Scenario 3,3,4,4,24
+C2 COP,Scenario 3,2,3,3,12
+C2 COP,Scenario 3,2,3,4,14
+C2 COP,Scenario 3,3,3,3,18
+C2 COP,Scenario 3,3,4,2,18
+C2 COP,Scenario 3,3,2,2,12
+C2 COP,Scenario 3,2,3,4,14
+C2 COP,Scenario 3,2,2,4,12
+C2 Nodes at Echelon,Scenario 1,0,2,3,0
+C2 Nodes at Echelon,Scenario 1,0,4,4,0
+C2 Nodes at Echelon,Scenario 1,3,1,4,15
+C2 Nodes at Echelon,Scenario 1,2,3,4,14
+C2 Nodes at Echelon,Scenario 1,2,3,3,12
+C2 Nodes at Echelon,Scenario 1,1,1,3,4
+C2 Nodes at Echelon,Scenario 1,2,2,2,8
+C2 Nodes at Echelon,Scenario 1,2,3,2,10
+C2 Nodes at Echelon,Scenario 1,1,1,1,2
+C2 Nodes at Echelon,Scenario 1,2,2,2,8
+C2 Nodes at Echelon,Scenario 1,2,3,3,12
+C2 Nodes at Echelon,Scenario 1,2,4,4,16
+C2 Nodes at Echelon,Scenario 1,2,4,4,16
+C2 Nodes at Echelon,Scenario 1,2,3,4,14
+C2 Nodes at Echelon,Scenario 1,2,3,4,14
+C2 Nodes at Echelon,Scenario 1,2,3,4,14
+C2 Nodes at Echelon,Scenario 1,2,3,4,14
+C2 Nodes at Echelon,Scenario 1,1,3,4,7
+C2 Nodes at Echelon,Scenario 1,2,2,3,10
+C2 Nodes at Echelon,Scenario 1,2,4,2,12
+C2 Nodes at Echelon,Scenario 1,2,2,2,8
+C2 Nodes at Echelon,Scenario 2,3,4,4,24
+C2 Nodes at Echelon,Scenario 2,2,3,3,12
+C2 Nodes at Echelon,Scenario 2,2,3,4,14
+C2 Nodes at Echelon,Scenario 2,2,3,4,14
+C2 Nodes at Echelon,Scenario 2,2,3,4,14
+C2 Nodes at Echelon,Scenario 2,2,3,4,14
+C2 Nodes at Echelon,Scenario 2,2,2,4,12
+C2 Nodes at Echelon,Scenario 2,2,2,3,10
+C2 Nodes at Echelon,Scenario 2,1,2,4,6
+C2 Nodes at Echelon,Scenario 2,1,2,2,4
+C2 Nodes at Echelon,Scenario 2,2,4,4,16
+C2 Nodes at Echelon,Scenario 2,2,3,2,10
+C2 Nodes at Echelon,Scenario 2,2,4,4,16
+C2 Nodes at Echelon,Scenario 2,2,2,4,12
+C2 Nodes at Echelon,Scenario 2,2,2,4,12
+C2 Nodes at Echelon,Scenario 2,2,3,3,12
+C2 Nodes at Echelon,Scenario 2,3,4,4,24
+C2 Nodes at Echelon,Scenario 2,2,3,4,14
+C2 Nodes at Echelon,Scenario 2,3,4,4,24
+C2 Nodes at Echelon,Scenario 2,1,2,4,6
+C2 Nodes at Echelon,Scenario 2,2,1,4,10
+C2 Nodes at Echelon,Scenario 2,2,2,4,12
+C2 Nodes at Echelon,Scenario 2,2,4,4,16
+C2 Nodes at Echelon,Scenario 2,1,2,3,5
+C2 Nodes at Echelon,Scenario 2,1,3,4,7
+C2 Nodes at Echelon,Scenario 2,2,3,4,14
+C2 Nodes at Echelon,Scenario 2,2,2,2,8
+C2 Nodes at Echelon,Scenario 2,2,2,2,8
+C2 Nodes at Echelon,Scenario 2,2,2,2,8
+C2 Nodes at Echelon,Scenario 3,1,3,4,7
+C2 Nodes at Echelon,Scenario 3,2,2,4,12
+C2 Nodes at Echelon,Scenario 3,1,4,4,8
+C2 Nodes at Echelon,Scenario 3,1,3,4,7
+C2 Nodes at Echelon,Scenario 3,2,2,4,12
+C2 Nodes at Echelon,Scenario 3,2,2,4,12
+C2 Nodes at Echelon,Scenario 3,3,4,4,24
+C2 Nodes at Echelon,Scenario 3,2,2,4,12
+C2 Nodes at Echelon,Scenario 3,1,2,4,6
+C2 Nodes at Echelon,Scenario 3,2,2,4,12
+C2 Nodes at Echelon,Scenario 3,1,1,1,2
+C2 Nodes at Echelon,Scenario 3,2,2,4,12
+C2 Nodes at Echelon,Scenario 3,2,3,4,14
+C2 Nodes at Echelon,Scenario 3,2,3,4,14
+C2 Nodes at Echelon,Scenario 3,1,3,4,7
+C2 Nodes at Echelon,Scenario 3,3,4,4,24
+C2 Nodes at Echelon,Scenario 3,2,2,3,10
+C2 Nodes at Echelon,Scenario 3,3,4,4,24
+C2 Nodes at Echelon,Scenario 3,1,2,2,4
+C2 Nodes at Echelon,Scenario 3,2,4,4,16
+C2 Nodes at Echelon,Scenario 3,2,2,3,10
+C2 Nodes at Echelon,Scenario 3,2,3,2,10
+C2 Nodes at Echelon,Scenario 3,2,2,2,8
+C2 Nodes at Echelon,Scenario 3,2,3,3,12
+C2 Nodes at Echelon,Scenario 3,3,3,4,21
+CNDE,Scenario 1,2,2,3,10
+CNDE,Scenario 1,1,3,4,7
+CNDE,Scenario 1,2,3,3,12
+CNDE,Scenario 1,1,2,3,5
+CNDE,Scenario 1,2,2,2,8
+CNDE,Scenario 1,1,2,4,6
+CNDE,Scenario 1,2,2,4,12
+CNDE,Scenario 1,2,2,2,8
+CNDE,Scenario 1,3,3,3,18
+CNDE,Scenario 1,2,2,4,12
+CNDE,Scenario 1,2,2,4,12
+CNDE,Scenario 1,2,3,3,12
+CNDE,Scenario 1,1,2,2,4
+CNDE,Scenario 1,2,2,3,10
+CNDE,Scenario 1,2,2,4,12
+CNDE,Scenario 1,1,2,4,6
+CNDE,Scenario 1,3,2,3,15
+CNDE,Scenario 1,2,2,2,8
+CNDE,Scenario 1,-1,1,1,-2
+CNDE,Scenario 1,1,3,4,7
+CNDE,Scenario 1,2,2,4,12
+CNDE,Scenario 1,3,2,3,15
+CNDE,Scenario 1,2,3,2,10
+CNDE,Scenario 1,3,2,2,12
+CNDE,Scenario 1,3,2,2,12
+CNDE,Scenario 1,3,2,2,12
+CNDE,Scenario 1,-1,3,3,-6
+CNDE,Scenario 1,1,2,2,4
+CNDE,Scenario 1,2,2,4,12
+CNDE,Scenario 1,-1,1,1,-2
+CNDE,Scenario 2,2,3,4,14
+CNDE,Scenario 2,2,1,1,4
+CNDE,Scenario 2,2,1,1,4
+CNDE,Scenario 2,2,1,2,6
+CNDE,Scenario 2,2,1,2,6
+CNDE,Scenario 2,1,3,3,6
+CNDE,Scenario 2,1,2,3,5
+CNDE,Scenario 2,1,2,4,6
+CNDE,Scenario 2,1,2,4,6
+CNDE,Scenario 2,2,3,2,10
+CNDE,Scenario 2,3,2,2,12
+CNDE,Scenario 2,2,3,4,14
+CNDE,Scenario 2,1,2,4,6
+CNDE,Scenario 2,2,3,2,10
+CNDE,Scenario 2,2,3,4,14
+CNDE,Scenario 2,2,4,4,16
+CNDE,Scenario 2,2,3,4,14
+CNDE,Scenario 2,2,3,4,14
+CNDE,Scenario 2,1,1,4,5
+CNDE,Scenario 2,1,4,2,6
+CNDE,Scenario 2,2,4,4,16
+CNDE,Scenario 2,3,2,3,15
+CNDE,Scenario 2,2,1,4,10
+CNDE,Scenario 2,2,2,4,12
+CNDE,Scenario 2,2,2,4,12
+CNDE,Scenario 2,2,2,2,8
+CNDE,Scenario 3,0,1,2,0
+CNDE,Scenario 3,1,2,4,6
+CNDE,Scenario 3,1,2,2,4
+CNDE,Scenario 3,2,2,3,10
+CNDE,Scenario 3,2,3,4,14
+CNDE,Scenario 3,2,2,4,12
+CNDE,Scenario 3,3,2,3,15
+CNDE,Scenario 3,2,2,4,12
+CNDE,Scenario 3,2,2,4,12
+CNDE,Scenario 3,1,1,4,5
+CNDE,Scenario 3,2,3,4,14
+CNDE,Scenario 3,2,2,2,8
+CNDE,Scenario 3,2,2,4,12
+CNDE,Scenario 3,1,4,4,8
+CNDE,Scenario 3,1,4,4,8
+CNDE,Scenario 3,1,4,4,8
+CNDE,Scenario 3,2,2,3,10
+CNDE,Scenario 3,3,3,4,21
+CNDE,Scenario 3,2,2,4,12
+CNDE,Scenario 3,3,2,2,12
+CNDE,Scenario 3,1,3,4,7
+CNDE,Scenario 3,1,3,4,7
+CNDE,Scenario 3,2,3,4,14
+CNDE,Scenario 3,1,3,4,7
+CNDE,Scenario 3,2,2,4,12
+Consolidate Gains,Scenario 1,2,2,2,8
+Consolidate Gains,Scenario 1,1,1,2,3
+Consolidate Gains,Scenario 1,2,4,4,16
+Consolidate Gains,Scenario 1,3,4,4,24
+Consolidate Gains,Scenario 1,2,2,2,8
+Consolidate Gains,Scenario 1,2,2,2,8
+Consolidate Gains,Scenario 1,2,2,2,8
+Consolidate Gains,Scenario 1,2,3,4,14
+Consolidate Gains,Scenario 1,2,3,4,14
+Consolidate Gains,Scenario 1,2,3,3,12
+Consolidate Gains,Scenario 1,3,4,4,24
+Consolidate Gains,Scenario 1,2,3,0,6
+Consolidate Gains,Scenario 1,1,2,4,6
+Consolidate Gains,Scenario 1,2,1,1,4
+Consolidate Gains,Scenario 1,2,2,4,12
+Consolidate Gains,Scenario 1,2,3,3,12
+Consolidate Gains,Scenario 1,1,2,2,4
+Consolidate Gains,Scenario 1,2,4,4,16
+Consolidate Gains,Scenario 1,2,4,4,16
+Consolidate Gains,Scenario 1,2,4,4,16
+Consolidate Gains,Scenario 1,1,1,1,2
+Consolidate Gains,Scenario 1,2,3,4,14
+Consolidate Gains,Scenario 1,2,3,4,14
+Consolidate Gains,Scenario 1,2,2,2,8
+Consolidate Gains,Scenario 2,1,2,2,4
+Consolidate Gains,Scenario 2,1,3,4,7
+Consolidate Gains,Scenario 2,3,4,4,24
+Consolidate Gains,Scenario 2,3,4,4,24
+Consolidate Gains,Scenario 2,3,4,4,24
+Consolidate Gains,Scenario 2,3,4,4,24
+Consolidate Gains,Scenario 2,1,4,4,8
+Consolidate Gains,Scenario 2,3,3,4,21
+Consolidate Gains,Scenario 2,1,2,2,4
+Consolidate Gains,Scenario 2,2,2,4,12
+Consolidate Gains,Scenario 2,2,3,2,10
+Consolidate Gains,Scenario 2,1,1,1,2
+Consolidate Gains,Scenario 2,3,4,3,21
+Consolidate Gains,Scenario 2,1,3,4,7
+Consolidate Gains,Scenario 2,-1,0,4,-4
+Consolidate Gains,Scenario 2,2,3,4,14
+Consolidate Gains,Scenario 2,1,4,4,8
+Consolidate Gains,Scenario 2,2,3,4,14
+Consolidate Gains,Scenario 2,3,3,4,21
+Consolidate Gains,Scenario 2,1,1,4,5
+Consolidate Gains,Scenario 2,2,4,2,12
+Consolidate Gains,Scenario 2,2,4,2,12
+Consolidate Gains,Scenario 2,1,2,4,6
+Consolidate Gains,Scenario 2,2,3,2,10
+Consolidate Gains,Scenario 2,1,3,3,6
+Consolidate Gains,Scenario 2,1,3,3,6
+Consolidate Gains,Scenario 2,2,4,2,12
+Consolidate Gains,Scenario 2,3,3,2,15
+Degrade Enemy Morale,Scenario 1,3,1,1,6
+Degrade Enemy Morale,Scenario 1,2,3,3,12
+Degrade Enemy Morale,Scenario 1,1,3,2,5
+Degrade Enemy Morale,Scenario 1,2,3,2,10
+Degrade Enemy Morale,Scenario 1,1,2,3,5
+Degrade Enemy Morale,Scenario 1,1,2,2,4
+Degrade Enemy Morale,Scenario 1,1,2,2,4
+Degrade Enemy Morale,Scenario 1,1,2,2,4
+Degrade Enemy Morale,Scenario 1,2,1,2,6
+Degrade Enemy Morale,Scenario 1,2,2,2,8
+Degrade Enemy Morale,Scenario 1,2,3,3,12
+Degrade Enemy Morale,Scenario 1,2,1,2,6
+Degrade Enemy Morale,Scenario 1,2,2,3,10
+Degrade Enemy Morale,Scenario 1,2,2,2,8
+Degrade Enemy Morale,Scenario 1,1,2,1,3
+Degrade Enemy Morale,Scenario 1,2,3,3,12
+Degrade Enemy Morale,Scenario 1,1,1,2,3
+Degrade Enemy Morale,Scenario 1,2,1,3,8
+Degrade Enemy Morale,Scenario 1,2,1,1,4
+Degrade Enemy Morale,Scenario 1,1,2,2,4
+Degrade Enemy Morale,Scenario 1,2,3,4,14
+Degrade Enemy Morale,Scenario 1,1,1,2,3
+Degrade Enemy Morale,Scenario 1,3,2,3,15
+Degrade Enemy Morale,Scenario 1,3,3,3,18
+Degrade Enemy Morale,Scenario 1,2,3,2,10
+Degrade Enemy Morale,Scenario 1,2,2,3,10
+Degrade Enemy Morale,Scenario 1,2,3,2,10
+Degrade Enemy Morale,Scenario 1,3,3,3,18
+Degrade Enemy Morale,Scenario 2,3,4,4,24
+Degrade Enemy Morale,Scenario 2,2,3,4,14
+Degrade Enemy Morale,Scenario 2,1,1,2,3
+Degrade Enemy Morale,Scenario 2,2,3,4,14
+Degrade Enemy Morale,Scenario 2,1,2,4,6
+Degrade Enemy Morale,Scenario 2,2,2,4,12
+Degrade Enemy Morale,Scenario 2,2,3,3,12
+Degrade Enemy Morale,Scenario 2,2,1,2,6
+Degrade Enemy Morale,Scenario 2,1,3,2,5
+Degrade Enemy Morale,Scenario 2,2,4,4,16
+Degrade Enemy Morale,Scenario 2,2,2,3,10
+Degrade Enemy Morale,Scenario 2,2,2,4,12
+Degrade Enemy Morale,Scenario 2,2,2,3,10
+Degrade Enemy Morale,Scenario 2,1,2,3,5
+Degrade Enemy Morale,Scenario 2,2,2,4,12
+Degrade Enemy Morale,Scenario 2,1,1,4,5
+Degrade Enemy Morale,Scenario 2,1,2,3,5
+Degrade Enemy Morale,Scenario 2,1,2,3,5
+Degrade Enemy Morale,Scenario 2,2,2,4,12
+Degrade Enemy Morale,Scenario 2,3,4,4,24
+Degrade Enemy Morale,Scenario 2,1,4,4,8
+Degrade Enemy Morale,Scenario 2,2,2,4,12
+Degrade Enemy Morale,Scenario 3,1,2,4,6
+Degrade Enemy Morale,Scenario 3,2,3,3,12
+Degrade Enemy Morale,Scenario 3,2,2,3,10
+Degrade Enemy Morale,Scenario 3,1,2,3,5
+Degrade Enemy Morale,Scenario 3,3,3,4,21
+Degrade Enemy Morale,Scenario 3,1,4,4,8
+Degrade Enemy Morale,Scenario 3,2,2,4,12
+Degrade Enemy Morale,Scenario 3,2,3,4,14
+Degrade Enemy Morale,Scenario 3,2,4,4,16
+Degrade Enemy Morale,Scenario 3,2,4,4,16
+Degrade Enemy Morale,Scenario 3,2,3,4,14
+Degrade Enemy Morale,Scenario 3,2,1,4,10
+Degrade Enemy Morale,Scenario 3,2,1,2,6
+Degrade Enemy Morale,Scenario 3,1,1,4,5
+Degrade Enemy Morale,Scenario 3,2,2,4,12
+Degrade Enemy Morale,Scenario 3,2,2,4,12
+Degrade Enemy Morale,Scenario 3,2,2,3,10
+Degrade Enemy Morale,Scenario 3,2,2,4,12
+Degrade Enemy Morale,Scenario 3,3,4,4,24
+Degrade Enemy Morale,Scenario 3,2,3,3,12
+Degrade Enemy Morale,Scenario 3,2,1,3,8
+Degrade Enemy Morale,Scenario 3,2,3,4,14
+Develop Resistance Forces,Scenario 1,2,2,2,8
+Develop Resistance Forces,Scenario 1,1,2,3,5
+Develop Resistance Forces,Scenario 1,1,3,3,6
+Develop Resistance Forces,Scenario 1,3,3,4,21
+Develop Resistance Forces,Scenario 1,1,3,4,7
+Develop Resistance Forces,Scenario 1,2,3,4,14
+Develop Resistance Forces,Scenario 1,1,3,4,7
+Develop Resistance Forces,Scenario 1,2,2,2,8
+Develop Resistance Forces,Scenario 1,1,3,2,5
+Develop Resistance Forces,Scenario 1,2,3,2,10
+Develop Resistance Forces,Scenario 1,2,2,2,8
+Develop Resistance Forces,Scenario 1,-1,1,0,-1
+Develop Resistance Forces,Scenario 1,2,2,2,8
+Develop Resistance Forces,Scenario 1,2,3,4,14
+Develop Resistance Forces,Scenario 1,2,3,4,14
+Develop Resistance Forces,Scenario 1,2,1,2,6
+Develop Resistance Forces,Scenario 1,2,4,4,16
+Develop Resistance Forces,Scenario 1,2,3,2,10
+Develop Resistance Forces,Scenario 1,3,2,1,9
+Develop Resistance Forces,Scenario 1,1,3,2,5
+Develop Resistance Forces,Scenario 1,2,2,2,8
+Develop Resistance Forces,Scenario 1,2,2,2,8
+Develop Resistance Forces,Scenario 1,2,2,1,6
+Develop Resistance Forces,Scenario 1,2,3,3,12
+Develop Resistance Forces,Scenario 1,1,1,2,3
+Develop Resistance Forces,Scenario 1,2,3,2,10
+Develop Resistance Forces,Scenario 1,2,2,4,12
+Develop Resistance Forces,Scenario 1,3,3,2,15
+Develop Resistance Forces,Scenario 1,1,2,3,5
+Develop Resistance Forces,Scenario 1,0,1,0,0
+Develop Resistance Forces,Scenario 2,2,3,3,12
+Develop Resistance Forces,Scenario 2,1,3,4,7
+Develop Resistance Forces,Scenario 2,1,2,3,5
+Develop Resistance Forces,Scenario 2,1,2,3,5
+Develop Resistance Forces,Scenario 2,1,2,3,5
+Develop Resistance Forces,Scenario 2,1,2,2,4
+Develop Resistance Forces,Scenario 2,1,3,3,6
+Develop Resistance Forces,Scenario 2,2,3,4,14
+Develop Resistance Forces,Scenario 2,1,3,4,7
+Develop Resistance Forces,Scenario 2,2,3,3,12
+Develop Resistance Forces,Scenario 2,1,2,2,4
+Develop Resistance Forces,Scenario 2,2,2,2,8
+Develop Resistance Forces,Scenario 2,2,3,2,10
+Develop Resistance Forces,Scenario 2,2,2,1,6
+Develop Resistance Forces,Scenario 2,2,3,4,14
+Develop Resistance Forces,Scenario 2,2,2,4,12
+Develop Resistance Forces,Scenario 2,1,3,3,6
+Develop Resistance Forces,Scenario 2,2,3,4,14
+Develop Resistance Forces,Scenario 2,2,3,3,12
+Develop Resistance Forces,Scenario 2,1,2,4,6
+Develop Resistance Forces,Scenario 2,2,4,4,16
+Develop Resistance Forces,Scenario 2,2,2,4,12
+Develop Resistance Forces,Scenario 2,2,2,4,12
+Develop Resistance Forces,Scenario 2,2,3,4,14
+Develop Resistance Forces,Scenario 2,3,1,4,15
+Develop Resistance Forces,Scenario 2,2,4,4,16
+Develop Resistance Forces,Scenario 2,2,1,4,10
+Develop Resistance Forces,Scenario 2,1,2,4,6
+Develop Resistance Forces,Scenario 3,1,2,4,6
+Develop Resistance Forces,Scenario 3,1,2,1,3
+Develop Resistance Forces,Scenario 3,2,2,3,10
+Develop Resistance Forces,Scenario 3,2,3,2,10
+Develop Resistance Forces,Scenario 3,2,2,4,12
+Develop Resistance Forces,Scenario 3,2,2,4,12
+Develop Resistance Forces,Scenario 3,1,1,4,5
+Develop Resistance Forces,Scenario 3,1,2,4,6
+Develop Resistance Forces,Scenario 3,1,2,4,6
+Develop Resistance Forces,Scenario 3,1,2,4,6
+Develop Resistance Forces,Scenario 3,1,4,4,8
+Develop Resistance Forces,Scenario 3,1,4,4,8
+Develop Resistance Forces,Scenario 3,2,4,4,16
+Develop Resistance Forces,Scenario 3,1,2,4,6
+Develop Resistance Forces,Scenario 3,2,2,4,12
+Develop Resistance Forces,Scenario 3,2,3,4,14
+Develop Resistance Forces,Scenario 3,3,3,2,15
+Develop Resistance Forces,Scenario 3,2,3,2,10
+Develop Resistance Forces,Scenario 3,3,3,4,21
+Develop Resistance Forces,Scenario 3,2,1,4,10
+Develop Resistance Forces,Scenario 3,2,3,4,14
+Develop Resistance Forces,Scenario 3,1,3,4,7
+Develop Resistance Forces,Scenario 3,1,3,4,7
+Develop Resistance Forces,Scenario 3,2,4,4,16
+Develop Resistance Forces,Scenario 3,3,2,3,15
+Develop Resistance Forces,Scenario 3,2,1,2,6
+Develop Resistance Forces,Scenario 3,1,3,4,7
+Disrupt EN Tac. Sup. Area,Scenario 1,2,4,4,16
+Disrupt EN Tac. Sup. Area,Scenario 1,2,2,4,12
+Disrupt EN Tac. Sup. Area,Scenario 1,2,2,2,8
+Disrupt EN Tac. Sup. Area,Scenario 1,2,1,1,4
+Disrupt EN Tac. Sup. Area,Scenario 1,2,3,4,14
+Disrupt EN Tac. Sup. Area,Scenario 1,2,2,2,8
+Disrupt EN Tac. Sup. Area,Scenario 1,2,3,3,12
+Disrupt EN Tac. Sup. Area,Scenario 1,2,3,1,8
+Disrupt EN Tac. Sup. Area,Scenario 1,2,3,1,8
+Disrupt EN Tac. Sup. Area,Scenario 1,1,2,1,3
+Disrupt EN Tac. Sup. Area,Scenario 1,3,2,1,9
+Disrupt EN Tac. Sup. Area,Scenario 1,3,1,1,6
+Disrupt EN Tac. Sup. Area,Scenario 1,1,3,2,5
+Disrupt EN Tac. Sup. Area,Scenario 1,2,2,4,12
+Disrupt EN Tac. Sup. Area,Scenario 1,1,3,3,6
+Disrupt EN Tac. Sup. Area,Scenario 1,1,3,3,6
+Disrupt EN Tac. Sup. Area,Scenario 1,2,4,2,12
+Disrupt EN Tac. Sup. Area,Scenario 1,2,4,2,12
+Disrupt EN Tac. Sup. Area,Scenario 1,2,3,2,10
+Disrupt EN Tac. Sup. Area,Scenario 1,0,0,0,0
+Disrupt EN Tac. Sup. Area,Scenario 2,2,3,4,14
+Disrupt EN Tac. Sup. Area,Scenario 2,2,4,3,14
+Disrupt EN Tac. Sup. Area,Scenario 2,2,2,2,8
+Disrupt EN Tac. Sup. Area,Scenario 2,2,4,4,16
+Disrupt EN Tac. Sup. Area,Scenario 2,2,3,2,10
+Disrupt EN Tac. Sup. Area,Scenario 2,2,3,4,14
+Disrupt EN Tac. Sup. Area,Scenario 2,2,4,3,14
+Disrupt EN Tac. Sup. Area,Scenario 2,2,4,3,14
+Disrupt EN Tac. Sup. Area,Scenario 2,2,4,3,14
+Disrupt EN Tac. Sup. Area,Scenario 2,2,2,2,8
+Disrupt EN Tac. Sup. Area,Scenario 2,3,3,4,21
+Disrupt EN Tac. Sup. Area,Scenario 2,2,1,2,6
+Disrupt EN Tac. Sup. Area,Scenario 2,2,1,2,6
+Disrupt EN Tac. Sup. Area,Scenario 2,1,3,4,7
+Disrupt EN Tac. Sup. Area,Scenario 2,1,3,4,7
+Disrupt EN Tac. Sup. Area,Scenario 2,3,4,4,24
+Disrupt EN Tac. Sup. Area,Scenario 2,2,4,2,12
+Disrupt EN Tac. Sup. Area,Scenario 2,1,2,3,5
+Disrupt EN Tac. Sup. Area,Scenario 2,2,2,4,12
+Disrupt EN Tac. Sup. Area,Scenario 2,1,3,4,7
+Disrupt EN Tac. Sup. Area,Scenario 2,2,1,1,4
+Disrupt EN Tac. Sup. Area,Scenario 2,3,3,2,15
+Disrupt EN Tac. Sup. Area,Scenario 2,2,4,2,12
+Disrupt EN Tac. Sup. Area,Scenario 2,-1,2,1,-3
+Disrupt EN Tac. Sup. Area,Scenario 2,1,2,3,5
+Disrupt EN Tac. Sup. Area,Scenario 2,2,4,2,12
+Disrupt EN Tac. Sup. Area,Scenario 2,2,2,3,10
+Disrupt EN Tac. Sup. Area,Scenario 2,1,3,3,6
+Doctrine,Scenario 1,0,1,1,0
+Doctrine,Scenario 1,3,1,4,15
+Doctrine,Scenario 1,2,1,4,10
+Doctrine,Scenario 1,3,2,2,12
+Doctrine,Scenario 1,3,4,3,21
+Doctrine,Scenario 1,1,1,2,3
+Doctrine,Scenario 1,3,4,2,18
+Doctrine,Scenario 1,3,4,4,24
+Doctrine,Scenario 1,1,1,2,3
+Doctrine,Scenario 1,2,3,3,12
+Doctrine,Scenario 1,2,3,2,10
+Doctrine,Scenario 1,3,4,4,24
+Doctrine,Scenario 1,2,4,4,16
+Doctrine,Scenario 1,3,4,4,24
+Doctrine,Scenario 1,1,1,2,3
+Doctrine,Scenario 1,3,3,4,21
+Doctrine,Scenario 1,2,2,4,12
+Doctrine,Scenario 1,2,3,4,14
+Doctrine,Scenario 1,1,1,4,5
+Doctrine,Scenario 1,2,2,2,8
+Doctrine,Scenario 1,3,3,4,21
+Doctrine,Scenario 2,2,4,4,16
+Doctrine,Scenario 2,2,4,4,16
+Doctrine,Scenario 2,2,4,4,16
+Doctrine,Scenario 2,2,4,4,16
+Doctrine,Scenario 2,2,2,4,12
+Doctrine,Scenario 2,1,1,2,3
+Doctrine,Scenario 2,1,2,4,6
+Doctrine,Scenario 2,2,1,4,10
+Doctrine,Scenario 2,1,1,4,5
+Doctrine,Scenario 2,2,3,4,14
+Doctrine,Scenario 2,2,4,4,16
+Doctrine,Scenario 2,3,4,4,24
+Doctrine,Scenario 2,2,2,3,10
+Doctrine,Scenario 2,2,3,4,14
+Doctrine,Scenario 2,2,3,3,12
+Doctrine,Scenario 2,2,2,4,12
+Doctrine,Scenario 2,2,4,4,16
+Doctrine,Scenario 2,1,2,4,6
+Doctrine,Scenario 2,1,4,4,8
+Doctrine,Scenario 2,2,3,4,14
+Doctrine,Scenario 2,3,4,2,18
+Doctrine,Scenario 2,2,4,4,16
+Doctrine,Scenario 2,3,4,4,24
+Doctrine,Scenario 2,1,1,1,2
+Doctrine,Scenario 2,1,1,4,5
+Doctrine,Scenario 2,2,1,4,10
+Doctrine,Scenario 2,3,4,2,18
+Doctrine,Scenario 2,2,2,2,8
+Doctrine,Scenario 2,1,2,2,4
+Doctrine,Scenario 3,2,3,4,14
+Doctrine,Scenario 3,1,1,4,5
+Doctrine,Scenario 3,1,4,4,8
+Doctrine,Scenario 3,2,3,4,14
+Doctrine,Scenario 3,3,3,4,21
+Doctrine,Scenario 3,1,1,1,2
+Doctrine,Scenario 3,2,1,2,6
+Doctrine,Scenario 3,1,1,4,5
+Doctrine,Scenario 3,2,1,4,10
+Doctrine,Scenario 3,1,3,2,5
+Doctrine,Scenario 3,2,3,2,10
+Doctrine,Scenario 3,1,1,4,5
+Doctrine,Scenario 3,2,3,4,14
+Doctrine,Scenario 3,3,3,4,21
+Doctrine,Scenario 3,2,4,4,16
+Doctrine,Scenario 3,3,4,4,24
+Doctrine,Scenario 3,1,1,2,3
+Doctrine,Scenario 3,3,4,4,24
+Doctrine,Scenario 3,3,3,3,18
+Doctrine,Scenario 3,1,2,4,6
+Doctrine,Scenario 3,2,2,4,12
+Doctrine,Scenario 3,2,2,4,12
+Doctrine,Scenario 3,2,2,2,8
+Doctrine,Scenario 3,2,3,4,14
+Doctrine,Scenario 3,3,1,4,15
+Effect Threat IW Capes,Scenario 1,3,1,2,9
+Effect Threat IW Capes,Scenario 1,3,4,4,24
+Effect Threat IW Capes,Scenario 1,1,2,3,5
+Effect Threat IW Capes,Scenario 1,2,4,4,16
+Effect Threat IW Capes,Scenario 1,2,3,4,14
+Effect Threat IW Capes,Scenario 1,2,3,4,14
+Effect Threat IW Capes,Scenario 1,2,3,4,14
+Effect Threat IW Capes,Scenario 1,2,2,2,8
+Effect Threat IW Capes,Scenario 1,2,2,2,8
+Effect Threat IW Capes,Scenario 1,3,2,2,12
+Effect Threat IW Capes,Scenario 1,3,4,3,21
+Effect Threat IW Capes,Scenario 1,2,2,3,10
+Effect Threat IW Capes,Scenario 1,2,4,3,14
+Effect Threat IW Capes,Scenario 1,3,3,2,15
+Effect Threat IW Capes,Scenario 1,2,2,4,12
+Effect Threat IW Capes,Scenario 1,2,3,4,14
+Effect Threat IW Capes,Scenario 1,2,1,3,8
+Effect Threat IW Capes,Scenario 1,1,3,4,7
+Effect Threat IW Capes,Scenario 1,3,4,4,24
+Effect Threat IW Capes,Scenario 1,2,2,3,10
+Effect Threat IW Capes,Scenario 1,1,2,2,4
+Effect Threat IW Capes,Scenario 1,2,3,2,10
+Effect Threat IW Capes,Scenario 1,3,3,3,18
+Effect Threat IW Capes,Scenario 1,2,1,2,6
+Effect Threat IW Capes,Scenario 1,2,2,1,6
+Effect Threat IW Capes,Scenario 1,3,3,2,15
+Effect Threat IW Capes,Scenario 1,3,4,4,24
+Effect Threat IW Capes,Scenario 1,0,2,3,0
+Effect Threat IW Capes,Scenario 2,2,4,4,16
+Effect Threat IW Capes,Scenario 2,2,3,2,10
+Effect Threat IW Capes,Scenario 2,2,3,4,14
+Effect Threat IW Capes,Scenario 2,2,3,4,14
+Effect Threat IW Capes,Scenario 2,2,2,4,12
+Effect Threat IW Capes,Scenario 2,2,3,4,14
+Effect Threat IW Capes,Scenario 2,1,2,2,4
+Effect Threat IW Capes,Scenario 2,2,1,2,6
+Effect Threat IW Capes,Scenario 2,2,3,3,12
+Effect Threat IW Capes,Scenario 2,2,2,3,10
+Effect Threat IW Capes,Scenario 2,3,3,4,21
+Effect Threat IW Capes,Scenario 2,2,3,4,14
+Effect Threat IW Capes,Scenario 2,2,2,3,10
+Effect Threat IW Capes,Scenario 2,3,2,2,12
+Effect Threat IW Capes,Scenario 2,1,2,4,6
+Effect Threat IW Capes,Scenario 2,1,2,4,6
+Effect Threat IW Capes,Scenario 2,1,1,1,2
+Effect Threat IW Capes,Scenario 2,1,1,1,2
+Effect Threat IW Capes,Scenario 2,3,3,4,21
+Effect Threat IW Capes,Scenario 2,1,3,4,7
+Effect Threat IW Capes,Scenario 2,-1,1,0,-1
+Effect Threat IW Capes,Scenario 3,2,3,4,14
+Effect Threat IW Capes,Scenario 3,2,3,4,14
+Effect Threat IW Capes,Scenario 3,2,3,4,14
+Effect Threat IW Capes,Scenario 3,2,1,4,10
+Effect Threat IW Capes,Scenario 3,2,3,4,14
+Effect Threat IW Capes,Scenario 3,2,2,4,12
+Effect Threat IW Capes,Scenario 3,3,3,4,21
+Effect Threat IW Capes,Scenario 3,2,4,4,16
+Effect Threat IW Capes,Scenario 3,2,4,4,16
+Effect Threat IW Capes,Scenario 3,2,3,3,12
+Effect Threat IW Capes,Scenario 3,3,4,1,15
+Effect Threat IW Capes,Scenario 3,2,3,4,14
+Effect Threat IW Capes,Scenario 3,3,3,4,21
+Effect Threat IW Capes,Scenario 3,2,1,3,8
+Effect Threat IW Capes,Scenario 3,3,3,2,15
+Effect Threat IW Capes,Scenario 3,1,4,4,8
+Effect Threat IW Capes,Scenario 3,3,3,4,21
+Effect Threat IW Capes,Scenario 3,2,2,4,12
+Effect Threat IW Capes,Scenario 3,1,1,4,5
+Effect Threat IW Capes,Scenario 3,2,2,1,6
+Effect Threat IW Capes,Scenario 3,2,2,4,12
+Effect Threat IW Capes,Scenario 3,2,3,4,14
+Effect Threat IW Capes,Scenario 3,2,4,4,16
+Effect Threat IW Capes,Scenario 3,2,1,3,8
+Enhance Resilience,Scenario 1,2,3,2,10
+Enhance Resilience,Scenario 1,1,4,4,8
+Enhance Resilience,Scenario 1,2,2,3,10
+Enhance Resilience,Scenario 1,2,2,3,10
+Enhance Resilience,Scenario 1,2,2,4,12
+Enhance Resilience,Scenario 1,2,2,4,12
+Enhance Resilience,Scenario 1,1,3,4,7
+Enhance Resilience,Scenario 1,2,2,2,8
+Enhance Resilience,Scenario 1,2,3,4,14
+Enhance Resilience,Scenario 1,2,3,4,14
+Enhance Resilience,Scenario 1,2,2,3,10
+Enhance Resilience,Scenario 1,1,2,4,6
+Enhance Resilience,Scenario 1,3,4,4,24
+Enhance Resilience,Scenario 1,1,2,4,6
+Enhance Resilience,Scenario 1,2,2,4,12
+Enhance Resilience,Scenario 1,1,2,2,4
+Enhance Resilience,Scenario 1,2,1,2,6
+Enhance Resilience,Scenario 1,2,3,4,14
+Enhance Resilience,Scenario 1,2,2,1,6
+Enhance Resilience,Scenario 1,2,3,4,14
+Enhance Resilience,Scenario 1,2,2,3,10
+Enhance Resilience,Scenario 1,2,2,3,10
+Enhance Resilience,Scenario 1,2,2,3,10
+Enhance Resilience,Scenario 1,2,2,4,12
+Enhance Resilience,Scenario 1,2,4,4,16
+Enhance Resilience,Scenario 1,1,1,2,3
+Enhance Resilience,Scenario 1,1,2,1,3
+Enhance Resilience,Scenario 1,2,2,3,10
+Enhance Resilience,Scenario 1,1,4,4,8
+Enhance Resilience,Scenario 2,2,3,4,14
+Enhance Resilience,Scenario 2,1,4,4,8
+Enhance Resilience,Scenario 2,2,3,4,14
+Enhance Resilience,Scenario 2,1,3,2,5
+Enhance Resilience,Scenario 2,1,3,2,5
+Enhance Resilience,Scenario 2,1,3,2,5
+Enhance Resilience,Scenario 2,1,3,2,5
+Enhance Resilience,Scenario 2,2,2,4,12
+Enhance Resilience,Scenario 2,2,2,4,12
+Enhance Resilience,Scenario 2,1,2,2,4
+Enhance Resilience,Scenario 2,1,2,2,4
+Enhance Resilience,Scenario 2,2,2,1,6
+Enhance Resilience,Scenario 2,2,4,4,16
+Enhance Resilience,Scenario 2,3,2,4,18
+Enhance Resilience,Scenario 2,1,1,2,3
+Enhance Resilience,Scenario 2,2,3,4,14
+Enhance Resilience,Scenario 2,2,3,4,14
+Enhance Resilience,Scenario 2,2,3,4,14
+Enhance Resilience,Scenario 2,2,2,2,8
+Enhance Resilience,Scenario 2,1,2,4,6
+Enhance Resilience,Scenario 2,2,4,4,16
+Enhance Resilience,Scenario 2,2,1,4,10
+Enhance Resilience,Scenario 2,2,2,4,12
+Enhance Resilience,Scenario 2,2,3,4,14
+Enhance Resilience,Scenario 2,1,1,4,5
+Enhance Resilience,Scenario 2,2,1,4,10
+Enhance Resilience,Scenario 3,2,3,4,14
+Enhance Resilience,Scenario 3,1,1,2,3
+Enhance Resilience,Scenario 3,2,2,3,10
+Enhance Resilience,Scenario 3,2,4,3,14
+Enhance Resilience,Scenario 3,2,2,4,12
+Enhance Resilience,Scenario 3,2,2,4,12
+Enhance Resilience,Scenario 3,2,2,2,8
+Enhance Resilience,Scenario 3,1,1,4,5
+Enhance Resilience,Scenario 3,1,2,4,6
+Enhance Resilience,Scenario 3,2,4,4,16
+Enhance Resilience,Scenario 3,2,4,4,16
+Enhance Resilience,Scenario 3,2,4,4,16
+Enhance Resilience,Scenario 3,2,2,4,12
+Enhance Resilience,Scenario 3,1,2,4,6
+Enhance Resilience,Scenario 3,2,2,4,12
+Enhance Resilience,Scenario 3,1,3,4,7
+Enhance Resilience,Scenario 3,1,1,4,5
+Enhance Resilience,Scenario 3,2,3,3,12
+Enhance Resilience,Scenario 3,1,1,2,3
+Enhance Resilience,Scenario 3,2,2,4,12
+Enhance Resilience,Scenario 3,3,2,3,15
+Enhance Resilience,Scenario 3,1,1,4,5
+Enhance Resilience,Scenario 3,2,3,2,10
+Expose EN Strat. Flanks,Scenario 1,2,4,4,16
+Expose EN Strat. Flanks,Scenario 1,2,3,2,10
+Expose EN Strat. Flanks,Scenario 1,1,2,3,5
+Expose EN Strat. Flanks,Scenario 1,1,2,2,4
+Expose EN Strat. Flanks,Scenario 1,2,2,3,10
+Expose EN Strat. Flanks,Scenario 1,2,3,4,14
+Expose EN Strat. Flanks,Scenario 1,1,1,4,5
+Expose EN Strat. Flanks,Scenario 1,2,2,2,8
+Expose EN Strat. Flanks,Scenario 1,3,2,2,12
+Expose EN Strat. Flanks,Scenario 1,2,2,3,10
+Expose EN Strat. Flanks,Scenario 1,2,3,1,8
+Expose EN Strat. Flanks,Scenario 1,2,3,1,8
+Expose EN Strat. Flanks,Scenario 1,1,2,4,6
+Expose EN Strat. Flanks,Scenario 1,2,1,2,6
+Expose EN Strat. Flanks,Scenario 1,2,4,4,16
+Expose EN Strat. Flanks,Scenario 1,2,2,3,10
+Expose EN Strat. Flanks,Scenario 1,2,1,2,6
+Expose EN Strat. Flanks,Scenario 1,2,2,2,8
+Expose EN Strat. Flanks,Scenario 1,2,2,2,8
+Expose EN Strat. Flanks,Scenario 1,2,3,3,12
+Expose EN Strat. Flanks,Scenario 1,2,3,3,12
+Expose EN Strat. Flanks,Scenario 1,1,3,4,7
+Expose EN Strat. Flanks,Scenario 1,2,3,4,14
+Expose EN Strat. Flanks,Scenario 3,3,3,2,15
+Expose EN Strat. Flanks,Scenario 3,3,4,4,24
+Expose EN Strat. Flanks,Scenario 3,3,4,4,24
+Expose EN Strat. Flanks,Scenario 3,2,3,4,14
+Expose EN Strat. Flanks,Scenario 3,2,2,4,12
+Expose EN Strat. Flanks,Scenario 3,1,3,2,5
+Expose EN Strat. Flanks,Scenario 3,-1,2,3,-5
+Expose EN Strat. Flanks,Scenario 3,3,3,4,21
+Expose EN Strat. Flanks,Scenario 3,3,4,4,24
+Expose EN Strat. Flanks,Scenario 3,3,3,2,15
+Expose EN Strat. Flanks,Scenario 3,3,3,2,15
+Expose EN Strat. Flanks,Scenario 3,3,3,4,21
+Expose EN Strat. Flanks,Scenario 3,2,3,2,10
+Expose EN Strat. Flanks,Scenario 3,1,2,2,4
+Expose EN Strat. Flanks,Scenario 3,2,3,1,8
+Expose EN Strat. Flanks,Scenario 3,2,3,4,14
+Expose EN Strat. Flanks,Scenario 3,3,3,4,21
+Expose EN Strat. Flanks,Scenario 3,3,3,4,21
+Expose EN Strat. Flanks,Scenario 3,2,2,4,12
+Expose EN Strat. Flanks,Scenario 3,2,2,4,12
+Expose EN Strat. Flanks,Scenario 3,2,2,4,12
+Expose EN Strat. Flanks,Scenario 3,2,2,2,8
+Expose EN Strat. Flanks,Scenario 3,2,4,3,14
+Facilities,Scenario 1,0,4,4,0
+Facilities,Scenario 1,1,1,4,5
+Facilities,Scenario 1,2,2,2,8
+Facilities,Scenario 1,1,2,2,4
+Facilities,Scenario 1,2,3,3,12
+Facilities,Scenario 1,1,1,3,4
+Facilities,Scenario 1,1,1,3,4
+Facilities,Scenario 1,1,2,3,5
+Facilities,Scenario 1,2,2,2,8
+Facilities,Scenario 1,1,4,3,7
+Facilities,Scenario 1,2,2,2,8
+Facilities,Scenario 1,3,4,4,24
+Facilities,Scenario 1,3,4,4,24
+Facilities,Scenario 1,2,4,4,16
+Facilities,Scenario 1,2,1,4,10
+Facilities,Scenario 1,1,2,2,4
+Facilities,Scenario 1,1,1,4,5
+Facilities,Scenario 1,1,2,2,4
+Facilities,Scenario 1,2,2,4,12
+Facilities,Scenario 1,2,2,2,8
+Facilities,Scenario 1,1,2,4,6
+Facilities,Scenario 2,0,0,0,0
+Facilities,Scenario 2,1,4,4,8
+Facilities,Scenario 2,2,1,1,4
+Facilities,Scenario 2,2,1,1,4
+Facilities,Scenario 2,2,1,1,4
+Facilities,Scenario 2,1,2,2,4
+Facilities,Scenario 2,1,2,2,4
+Facilities,Scenario 2,1,1,0,1
+Facilities,Scenario 2,1,1,4,5
+Facilities,Scenario 2,1,2,4,6
+Facilities,Scenario 2,1,3,2,5
+Facilities,Scenario 2,2,4,4,16
+Facilities,Scenario 2,1,2,2,4
+Facilities,Scenario 2,1,2,4,6
+Facilities,Scenario 2,1,2,3,5
+Facilities,Scenario 2,2,1,2,6
+Facilities,Scenario 2,1,4,4,8
+Facilities,Scenario 2,1,2,4,6
+Facilities,Scenario 2,2,3,3,12
+Facilities,Scenario 2,1,3,4,7
+Facilities,Scenario 2,1,1,2,3
+Facilities,Scenario 2,1,2,4,6
+Facilities,Scenario 2,1,3,4,7
+Facilities,Scenario 2,-1,0,1,-1
+Facilities,Scenario 2,1,1,4,5
+Facilities,Scenario 2,1,1,4,5
+Facilities,Scenario 2,2,2,2,8
+Facilities,Scenario 2,2,2,2,8
+Facilities,Scenario 2,2,2,2,8
+Facilities,Scenario 3,0,2,2,0
+Facilities,Scenario 3,1,0,0,0
+Facilities,Scenario 3,2,3,4,14
+Facilities,Scenario 3,1,1,4,5
+Facilities,Scenario 3,3,3,3,18
+Facilities,Scenario 3,1,2,4,6
+Facilities,Scenario 3,1,4,4,8
+Facilities,Scenario 3,2,3,2,10
+Facilities,Scenario 3,1,1,2,3
+Facilities,Scenario 3,1,1,4,5
+Facilities,Scenario 3,1,2,1,3
+Facilities,Scenario 3,1,1,4,5
+Facilities,Scenario 3,2,2,4,12
+Facilities,Scenario 3,1,1,4,5
+Facilities,Scenario 3,1,3,4,7
+Facilities,Scenario 3,3,4,4,24
+Facilities,Scenario 3,2,1,1,4
+Facilities,Scenario 3,2,4,4,16
+Facilities,Scenario 3,3,4,4,24
+Facilities,Scenario 3,1,1,1,2
+Facilities,Scenario 3,2,3,4,14
+Facilities,Scenario 3,1,2,2,4
+Facilities,Scenario 3,2,2,2,8
+Facilities,Scenario 3,1,3,3,6
+Facilities,Scenario 3,2,1,4,10
+Close Strike,Scenario 1,1,3,3,6
+Close Strike,Scenario 1,3,4,1,15
+Close Strike,Scenario 1,3,3,2,15
+Close Strike,Scenario 1,2,4,4,16
+Close Strike,Scenario 1,2,4,4,16
+Close Strike,Scenario 1,2,1,2,6
+Close Strike,Scenario 1,2,2,4,12
+Close Strike,Scenario 1,2,2,2,8
+Close Strike,Scenario 1,3,2,1,9
+Close Strike,Scenario 1,1,3,3,6
+Close Strike,Scenario 1,1,2,3,5
+Close Strike,Scenario 1,3,3,1,12
+Close Strike,Scenario 1,3,3,1,12
+Close Strike,Scenario 1,1,3,3,6
+Close Strike,Scenario 1,1,1,1,2
+Close Strike,Scenario 1,2,3,2,10
+Close Strike,Scenario 1,2,3,2,10
+Close Strike,Scenario 1,0,1,1,0
+Close Strike,Scenario 1,-1,0,0,0
+Close Strike,Scenario 1,1,0,0,0
+Close Strike,Scenario 1,1,0,0,0
+Close Strike,Scenario 1,1,0,0,0
+Close Strike,Scenario 2,3,3,4,21
+Close Strike,Scenario 2,2,2,4,12
+Close Strike,Scenario 2,2,2,2,8
+Close Strike,Scenario 2,1,2,2,4
+Close Strike,Scenario 2,3,2,2,12
+Close Strike,Scenario 2,2,2,2,8
+Close Strike,Scenario 2,1,2,4,6
+Close Strike,Scenario 2,1,2,4,6
+Close Strike,Scenario 2,1,2,4,6
+Close Strike,Scenario 2,2,2,2,8
+Close Strike,Scenario 2,2,1,3,8
+Close Strike,Scenario 2,3,4,4,24
+Close Strike,Scenario 2,3,3,4,21
+Close Strike,Scenario 2,2,2,4,12
+Close Strike,Scenario 2,1,3,3,6
+Close Strike,Scenario 2,3,3,4,21
+Close Strike,Scenario 2,2,2,2,8
+Close Strike,Scenario 2,3,2,4,18
+Close Strike,Scenario 2,2,3,1,8
+Close Strike,Scenario 2,2,3,1,8
+Close Strike,Scenario 2,2,3,2,10
+Close Strike,Scenario 2,-1,1,1,-2
+Close Strike,Scenario 2,1,2,2,4
+Close Strike,Scenario 3,3,4,4,24
+Close Strike,Scenario 3,2,2,3,10
+Close Strike,Scenario 3,2,2,2,8
+Close Strike,Scenario 3,2,2,2,8
+Close Strike,Scenario 3,-1,1,1,-2
+Close Strike,Scenario 3,3,3,4,21
+Close Strike,Scenario 3,2,3,2,10
+Close Strike,Scenario 3,2,3,2,10
+Close Strike,Scenario 3,2,3,4,14
+Close Strike,Scenario 3,2,4,3,14
+Close Strike,Scenario 3,2,2,4,12
+Close Strike,Scenario 3,2,3,3,12
+Close Strike,Scenario 3,3,1,1,6
+Close Strike,Scenario 3,2,2,2,8
+Close Strike,Scenario 3,3,3,3,18
+Close Strike,Scenario 3,2,2,3,10
+Close Strike,Scenario 3,3,4,4,24
+Close Strike,Scenario 3,3,3,4,21
+Close Strike,Scenario 3,3,3,4,21
+Close Strike,Scenario 3,2,3,3,12
+Close Strike,Scenario 3,2,2,4,12
+Close Strike,Scenario 3,3,3,4,21
+Illuminate The Deep,Scenario 1,2,1,2,6
+Illuminate The Deep,Scenario 1,3,4,2,18
+Illuminate The Deep,Scenario 1,2,4,4,16
+Illuminate The Deep,Scenario 1,2,4,2,12
+Illuminate The Deep,Scenario 1,2,4,4,16
+Illuminate The Deep,Scenario 1,2,4,4,16
+Illuminate The Deep,Scenario 1,2,4,4,16
+Illuminate The Deep,Scenario 1,1,4,4,8
+Illuminate The Deep,Scenario 1,2,2,2,8
+Illuminate The Deep,Scenario 1,2,4,2,12
+Illuminate The Deep,Scenario 1,3,3,2,15
+Illuminate The Deep,Scenario 1,2,2,2,8
+Illuminate The Deep,Scenario 1,2,2,2,8
+Illuminate The Deep,Scenario 1,2,3,4,14
+Illuminate The Deep,Scenario 1,3,3,2,15
+Illuminate The Deep,Scenario 1,3,3,3,18
+Illuminate The Deep,Scenario 1,2,2,2,8
+Illuminate The Deep,Scenario 1,2,2,2,8
+Illuminate The Deep,Scenario 1,3,2,2,12
+Illuminate The Deep,Scenario 1,1,4,4,8
+Illuminate The Deep,Scenario 1,2,3,4,14
+Illuminate The Deep,Scenario 1,1,2,1,3
+Illuminate The Deep,Scenario 1,2,3,2,10
+Illuminate The Deep,Scenario 1,2,3,3,12
+Illuminate The Deep,Scenario 1,3,3,3,18
+Illuminate The Deep,Scenario 1,3,2,2,12
+Illuminate The Deep,Scenario 1,1,2,1,3
+Illuminate The Deep,Scenario 1,2,4,3,14
+Illuminate The Deep,Scenario 2,2,3,4,14
+Illuminate The Deep,Scenario 2,3,4,3,21
+Illuminate The Deep,Scenario 2,2,2,2,8
+Illuminate The Deep,Scenario 2,2,1,3,8
+Illuminate The Deep,Scenario 2,2,2,3,10
+Illuminate The Deep,Scenario 2,2,3,4,14
+Illuminate The Deep,Scenario 2,2,2,4,12
+Illuminate The Deep,Scenario 2,2,3,4,14
+Illuminate The Deep,Scenario 2,3,3,2,15
+Illuminate The Deep,Scenario 2,2,4,4,16
+Illuminate The Deep,Scenario 2,2,4,4,16
+Illuminate The Deep,Scenario 2,2,3,4,14
+Illuminate The Deep,Scenario 2,2,3,3,12
+Illuminate The Deep,Scenario 2,1,3,4,7
+Illuminate The Deep,Scenario 2,1,3,4,7
+Illuminate The Deep,Scenario 2,3,4,4,24
+Illuminate The Deep,Scenario 2,2,4,4,16
+Illuminate The Deep,Scenario 2,2,3,4,14
+Illuminate The Deep,Scenario 2,1,3,2,4
+Illuminate The Deep,Scenario 2,1,4,4,8
+Illuminate The Deep,Scenario 3,2,3,4,14
+Illuminate The Deep,Scenario 3,2,4,4,16
+Illuminate The Deep,Scenario 3,2,4,4,16
+Illuminate The Deep,Scenario 3,1,3,4,7
+Illuminate The Deep,Scenario 3,2,4,4,16
+Illuminate The Deep,Scenario 3,2,3,2,10
+Illuminate The Deep,Scenario 3,3,2,4,18
+Illuminate The Deep,Scenario 3,2,2,4,12
+Illuminate The Deep,Scenario 3,2,1,4,10
+Illuminate The Deep,Scenario 3,1,2,2,4
+Illuminate The Deep,Scenario 3,1,3,4,7
+Illuminate The Deep,Scenario 3,2,3,4,14
+Illuminate The Deep,Scenario 3,2,3,3,12
+Illuminate The Deep,Scenario 3,2,3,4,14
+Illuminate The Deep,Scenario 3,2,4,4,16
+Illuminate The Deep,Scenario 3,2,4,2,12
+Illuminate The Deep,Scenario 3,2,2,4,12
+Illuminate The Deep,Scenario 3,2,3,3,12
+Illuminate The Deep,Scenario 3,2,2,4,12
+Illuminate The Deep,Scenario 3,2,4,4,16
+Illuminate The Deep,Scenario 3,2,3,4,14
+Leadership & Education,Scenario 1,2,2,4,12
+Leadership & Education,Scenario 1,2,2,4,12
+Leadership & Education,Scenario 1,1,1,4,5
+Leadership & Education,Scenario 1,2,4,3,14
+Leadership & Education,Scenario 1,1,3,4,7
+Leadership & Education,Scenario 1,2,4,3,14
+Leadership & Education,Scenario 1,1,2,4,6
+Leadership & Education,Scenario 1,1,1,2,3
+Leadership & Education,Scenario 1,2,2,3,10
+Leadership & Education,Scenario 1,2,3,3,12
+Leadership & Education,Scenario 1,2,4,4,16
+Leadership & Education,Scenario 1,1,3,3,6
+Leadership & Education,Scenario 1,2,4,4,16
+Leadership & Education,Scenario 1,3,2,4,18
+Leadership & Education,Scenario 1,2,2,4,12
+Leadership & Education,Scenario 1,2,4,4,16
+Leadership & Education,Scenario 1,2,3,4,14
+Leadership & Education,Scenario 1,1,3,3,6
+Leadership & Education,Scenario 1,1,2,4,6
+Leadership & Education,Scenario 1,2,4,4,16
+Leadership & Education,Scenario 1,3,4,4,24
+Leadership & Education,Scenario 2,1,4,4,8
+Leadership & Education,Scenario 2,2,4,3,14
+Leadership & Education,Scenario 2,2,4,3,14
+Leadership & Education,Scenario 2,2,4,3,14
+Leadership & Education,Scenario 2,2,3,4,14
+Leadership & Education,Scenario 2,2,3,3,12
+Leadership & Education,Scenario 2,2,2,4,12
+Leadership & Education,Scenario 2,3,3,4,21
+Leadership & Education,Scenario 2,1,1,4,5
+Leadership & Education,Scenario 2,2,3,3,12
+Leadership & Education,Scenario 2,2,4,4,16
+Leadership & Education,Scenario 2,3,4,4,24
+Leadership & Education,Scenario 2,3,4,4,24
+Leadership & Education,Scenario 2,2,2,3,10
+Leadership & Education,Scenario 2,2,3,4,14
+Leadership & Education,Scenario 2,3,3,2,15
+Leadership & Education,Scenario 2,2,4,4,16
+Leadership & Education,Scenario 2,2,3,4,14
+Leadership & Education,Scenario 2,1,3,4,7
+Leadership & Education,Scenario 2,3,4,4,24
+Leadership & Education,Scenario 2,3,2,4,18
+Leadership & Education,Scenario 2,1,2,4,6
+Leadership & Education,Scenario 2,2,3,4,14
+Leadership & Education,Scenario 2,1,1,1,2
+Leadership & Education,Scenario 2,1,2,4,6
+Leadership & Education,Scenario 2,2,2,4,12
+Leadership & Education,Scenario 2,3,4,2,18
+Leadership & Education,Scenario 2,2,2,2,8
+Leadership & Education,Scenario 2,2,2,2,8
+Leadership & Education,Scenario 3,1,3,4,7
+Leadership & Education,Scenario 3,1,1,4,5
+Leadership & Education,Scenario 3,2,3,3,12
+Leadership & Education,Scenario 3,2,2,4,12
+Leadership & Education,Scenario 3,2,4,4,16
+Leadership & Education,Scenario 3,1,3,4,7
+Leadership & Education,Scenario 3,3,1,2,9
+Leadership & Education,Scenario 3,1,1,4,5
+Leadership & Education,Scenario 3,2,2,4,12
+Leadership & Education,Scenario 3,2,2,2,8
+Leadership & Education,Scenario 3,2,3,4,14
+Leadership & Education,Scenario 3,2,2,4,12
+Leadership & Education,Scenario 3,3,4,4,24
+Leadership & Education,Scenario 3,1,2,4,6
+Leadership & Education,Scenario 3,2,4,4,16
+Leadership & Education,Scenario 3,3,4,4,24
+Leadership & Education,Scenario 3,1,1,2,3
+Leadership & Education,Scenario 3,2,4,4,16
+Leadership & Education,Scenario 3,2,3,2,10
+Leadership & Education,Scenario 3,2,3,4,14
+Leadership & Education,Scenario 3,3,3,4,21
+Leadership & Education,Scenario 3,2,3,2,10
+Leadership & Education,Scenario 3,2,2,2,8
+Leadership & Education,Scenario 3,3,4,4,24
+Leadership & Education,Scenario 3,2,2,4,12
+Masked,Scenario 1,0,1,1,0
+Masked,Scenario 1,0,1,1,0
+Masked,Scenario 1,2,4,4,16
+Masked,Scenario 1,2,3,3,12
+Masked,Scenario 1,2,3,3,12
+Masked,Scenario 1,3,4,4,24
+Masked,Scenario 1,2,2,2,8
+Masked,Scenario 1,2,3,3,12
+Masked,Scenario 1,3,4,4,24
+Masked,Scenario 1,2,3,3,12
+Masked,Scenario 1,3,4,4,24
+Masked,Scenario 1,2,4,4,16
+Masked,Scenario 1,3,4,4,24
+Masked,Scenario 1,3,2,2,12
+Masked,Scenario 1,2,3,4,14
+Masked,Scenario 1,3,3,2,15
+Masked,Scenario 1,2,3,3,12
+Masked,Scenario 1,1,4,4,8
+Masked,Scenario 1,2,2,3,10
+Masked,Scenario 1,3,3,3,18
+Masked,Scenario 1,2,4,4,16
+Masked,Scenario 2,3,4,4,24
+Masked,Scenario 2,3,2,1,9
+Masked,Scenario 2,2,4,4,16
+Masked,Scenario 2,2,4,4,16
+Masked,Scenario 2,2,4,4,16
+Masked,Scenario 2,2,4,4,16
+Masked,Scenario 2,3,3,3,18
+Masked,Scenario 2,2,3,4,14
+Masked,Scenario 2,2,2,4,12
+Masked,Scenario 2,3,3,3,18
+Masked,Scenario 2,3,4,4,24
+Masked,Scenario 2,2,4,2,12
+Masked,Scenario 2,3,4,4,24
+Masked,Scenario 2,2,3,3,12
+Masked,Scenario 2,3,4,4,24
+Masked,Scenario 2,2,2,2,8
+Masked,Scenario 2,-1,4,4,-8
+Masked,Scenario 2,2,3,4,14
+Masked,Scenario 2,1,4,4,8
+Masked,Scenario 2,3,3,4,21
+Masked,Scenario 2,2,2,3,10
+Masked,Scenario 2,1,3,4,7
+Masked,Scenario 2,3,4,4,24
+Masked,Scenario 2,2,2,2,8
+Masked,Scenario 2,3,3,4,21
+Masked,Scenario 2,3,4,4,24
+Masked,Scenario 2,3,3,2,15
+Masked,Scenario 2,2,2,2,8
+Masked,Scenario 2,3,4,3,21
+Masked,Scenario 3,2,3,3,12
+Masked,Scenario 3,2,4,4,16
+Masked,Scenario 3,1,4,3,7
+Masked,Scenario 3,3,4,4,24
+Masked,Scenario 3,3,3,3,18
+Masked,Scenario 3,3,4,2,18
+Masked,Scenario 3,2,2,2,8
+Masked,Scenario 3,3,3,4,21
+Masked,Scenario 3,2,2,2,8
+Masked,Scenario 3,1,3,2,5
+Masked,Scenario 3,2,4,2,12
+Masked,Scenario 3,1,1,4,5
+Masked,Scenario 3,3,4,4,24
+Masked,Scenario 3,2,4,4,16
+Masked,Scenario 3,2,3,2,10
+Masked,Scenario 3,3,4,4,24
+Masked,Scenario 3,-1,1,1,-2
+Masked,Scenario 3,3,4,4,24
+Masked,Scenario 3,3,4,4,24
+Masked,Scenario 3,1,2,4,6
+Masked,Scenario 3,3,4,4,24
+Masked,Scenario 3,3,3,2,15
+Masked,Scenario 3,2,2,2,8
+Masked,Scenario 3,3,4,4,24
+Masked,Scenario 3,3,4,3,21
+Material,Scenario 1,2,3,4,14
+Material,Scenario 1,2,2,4,12
+Material,Scenario 1,2,3,4,14
+Material,Scenario 1,3,4,4,24
+Material,Scenario 1,2,2,4,12
+Material,Scenario 1,1,1,4,5
+Material,Scenario 1,3,4,4,24
+Material,Scenario 1,3,3,3,18
+Material,Scenario 1,3,4,3,21
+Material,Scenario 1,3,3,3,18
+Material,Scenario 1,3,4,4,24
+Material,Scenario 1,2,4,4,16
+Material,Scenario 1,3,4,4,24
+Material,Scenario 1,3,3,2,15
+Material,Scenario 1,3,4,4,24
+Material,Scenario 1,2,3,2,10
+Material,Scenario 1,2,3,4,14
+Material,Scenario 1,2,2,4,12
+Material,Scenario 1,3,3,3,18
+Material,Scenario 1,3,3,4,21
+Material,Scenario 1,0,4,3,0
+Material,Scenario 2,2,4,4,16
+Material,Scenario 2,3,3,3,18
+Material,Scenario 2,2,3,3,12
+Material,Scenario 2,2,3,3,12
+Material,Scenario 2,2,2,4,12
+Material,Scenario 2,2,4,4,16
+Material,Scenario 2,1,3,4,7
+Material,Scenario 2,2,2,3,10
+Material,Scenario 2,2,2,4,12
+Material,Scenario 2,3,3,4,21
+Material,Scenario 2,2,3,3,12
+Material,Scenario 2,1,2,1,3
+Material,Scenario 2,2,4,3,14
+Material,Scenario 2,2,2,4,12
+Material,Scenario 2,3,4,4,24
+Material,Scenario 2,2,2,4,12
+Material,Scenario 2,2,4,4,16
+Material,Scenario 2,3,4,4,24
+Material,Scenario 2,1,2,2,4
+Material,Scenario 2,1,3,4,7
+Material,Scenario 2,2,2,4,12
+Material,Scenario 2,2,3,4,14
+Material,Scenario 2,2,3,4,14
+Material,Scenario 2,1,1,2,3
+Material,Scenario 2,2,3,4,14
+Material,Scenario 2,3,4,4,24
+Material,Scenario 2,3,3,2,15
+Material,Scenario 2,3,2,2,12
+Material,Scenario 2,3,3,3,18
+Material,Scenario 3,2,3,4,14
+Material,Scenario 3,2,3,4,14
+Material,Scenario 3,2,4,4,16
+Material,Scenario 3,2,3,4,14
+Material,Scenario 3,2,3,4,14
+Material,Scenario 3,3,3,2,15
+Material,Scenario 3,2,3,3,12
+Material,Scenario 3,2,1,4,10
+Material,Scenario 3,2,2,4,12
+Material,Scenario 3,2,3,2,10
+Material,Scenario 3,2,2,2,8
+Material,Scenario 3,3,3,4,21
+Material,Scenario 3,2,2,4,12
+Material,Scenario 3,2,2,4,12
+Material,Scenario 3,2,4,4,16
+Material,Scenario 3,3,4,4,24
+Material,Scenario 3,1,1,2,3
+Material,Scenario 3,3,4,4,24
+Material,Scenario 3,3,3,3,18
+Material,Scenario 3,3,1,4,15
+Material,Scenario 3,1,1,4,5
+Material,Scenario 3,3,3,2,15
+Material,Scenario 3,3,2,2,12
+Material,Scenario 3,2,3,4,14
+Material,Scenario 3,3,4,4,24
+MILDEC,Scenario 1,3,1,1,6
+MILDEC,Scenario 1,2,2,2,8
+MILDEC,Scenario 1,2,3,3,12
+MILDEC,Scenario 1,2,4,2,12
+MILDEC,Scenario 1,2,1,1,4
+MILDEC,Scenario 1,2,4,2,12
+MILDEC,Scenario 1,2,4,2,12
+MILDEC,Scenario 1,2,3,2,10
+MILDEC,Scenario 1,3,3,1,12
+MILDEC,Scenario 1,2,3,4,14
+MILDEC,Scenario 1,2,2,2,8
+MILDEC,Scenario 1,-1,2,2,-4
+MILDEC,Scenario 1,3,2,2,12
+MILDEC,Scenario 1,3,4,4,24
+MILDEC,Scenario 1,2,1,1,4
+MILDEC,Scenario 1,2,3,4,14
+MILDEC,Scenario 1,3,4,4,24
+MILDEC,Scenario 1,1,4,2,6
+MILDEC,Scenario 1,3,2,3,15
+MILDEC,Scenario 1,2,2,1,6
+MILDEC,Scenario 1,3,4,4,24
+MILDEC,Scenario 1,2,2,4,12
+MILDEC,Scenario 1,2,3,1,8
+MILDEC,Scenario 1,3,4,2,18
+MILDEC,Scenario 1,3,4,4,24
+MILDEC,Scenario 1,0,2,2,0
+MILDEC,Scenario 2,2,4,4,16
+MILDEC,Scenario 2,2,2,3,10
+MILDEC,Scenario 2,2,3,3,12
+MILDEC,Scenario 2,3,2,2,12
+MILDEC,Scenario 2,2,2,2,8
+MILDEC,Scenario 2,2,4,4,16
+MILDEC,Scenario 2,3,3,4,21
+MILDEC,Scenario 2,3,3,3,18
+MILDEC,Scenario 2,2,4,4,16
+MILDEC,Scenario 2,2,3,2,10
+MILDEC,Scenario 2,3,3,2,15
+MILDEC,Scenario 2,2,3,3,12
+MILDEC,Scenario 2,2,2,3,10
+MILDEC,Scenario 2,2,4,2,12
+MILDEC,Scenario 2,3,2,4,18
+MILDEC,Scenario 2,3,4,4,24
+MILDEC,Scenario 2,2,3,4,14
+MILDEC,Scenario 2,2,3,3,12
+MILDEC,Scenario 2,2,3,4,14
+MILDEC,Scenario 2,2,4,4,16
+MILDEC,Scenario 2,3,3,3,18
+MILDEC,Scenario 3,2,3,4,14
+MILDEC,Scenario 3,3,2,4,18
+MILDEC,Scenario 3,2,2,3,10
+MILDEC,Scenario 3,3,4,4,24
+MILDEC,Scenario 3,2,3,2,10
+MILDEC,Scenario 3,2,4,4,16
+MILDEC,Scenario 3,3,3,4,21
+MILDEC,Scenario 3,3,3,4,21
+MILDEC,Scenario 3,2,3,4,14
+MILDEC,Scenario 3,2,2,4,12
+MILDEC,Scenario 3,2,1,1,4
+MILDEC,Scenario 3,2,4,4,16
+MILDEC,Scenario 3,3,1,2,9
+MILDEC,Scenario 3,2,1,1,4
+MILDEC,Scenario 3,3,3,4,21
+MILDEC,Scenario 3,3,4,4,24
+MILDEC,Scenario 3,3,3,3,18
+MILDEC,Scenario 3,2,3,4,14
+MILDEC,Scenario 3,2,1,1,4
+MILDEC,Scenario 3,2,2,4,12
+MILDEC,Scenario 3,2,4,4,16
+MILDEC,Scenario 3,2,4,4,16
+Mission Command Culture,Scenario 1,0,4,4,0
+Mission Command Culture,Scenario 1,3,3,4,21
+Mission Command Culture,Scenario 1,2,2,3,10
+Mission Command Culture,Scenario 1,1,3,3,6
+Mission Command Culture,Scenario 1,3,4,4,24
+Mission Command Culture,Scenario 1,2,2,2,8
+Mission Command Culture,Scenario 1,2,3,3,12
+Mission Command Culture,Scenario 1,3,4,4,24
+Mission Command Culture,Scenario 1,2,2,2,8
+Mission Command Culture,Scenario 1,2,3,3,12
+Mission Command Culture,Scenario 1,2,2,3,10
+Mission Command Culture,Scenario 1,2,1,2,6
+Mission Command Culture,Scenario 1,1,4,4,8
+Mission Command Culture,Scenario 1,2,0,2,4
+Mission Command Culture,Scenario 1,3,2,4,18
+Mission Command Culture,Scenario 1,2,2,4,12
+Mission Command Culture,Scenario 1,3,3,2,15
+Mission Command Culture,Scenario 1,1,4,4,8
+Mission Command Culture,Scenario 1,3,2,3,15
+Mission Command Culture,Scenario 1,2,2,2,8
+Mission Command Culture,Scenario 1,1,4,4,8
+Mission Command Culture,Scenario 2,3,4,4,24
+Mission Command Culture,Scenario 2,2,2,4,12
+Mission Command Culture,Scenario 2,1,2,4,6
+Mission Command Culture,Scenario 2,1,2,4,6
+Mission Command Culture,Scenario 2,2,3,4,14
+Mission Command Culture,Scenario 2,2,4,4,16
+Mission Command Culture,Scenario 2,3,3,2,15
+Mission Command Culture,Scenario 2,2,3,3,12
+Mission Command Culture,Scenario 2,2,2,4,12
+Mission Command Culture,Scenario 2,3,4,3,21
+Mission Command Culture,Scenario 2,2,4,4,16
+Mission Command Culture,Scenario 2,1,1,1,2
+Mission Command Culture,Scenario 2,2,4,4,16
+Mission Command Culture,Scenario 2,2,3,3,12
+Mission Command Culture,Scenario 2,2,3,4,14
+Mission Command Culture,Scenario 2,3,2,2,12
+Mission Command Culture,Scenario 2,1,4,4,8
+Mission Command Culture,Scenario 2,2,3,4,14
+Mission Command Culture,Scenario 2,3,4,4,24
+Mission Command Culture,Scenario 2,2,2,4,12
+Mission Command Culture,Scenario 2,2,2,4,12
+Mission Command Culture,Scenario 2,3,4,4,24
+Mission Command Culture,Scenario 2,1,3,4,7
+Mission Command Culture,Scenario 2,2,2,3,10
+Mission Command Culture,Scenario 2,1,2,4,6
+Mission Command Culture,Scenario 2,3,3,4,21
+Mission Command Culture,Scenario 2,2,2,2,8
+Mission Command Culture,Scenario 2,2,2,2,8
+Mission Command Culture,Scenario 2,2,2,3,10
+Mission Command Culture,Scenario 3,0,2,2,0
+Mission Command Culture,Scenario 3,2,3,4,14
+Mission Command Culture,Scenario 3,1,1,4,5
+Mission Command Culture,Scenario 3,2,4,4,16
+Mission Command Culture,Scenario 3,2,3,4,14
+Mission Command Culture,Scenario 3,3,4,4,24
+Mission Command Culture,Scenario 3,1,4,4,8
+Mission Command Culture,Scenario 3,2,3,2,10
+Mission Command Culture,Scenario 3,3,2,4,18
+Mission Command Culture,Scenario 3,2,2,4,12
+Mission Command Culture,Scenario 3,2,4,2,12
+Mission Command Culture,Scenario 3,2,2,4,12
+Mission Command Culture,Scenario 3,1,3,4,7
+Mission Command Culture,Scenario 3,2,3,4,14
+Mission Command Culture,Scenario 3,1,3,4,7
+Mission Command Culture,Scenario 3,1,4,4,8
+Mission Command Culture,Scenario 3,1,1,1,2
+Mission Command Culture,Scenario 3,3,4,4,24
+Mission Command Culture,Scenario 3,1,2,2,4
+Mission Command Culture,Scenario 3,3,4,4,24
+Mission Command Culture,Scenario 3,3,4,4,24
+Mission Command Culture,Scenario 3,2,3,2,10
+Mission Command Culture,Scenario 3,2,2,2,8
+Mission Command Culture,Scenario 3,3,4,4,24
+Mission Command Culture,Scenario 3,3,4,4,24
+MDO SR,Scenario 1,2,1,2,6
+MDO SR,Scenario 1,2,3,4,14
+MDO SR,Scenario 1,2,4,4,16
+MDO SR,Scenario 1,2,3,2,10
+MDO SR,Scenario 1,3,4,4,24
+MDO SR,Scenario 1,3,4,4,24
+MDO SR,Scenario 1,3,4,4,24
+MDO SR,Scenario 1,2,4,4,16
+MDO SR,Scenario 1,2,1,2,6
+MDO SR,Scenario 1,1,1,4,5
+MDO SR,Scenario 1,1,2,4,6
+MDO SR,Scenario 1,2,3,3,12
+MDO SR,Scenario 1,1,1,1,2
+MDO SR,Scenario 1,2,2,2,8
+MDO SR,Scenario 1,2,2,2,8
+MDO SR,Scenario 1,2,2,2,8
+MDO SR,Scenario 1,2,3,2,10
+MDO SR,Scenario 1,2,3,2,10
+MDO SR,Scenario 1,2,3,4,14
+MDO SR,Scenario 1,2,4,4,16
+MDO SR,Scenario 1,2,3,3,12
+MDO SR,Scenario 1,3,2,2,12
+MDO SR,Scenario 1,2,3,3,12
+MDO SR,Scenario 1,3,2,1,9
+MDO SR,Scenario 1,2,3,4,14
+MDO SR,Scenario 1,1,2,3,5
+MDO SR,Scenario 1,2,3,4,14
+MDO SR,Scenario 1,3,3,2,15
+MDO SR,Scenario 2,2,3,4,14
+MDO SR,Scenario 2,3,4,2,18
+MDO SR,Scenario 2,2,3,4,14
+MDO SR,Scenario 2,2,2,4,12
+MDO SR,Scenario 2,3,4,3,21
+MDO SR,Scenario 2,2,3,4,14
+MDO SR,Scenario 2,2,3,4,14
+MDO SR,Scenario 2,3,3,2,15
+MDO SR,Scenario 2,3,3,2,15
+MDO SR,Scenario 2,2,3,4,14
+MDO SR,Scenario 2,1,3,4,7
+MDO SR,Scenario 2,2,3,4,14
+MDO SR,Scenario 2,3,3,2,15
+MDO SR,Scenario 2,2,2,4,12
+MDO SR,Scenario 2,1,2,4,6
+MDO SR,Scenario 2,1,2,4,6
+MDO SR,Scenario 2,1,2,2,4
+MDO SR,Scenario 2,2,4,4,16
+MDO SR,Scenario 2,2,4,4,16
+MDO SR,Scenario 2,2,3,4,14
+MDO SR,Scenario 2,2,3,4,14
+MDO SR,Scenario 2,2,3,4,14
+MDO SR,Scenario 3,2,3,4,14
+MDO SR,Scenario 3,3,2,4,18
+MDO SR,Scenario 3,2,3,4,14
+MDO SR,Scenario 3,3,3,4,21
+MDO SR,Scenario 3,2,3,4,14
+MDO SR,Scenario 3,2,3,4,14
+MDO SR,Scenario 3,2,3,4,14
+MDO SR,Scenario 3,2,2,4,12
+MDO SR,Scenario 3,2,1,3,8
+MDO SR,Scenario 3,1,2,3,5
+MDO SR,Scenario 3,1,2,4,6
+MDO SR,Scenario 3,3,3,4,21
+MDO SR,Scenario 3,3,4,4,24
+MDO SR,Scenario 3,3,3,4,21
+MDO SR,Scenario 3,2,3,4,14
+MDO SR,Scenario 3,2,3,4,14
+MDO SR,Scenario 3,2,3,4,14
+MDO SR,Scenario 3,2,3,4,14
+MDO SR,Scenario 3,2,2,3,10
+MDO SR,Scenario 3,1,2,3,5
+MDO SR,Scenario 3,2,4,3,14
+MDO SR,Scenario 3,-1,1,0,-1
+MDO SR,Scenario 3,2,3,4,14
+MDO SR,Scenario 3,2,2,3,10
+MDO SR,Scenario 3,1,3,3,6
+Operational Planning,Scenario 1,2,4,4,16
+Operational Planning,Scenario 1,3,3,4,21
+Operational Planning,Scenario 1,1,3,3,6
+Operational Planning,Scenario 1,2,3,3,12
+Operational Planning,Scenario 1,1,2,2,4
+Operational Planning,Scenario 1,2,2,1,6
+Operational Planning,Scenario 1,1,2,2,4
+Operational Planning,Scenario 1,3,2,2,12
+Operational Planning,Scenario 1,2,3,3,12
+Operational Planning,Scenario 1,2,4,4,16
+Operational Planning,Scenario 1,1,4,4,8
+Operational Planning,Scenario 1,2,4,4,16
+Operational Planning,Scenario 1,1,1,3,4
+Operational Planning,Scenario 1,2,3,4,14
+Operational Planning,Scenario 1,3,4,4,24
+Operational Planning,Scenario 1,2,4,4,16
+Operational Planning,Scenario 1,1,1,4,5
+Operational Planning,Scenario 1,2,3,4,14
+Operational Planning,Scenario 1,3,4,4,24
+Operational Planning,Scenario 1,0,1,1,0
+Operational Planning,Scenario 1,0,4,3,0
+Operational Planning,Scenario 2,3,4,4,24
+Operational Planning,Scenario 2,3,2,2,12
+Operational Planning,Scenario 2,2,4,4,16
+Operational Planning,Scenario 2,2,3,4,14
+Operational Planning,Scenario 2,3,3,4,21
+Operational Planning,Scenario 2,2,3,4,14
+Operational Planning,Scenario 2,2,2,3,10
+Operational Planning,Scenario 2,2,3,4,14
+Operational Planning,Scenario 2,2,2,4,12
+Operational Planning,Scenario 2,3,4,4,24
+Operational Planning,Scenario 2,2,4,4,16
+Operational Planning,Scenario 2,2,2,1,6
+Operational Planning,Scenario 2,3,4,4,24
+Operational Planning,Scenario 2,2,3,3,12
+Operational Planning,Scenario 2,2,3,4,14
+Operational Planning,Scenario 2,2,1,2,6
+Operational Planning,Scenario 2,1,4,4,8
+Operational Planning,Scenario 2,2,3,4,14
+Operational Planning,Scenario 2,2,4,4,16
+Operational Planning,Scenario 2,3,4,4,24
+Operational Planning,Scenario 2,3,3,4,21
+Operational Planning,Scenario 2,2,2,4,12
+Operational Planning,Scenario 2,3,4,4,24
+Operational Planning,Scenario 2,1,0,1,1
+Operational Planning,Scenario 2,2,3,4,14
+Operational Planning,Scenario 2,3,2,4,18
+Operational Planning,Scenario 2,2,3,2,10
+Operational Planning,Scenario 2,2,2,2,8
+Operational Planning,Scenario 2,2,3,4,14
+Operational Planning,Scenario 3,2,3,4,14
+Operational Planning,Scenario 3,1,3,4,7
+Operational Planning,Scenario 3,2,4,3,14
+Operational Planning,Scenario 3,1,2,4,6
+Operational Planning,Scenario 3,2,4,4,16
+Operational Planning,Scenario 3,3,1,4,15
+Operational Planning,Scenario 3,3,4,4,24
+Operational Planning,Scenario 3,2,2,4,12
+Operational Planning,Scenario 3,1,2,4,6
+Operational Planning,Scenario 3,2,3,3,12
+Operational Planning,Scenario 3,2,2,2,8
+Operational Planning,Scenario 3,2,2,4,12
+Operational Planning,Scenario 3,3,4,4,24
+Operational Planning,Scenario 3,2,2,4,12
+Operational Planning,Scenario 3,2,4,4,16
+Operational Planning,Scenario 3,3,4,4,24
+Operational Planning,Scenario 3,1,1,2,3
+Operational Planning,Scenario 3,3,4,4,24
+Operational Planning,Scenario 3,3,4,2,18
+Operational Planning,Scenario 3,1,4,4,8
+Operational Planning,Scenario 3,3,3,4,21
+Operational Planning,Scenario 3,2,3,2,10
+Operational Planning,Scenario 3,2,2,2,8
+Operational Planning,Scenario 3,2,3,4,14
+Operational Planning,Scenario 3,3,3,4,21
+Organization,Scenario 1,2,2,4,12
+Organization,Scenario 1,3,2,4,18
+Organization,Scenario 1,2,2,3,10
+Organization,Scenario 1,3,3,4,21
+Organization,Scenario 1,1,1,2,3
+Organization,Scenario 1,2,3,4,14
+Organization,Scenario 1,2,2,4,12
+Organization,Scenario 1,1,1,2,3
+Organization,Scenario 1,3,3,3,18
+Organization,Scenario 1,2,3,3,12
+Organization,Scenario 1,2,4,4,16
+Organization,Scenario 1,2,4,4,16
+Organization,Scenario 1,2,4,4,16
+Organization,Scenario 1,2,2,2,8
+Organization,Scenario 1,2,3,4,14
+Organization,Scenario 1,3,3,3,18
+Organization,Scenario 1,1,3,4,7
+Organization,Scenario 1,3,4,4,24
+Organization,Scenario 1,1,2,4,6
+Organization,Scenario 1,3,2,2,12
+Organization,Scenario 1,2,3,4,14
+Organization,Scenario 2,2,4,4,16
+Organization,Scenario 2,2,3,2,10
+Organization,Scenario 2,2,3,2,10
+Organization,Scenario 2,2,3,2,10
+Organization,Scenario 2,1,3,4,7
+Organization,Scenario 2,3,2,3,15
+Organization,Scenario 2,2,2,4,12
+Organization,Scenario 2,2,2,4,12
+Organization,Scenario 2,2,3,4,14
+Organization,Scenario 2,2,3,4,14
+Organization,Scenario 2,3,4,4,24
+Organization,Scenario 2,2,2,2,8
+Organization,Scenario 2,1,3,3,6
+Organization,Scenario 2,2,2,4,12
+Organization,Scenario 2,2,3,4,14
+Organization,Scenario 2,3,3,2,15
+Organization,Scenario 2,2,4,4,16
+Organization,Scenario 2,1,2,4,6
+Organization,Scenario 2,2,4,4,16
+Organization,Scenario 2,2,3,4,14
+Organization,Scenario 2,3,3,4,21
+Organization,Scenario 2,2,3,4,14
+Organization,Scenario 2,2,3,4,14
+Organization,Scenario 2,2,2,1,6
+Organization,Scenario 2,1,2,4,6
+Organization,Scenario 2,3,2,4,18
+Organization,Scenario 2,3,3,2,15
+Organization,Scenario 2,2,2,2,8
+Organization,Scenario 2,1,2,3,5
+Organization,Scenario 3,2,3,3,12
+Organization,Scenario 3,1,1,4,5
+Organization,Scenario 3,2,4,3,14
+Organization,Scenario 3,2,3,4,14
+Organization,Scenario 3,3,4,4,24
+Organization,Scenario 3,2,2,2,8
+Organization,Scenario 3,2,1,4,10
+Organization,Scenario 3,2,2,4,12
+Organization,Scenario 3,2,2,4,12
+Organization,Scenario 3,1,3,3,6
+Organization,Scenario 3,1,2,2,4
+Organization,Scenario 3,1,1,4,5
+Organization,Scenario 3,2,3,4,14
+Organization,Scenario 3,2,3,4,14
+Organization,Scenario 3,2,4,4,16
+Organization,Scenario 3,2,4,4,16
+Organization,Scenario 3,2,2,2,8
+Organization,Scenario 3,2,4,4,16
+Organization,Scenario 3,3,4,4,24
+Organization,Scenario 3,3,2,4,18
+Organization,Scenario 3,2,2,4,12
+Organization,Scenario 3,2,3,2,10
+Organization,Scenario 3,2,2,2,8
+Organization,Scenario 3,2,3,3,12
+Organization,Scenario 3,2,3,4,14
+Org. Rel. Structure,Scenario 1,2,2,4,12
+Org. Rel. Structure,Scenario 1,2,3,3,12
+Org. Rel. Structure,Scenario 1,1,2,2,4
+Org. Rel. Structure,Scenario 1,3,4,4,24
+Org. Rel. Structure,Scenario 1,1,1,4,5
+Org. Rel. Structure,Scenario 1,3,4,4,24
+Org. Rel. Structure,Scenario 1,2,4,3,14
+Org. Rel. Structure,Scenario 1,2,3,2,10
+Org. Rel. Structure,Scenario 1,2,2,3,10
+Org. Rel. Structure,Scenario 1,1,3,3,6
+Org. Rel. Structure,Scenario 1,2,4,4,16
+Org. Rel. Structure,Scenario 1,1,3,3,6
+Org. Rel. Structure,Scenario 1,2,2,4,12
+Org. Rel. Structure,Scenario 1,2,3,4,14
+Org. Rel. Structure,Scenario 1,3,3,2,15
+Org. Rel. Structure,Scenario 1,3,3,4,21
+Org. Rel. Structure,Scenario 1,1,1,4,5
+Org. Rel. Structure,Scenario 1,1,4,4,8
+Org. Rel. Structure,Scenario 1,2,4,4,16
+Org. Rel. Structure,Scenario 1,0,1,1,0
+Org. Rel. Structure,Scenario 1,0,3,3,0
+Org. Rel. Structure,Scenario 2,3,4,4,24
+Org. Rel. Structure,Scenario 2,1,2,2,4
+Org. Rel. Structure,Scenario 2,2,3,4,14
+Org. Rel. Structure,Scenario 2,2,3,4,14
+Org. Rel. Structure,Scenario 2,3,3,4,21
+Org. Rel. Structure,Scenario 2,2,2,4,12
+Org. Rel. Structure,Scenario 2,2,3,3,12
+Org. Rel. Structure,Scenario 2,3,4,4,24
+Org. Rel. Structure,Scenario 2,2,2,4,12
+Org. Rel. Structure,Scenario 2,3,4,4,24
+Org. Rel. Structure,Scenario 2,3,4,4,24
+Org. Rel. Structure,Scenario 2,3,4,4,24
+Org. Rel. Structure,Scenario 2,3,3,2,15
+Org. Rel. Structure,Scenario 2,2,3,2,10
+Org. Rel. Structure,Scenario 2,3,4,4,24
+Org. Rel. Structure,Scenario 2,2,2,2,8
+Org. Rel. Structure,Scenario 2,2,4,4,16
+Org. Rel. Structure,Scenario 2,2,2,4,12
+Org. Rel. Structure,Scenario 2,1,3,3,6
+Org. Rel. Structure,Scenario 2,3,3,4,21
+Org. Rel. Structure,Scenario 2,2,2,4,12
+Org. Rel. Structure,Scenario 2,2,2,4,12
+Org. Rel. Structure,Scenario 2,2,4,4,16
+Org. Rel. Structure,Scenario 2,2,1,2,6
+Org. Rel. Structure,Scenario 2,1,2,4,6
+Org. Rel. Structure,Scenario 2,3,2,4,18
+Org. Rel. Structure,Scenario 2,3,3,2,15
+Org. Rel. Structure,Scenario 2,2,2,2,8
+Org. Rel. Structure,Scenario 2,2,2,3,10
+Org. Rel. Structure,Scenario 3,2,3,3,12
+Org. Rel. Structure,Scenario 3,1,1,4,5
+Org. Rel. Structure,Scenario 3,2,3,3,12
+Org. Rel. Structure,Scenario 3,2,3,4,14
+Org. Rel. Structure,Scenario 3,3,4,4,24
+Org. Rel. Structure,Scenario 3,1,0,4,4
+Org. Rel. Structure,Scenario 3,1,4,4,8
+Org. Rel. Structure,Scenario 3,1,2,4,6
+Org. Rel. Structure,Scenario 3,1,2,4,6
+Org. Rel. Structure,Scenario 3,1,3,3,6
+Org. Rel. Structure,Scenario 3,2,3,2,10
+Org. Rel. Structure,Scenario 3,2,2,4,12
+Org. Rel. Structure,Scenario 3,2,4,4,16
+Org. Rel. Structure,Scenario 3,2,3,4,14
+Org. Rel. Structure,Scenario 3,2,3,4,14
+Org. Rel. Structure,Scenario 3,3,4,4,24
+Org. Rel. Structure,Scenario 3,2,1,2,6
+Org. Rel. Structure,Scenario 3,3,4,4,24
+Org. Rel. Structure,Scenario 3,2,3,3,12
+Org. Rel. Structure,Scenario 3,1,2,3,5
+Org. Rel. Structure,Scenario 3,2,3,4,14
+Org. Rel. Structure,Scenario 3,2,3,2,10
+Org. Rel. Structure,Scenario 3,2,2,2,8
+Org. Rel. Structure,Scenario 3,3,3,3,18
+Org. Rel. Structure,Scenario 3,3,2,4,18
+Permissions,Scenario 1,2,3,4,14
+Permissions,Scenario 1,2,3,4,14
+Permissions,Scenario 1,1,4,4,8
+Permissions,Scenario 1,3,4,4,24
+Permissions,Scenario 1,2,3,3,12
+Permissions,Scenario 1,3,3,2,15
+Permissions,Scenario 1,3,4,4,24
+Permissions,Scenario 1,1,1,1,2
+Permissions,Scenario 1,3,4,4,24
+Permissions,Scenario 1,3,4,4,24
+Permissions,Scenario 1,3,4,4,24
+Permissions,Scenario 1,3,4,4,24
+Permissions,Scenario 1,3,4,4,24
+Permissions,Scenario 1,3,3,3,18
+Permissions,Scenario 1,3,4,4,24
+Permissions,Scenario 1,3,4,2,18
+Permissions,Scenario 1,3,4,4,24
+Permissions,Scenario 1,2,2,4,12
+Permissions,Scenario 1,3,3,4,21
+Permissions,Scenario 1,3,4,4,24
+Permissions,Scenario 1,0,4,4,0
+Permissions,Scenario 2,0,0,0,0
+Permissions,Scenario 2,0,0,0,0
+Permissions,Scenario 2,3,4,4,24
+Permissions,Scenario 2,1,2,2,4
+Permissions,Scenario 2,2,4,3,14
+Permissions,Scenario 2,2,4,4,16
+Permissions,Scenario 2,3,4,4,24
+Permissions,Scenario 2,3,3,4,21
+Permissions,Scenario 2,1,4,3,7
+Permissions,Scenario 2,3,3,4,21
+Permissions,Scenario 2,3,4,4,24
+Permissions,Scenario 2,3,3,4,21
+Permissions,Scenario 2,2,4,4,16
+Permissions,Scenario 2,3,4,4,24
+Permissions,Scenario 2,3,4,4,24
+Permissions,Scenario 2,3,2,4,18
+Permissions,Scenario 2,2,4,4,16
+Permissions,Scenario 2,3,4,4,24
+Permissions,Scenario 2,1,4,4,8
+Permissions,Scenario 2,3,3,4,21
+Permissions,Scenario 2,3,4,4,24
+Permissions,Scenario 2,2,3,4,14
+Permissions,Scenario 2,2,4,4,16
+Permissions,Scenario 2,1,2,1,3
+Permissions,Scenario 2,1,2,4,6
+Permissions,Scenario 2,2,3,4,14
+Permissions,Scenario 2,2,2,2,8
+Permissions,Scenario 2,3,2,2,12
+Permissions,Scenario 2,2,2,3,10
+Permissions,Scenario 3,0,4,4,0
+Permissions,Scenario 3,1,2,4,6
+Permissions,Scenario 3,1,4,4,8
+Permissions,Scenario 3,3,4,4,24
+Permissions,Scenario 3,3,4,4,24
+Permissions,Scenario 3,2,4,1,10
+Permissions,Scenario 3,3,3,3,18
+Permissions,Scenario 3,2,3,4,14
+Permissions,Scenario 3,2,2,4,12
+Permissions,Scenario 3,3,3,3,18
+Permissions,Scenario 3,3,4,4,24
+Permissions,Scenario 3,3,3,4,21
+Permissions,Scenario 3,3,4,4,24
+Permissions,Scenario 3,2,3,4,14
+Permissions,Scenario 3,3,4,4,24
+Permissions,Scenario 3,3,4,4,24
+Permissions,Scenario 3,2,2,2,8
+Permissions,Scenario 3,3,4,4,24
+Permissions,Scenario 3,2,3,3,12
+Permissions,Scenario 3,3,3,4,21
+Permissions,Scenario 3,3,4,4,24
+Permissions,Scenario 3,3,4,2,18
+Permissions,Scenario 3,3,2,2,12
+Permissions,Scenario 3,3,4,4,24
+Permissions,Scenario 3,3,4,4,24
+Personnel,Scenario 1,2,2,4,12
+Personnel,Scenario 1,2,4,4,16
+Personnel,Scenario 1,1,4,4,8
+Personnel,Scenario 1,3,3,3,18
+Personnel,Scenario 1,1,4,4,8
+Personnel,Scenario 1,1,2,2,4
+Personnel,Scenario 1,1,2,3,5
+Personnel,Scenario 1,1,1,2,3
+Personnel,Scenario 1,3,4,3,21
+Personnel,Scenario 1,2,3,3,12
+Personnel,Scenario 1,2,4,4,16
+Personnel,Scenario 1,3,4,4,24
+Personnel,Scenario 1,2,4,4,16
+Personnel,Scenario 1,1,4,2,6
+Personnel,Scenario 1,2,2,4,12
+Personnel,Scenario 1,2,4,4,16
+Personnel,Scenario 1,2,2,4,12
+Personnel,Scenario 1,1,2,4,6
+Personnel,Scenario 1,3,4,4,24
+Personnel,Scenario 1,1,4,4,8
+Personnel,Scenario 1,0,2,2,0
+Personnel,Scenario 2,2,4,4,16
+Personnel,Scenario 2,2,4,4,16
+Personnel,Scenario 2,2,4,4,16
+Personnel,Scenario 2,2,4,4,16
+Personnel,Scenario 2,1,3,4,7
+Personnel,Scenario 2,3,4,4,24
+Personnel,Scenario 2,2,2,3,10
+Personnel,Scenario 2,3,3,4,21
+Personnel,Scenario 2,1,2,4,6
+Personnel,Scenario 2,2,3,3,12
+Personnel,Scenario 2,2,4,4,16
+Personnel,Scenario 2,1,1,0,1
+Personnel,Scenario 2,2,4,4,16
+Personnel,Scenario 2,2,3,4,14
+Personnel,Scenario 2,2,4,4,16
+Personnel,Scenario 2,3,4,4,24
+Personnel,Scenario 2,2,4,4,16
+Personnel,Scenario 2,2,3,4,14
+Personnel,Scenario 2,2,4,3,14
+Personnel,Scenario 2,1,3,4,7
+Personnel,Scenario 2,1,2,4,6
+Personnel,Scenario 2,2,3,4,14
+Personnel,Scenario 2,3,4,4,24
+Personnel,Scenario 2,2,1,2,6
+Personnel,Scenario 2,1,3,4,7
+Personnel,Scenario 2,2,3,4,14
+Personnel,Scenario 2,2,3,2,10
+Personnel,Scenario 2,2,2,2,8
+Personnel,Scenario 2,3,3,3,18
+Personnel,Scenario 3,2,4,4,16
+Personnel,Scenario 3,1,1,4,5
+Personnel,Scenario 3,1,4,4,8
+Personnel,Scenario 3,2,3,4,14
+Personnel,Scenario 3,3,4,4,24
+Personnel,Scenario 3,2,4,4,16
+Personnel,Scenario 3,3,3,4,21
+Personnel,Scenario 3,1,2,4,6
+Personnel,Scenario 3,2,2,4,12
+Personnel,Scenario 3,2,2,3,10
+Personnel,Scenario 3,1,1,0,1
+Personnel,Scenario 3,2,2,4,12
+Personnel,Scenario 3,2,4,4,16
+Personnel,Scenario 3,2,2,4,12
+Personnel,Scenario 3,2,4,4,16
+Personnel,Scenario 3,3,4,4,24
+Personnel,Scenario 3,2,2,2,8
+Personnel,Scenario 3,3,4,4,24
+Personnel,Scenario 3,3,4,4,24
+Personnel,Scenario 3,3,3,4,21
+Personnel,Scenario 3,3,4,4,24
+Personnel,Scenario 3,2,4,2,12
+Personnel,Scenario 3,2,2,2,8
+Personnel,Scenario 3,2,3,4,14
+Personnel,Scenario 3,2,4,4,16
+Venues to Train,Scenario 1,2,3,4,14
+Venues to Train,Scenario 1,2,2,4,12
+Venues to Train,Scenario 1,1,2,2,4
+Venues to Train,Scenario 1,2,3,3,12
+Venues to Train,Scenario 1,1,2,2,4
+Venues to Train,Scenario 1,1,1,2,3
+Venues to Train,Scenario 1,1,1,2,3
+Venues to Train,Scenario 1,2,2,2,8
+Venues to Train,Scenario 1,1,2,2,4
+Venues to Train,Scenario 1,3,2,2,12
+Venues to Train,Scenario 1,2,3,3,12
+Venues to Train,Scenario 1,1,4,4,8
+Venues to Train,Scenario 1,2,3,3,12
+Venues to Train,Scenario 1,3,4,2,18
+Venues to Train,Scenario 1,1,2,4,6
+Venues to Train,Scenario 1,1,2,2,4
+Venues to Train,Scenario 1,1,2,2,4
+Venues to Train,Scenario 1,1,3,3,6
+Venues to Train,Scenario 1,2,1,3,8
+Venues to Train,Scenario 1,3,3,3,18
+Venues to Train,Scenario 1,2,3,4,14
+Venues to Train,Scenario 2,0,1,1,0
+Venues to Train,Scenario 2,3,4,4,24
+Venues to Train,Scenario 2,1,2,2,4
+Venues to Train,Scenario 2,1,3,3,6
+Venues to Train,Scenario 2,1,3,3,6
+Venues to Train,Scenario 2,1,2,2,4
+Venues to Train,Scenario 2,1,2,4,6
+Venues to Train,Scenario 2,3,3,2,15
+Venues to Train,Scenario 2,3,2,4,18
+Venues to Train,Scenario 2,1,1,4,5
+Venues to Train,Scenario 2,1,4,3,7
+Venues to Train,Scenario 2,1,4,4,8
+Venues to Train,Scenario 2,3,3,2,15
+Venues to Train,Scenario 2,2,3,2,10
+Venues to Train,Scenario 2,2,2,3,10
+Venues to Train,Scenario 2,1,2,4,6
+Venues to Train,Scenario 2,3,3,2,15
+Venues to Train,Scenario 2,1,4,4,8
+Venues to Train,Scenario 2,2,3,4,14
+Venues to Train,Scenario 2,2,4,4,16
+Venues to Train,Scenario 2,1,2,4,6
+Venues to Train,Scenario 2,3,2,4,18
+Venues to Train,Scenario 2,1,2,4,6
+Venues to Train,Scenario 2,1,3,4,7
+Venues to Train,Scenario 2,1,1,4,5
+Venues to Train,Scenario 2,3,4,4,24
+Venues to Train,Scenario 2,3,3,2,15
+Venues to Train,Scenario 2,3,2,2,12
+Venues to Train,Scenario 2,2,2,3,10
+Venues to Train,Scenario 3,2,3,3,12
+Venues to Train,Scenario 3,1,1,4,5
+Venues to Train,Scenario 3,2,4,3,14
+Venues to Train,Scenario 3,1,2,4,6
+Venues to Train,Scenario 3,2,4,4,16
+Venues to Train,Scenario 3,3,2,2,12
+Venues to Train,Scenario 3,3,3,4,21
+Venues to Train,Scenario 3,1,1,4,5
+Venues to Train,Scenario 3,3,2,4,18
+Venues to Train,Scenario 3,1,2,2,4
+Venues to Train,Scenario 3,3,4,2,18
+Venues to Train,Scenario 3,2,2,4,12
+Venues to Train,Scenario 3,3,3,4,21
+Venues to Train,Scenario 3,2,2,4,12
+Venues to Train,Scenario 3,1,1,4,5
+Venues to Train,Scenario 3,3,4,4,24
+Venues to Train,Scenario 3,1,1,1,2
+Venues to Train,Scenario 3,3,4,4,24
+Venues to Train,Scenario 3,2,2,3,10
+Venues to Train,Scenario 3,2,1,4,10
+Venues to Train,Scenario 3,2,3,3,12
+Venues to Train,Scenario 3,1,2,2,4
+Venues to Train,Scenario 3,2,2,2,8
+Venues to Train,Scenario 3,2,3,4,14
+Venues to Train,Scenario 3,3,3,4,21
+Policy,Scenario 1,2,3,4,14
+Policy,Scenario 1,1,4,4,8
+Policy,Scenario 1,2,4,4,16
+Policy,Scenario 1,3,4,4,24
+Policy,Scenario 1,2,3,3,12
+Policy,Scenario 1,2,3,2,10
+Policy,Scenario 1,3,4,4,24
+Policy,Scenario 1,2,2,2,8
+Policy,Scenario 1,3,4,4,24
+Policy,Scenario 1,3,3,3,18
+Policy,Scenario 1,3,4,4,24
+Policy,Scenario 1,2,4,4,16
+Policy,Scenario 1,3,4,4,24
+Policy,Scenario 1,1,3,3,6
+Policy,Scenario 1,2,3,4,14
+Policy,Scenario 1,3,4,4,24
+Policy,Scenario 1,3,4,4,24
+Policy,Scenario 1,2,2,4,12
+Policy,Scenario 1,2,3,3,12
+Policy,Scenario 1,3,4,4,24
+Policy,Scenario 1,0,4,4,0
+Policy,Scenario 2,3,4,4,24
+Policy,Scenario 2,3,3,2,15
+Policy,Scenario 2,2,4,3,14
+Policy,Scenario 2,2,4,3,14
+Policy,Scenario 2,3,3,4,21
+Policy,Scenario 2,3,3,4,21
+Policy,Scenario 2,-1,2,4,-6
+Policy,Scenario 2,2,3,4,14
+Policy,Scenario 2,3,4,4,24
+Policy,Scenario 2,3,3,4,21
+Policy,Scenario 2,2,4,4,16
+Policy,Scenario 2,1,1,0,1
+Policy,Scenario 2,3,4,4,24
+Policy,Scenario 2,3,4,4,24
+Policy,Scenario 2,2,3,4,14
+Policy,Scenario 2,1,1,4,5
+Policy,Scenario 2,2,4,4,16
+Policy,Scenario 2,3,4,4,24
+Policy,Scenario 2,2,4,4,16
+Policy,Scenario 2,3,3,4,21
+Policy,Scenario 2,3,4,4,24
+Policy,Scenario 2,2,3,4,14
+Policy,Scenario 2,2,4,4,16
+Policy,Scenario 2,2,2,2,8
+Policy,Scenario 2,1,2,4,6
+Policy,Scenario 2,2,3,4,14
+Policy,Scenario 2,2,2,2,8
+Policy,Scenario 2,2,2,2,8
+Policy,Scenario 2,1,2,3,5
+Policy,Scenario 3,2,4,4,16
+Policy,Scenario 3,1,1,4,5
+Policy,Scenario 3,1,4,4,8
+Policy,Scenario 3,2,3,4,14
+Policy,Scenario 3,2,4,4,16
+Policy,Scenario 3,1,1,4,5
+Policy,Scenario 3,3,3,4,21
+Policy,Scenario 3,2,3,4,14
+Policy,Scenario 3,2,2,4,12
+Policy,Scenario 3,2,2,3,10
+Policy,Scenario 3,3,4,4,24
+Policy,Scenario 3,3,3,4,21
+Policy,Scenario 3,2,4,4,16
+Policy,Scenario 3,2,3,4,14
+Policy,Scenario 3,3,4,4,24
+Policy,Scenario 3,3,4,4,24
+Policy,Scenario 3,1,2,3,5
+Policy,Scenario 3,3,4,4,24
+Policy,Scenario 3,2,2,3,10
+Policy,Scenario 3,3,3,4,21
+Policy,Scenario 3,1,2,4,6
+Policy,Scenario 3,3,4,2,18
+Policy,Scenario 3,3,2,2,12
+Policy,Scenario 3,2,4,4,16
+Policy,Scenario 3,2,2,4,12
+RAA,Scenario 1,1,2,1,3
+RAA,Scenario 1,2,3,1,8
+RAA,Scenario 1,2,3,3,12
+RAA,Scenario 1,2,4,4,16
+RAA,Scenario 1,1,3,4,7
+RAA,Scenario 1,1,3,4,7
+RAA,Scenario 1,1,3,4,7
+RAA,Scenario 1,3,2,2,12
+RAA,Scenario 1,3,4,4,24
+RAA,Scenario 1,1,4,4,8
+RAA,Scenario 1,2,2,2,8
+RAA,Scenario 1,1,2,2,4
+RAA,Scenario 1,1,1,1,2
+RAA,Scenario 1,1,2,3,5
+RAA,Scenario 1,3,2,2,12
+RAA,Scenario 1,2,2,2,8
+RAA,Scenario 1,2,2,1,6
+RAA,Scenario 1,1,3,2,5
+RAA,Scenario 1,1,2,2,4
+RAA,Scenario 1,2,3,4,14
+RAA,Scenario 1,1,2,3,5
+RAA,Scenario 1,1,1,2,3
+RAA,Scenario 1,3,3,2,15
+RAA,Scenario 1,2,2,4,12
+RAA,Scenario 1,3,3,4,21
+RAA,Scenario 1,3,3,2,15
+RAA,Scenario 1,2,3,2,10
+RAA,Scenario 2,2,3,4,14
+RAA,Scenario 2,1,2,4,6
+RAA,Scenario 2,2,1,3,8
+RAA,Scenario 2,3,2,4,18
+RAA,Scenario 2,2,3,2,10
+RAA,Scenario 2,1,3,4,7
+RAA,Scenario 2,2,3,2,10
+RAA,Scenario 2,3,2,2,12
+RAA,Scenario 2,1,2,4,6
+RAA,Scenario 2,1,2,4,6
+RAA,Scenario 2,1,2,4,6
+RAA,Scenario 2,3,3,4,21
+RAA,Scenario 2,2,3,2,10
+RAA,Scenario 2,2,2,4,12
+RAA,Scenario 2,1,2,2,4
+RAA,Scenario 2,2,4,2,12
+RAA,Scenario 2,1,3,4,7
+RAA,Scenario 2,1,2,2,4
+RAA,Scenario 2,1,2,4,6
+RAA,Scenario 2,0,3,4,0
+RAA,Scenario 3,2,3,4,14
+RAA,Scenario 3,2,3,4,14
+RAA,Scenario 3,2,3,4,14
+RAA,Scenario 3,1,3,4,7
+RAA,Scenario 3,2,3,4,14
+RAA,Scenario 3,2,3,4,14
+RAA,Scenario 3,2,2,4,12
+RAA,Scenario 3,3,2,4,18
+RAA,Scenario 3,2,1,3,8
+RAA,Scenario 3,1,3,3,6
+RAA,Scenario 3,2,2,4,12
+RAA,Scenario 3,1,2,2,4
+RAA,Scenario 3,3,3,4,21
+RAA,Scenario 3,2,3,4,14
+RAA,Scenario 3,2,2,4,12
+RAA,Scenario 3,1,1,4,5
+RAA,Scenario 3,1,3,4,7
+RAA,Scenario 3,2,2,3,10
+RAA,Scenario 3,1,2,1,3
+RAA,Scenario 3,1,2,4,6
+RAA,Scenario 3,1,3,4,7
+RAA,Scenario 3,2,2,3,10
+RAA,Scenario 3,2,2,4,12
+Robotics,Scenario 1,3,4,4,24
+Robotics,Scenario 1,2,4,4,16
+Robotics,Scenario 1,3,1,4,15
+Robotics,Scenario 1,3,4,2,18
+Robotics,Scenario 1,3,4,4,24
+Robotics,Scenario 1,3,3,2,15
+Robotics,Scenario 1,3,3,4,21
+Robotics,Scenario 1,3,3,4,21
+Robotics,Scenario 1,3,3,4,21
+Robotics,Scenario 1,2,3,4,14
+Robotics,Scenario 1,3,4,2,18
+Robotics,Scenario 1,3,4,4,24
+Robotics,Scenario 1,3,2,2,12
+Robotics,Scenario 1,3,2,2,12
+Robotics,Scenario 1,3,2,2,12
+Robotics,Scenario 1,3,4,4,24
+Robotics,Scenario 1,2,2,1,6
+Robotics,Scenario 1,3,3,3,18
+Robotics,Scenario 1,3,3,3,18
+Robotics,Scenario 1,0,2,3,0
+Robotics,Scenario 1,0,3,3,0
+Robotics,Scenario 2,1,1,4,5
+Robotics,Scenario 2,3,3,4,21
+Robotics,Scenario 2,3,3,4,21
+Robotics,Scenario 2,2,3,3,12
+Robotics,Scenario 2,1,4,2,6
+Robotics,Scenario 2,2,1,1,4
+Robotics,Scenario 2,3,4,4,24
+Robotics,Scenario 2,2,1,2,6
+Robotics,Scenario 2,3,3,4,21
+Robotics,Scenario 2,2,2,3,10
+Robotics,Scenario 2,2,2,3,10
+Robotics,Scenario 2,2,2,3,10
+Robotics,Scenario 2,2,4,4,16
+Robotics,Scenario 2,3,3,4,21
+Robotics,Scenario 2,3,2,4,18
+Robotics,Scenario 2,2,2,4,12
+Robotics,Scenario 2,3,2,3,15
+Robotics,Scenario 2,3,4,4,24
+Robotics,Scenario 2,3,4,2,18
+Robotics,Scenario 2,2,3,4,14
+Robotics,Scenario 2,2,2,3,10
+Robotics,Scenario 2,3,3,4,21
+Robotics,Scenario 2,2,2,3,10
+Robotics,Scenario 2,3,3,4,21
+Robotics,Scenario 2,1,4,4,8
+Robotics,Scenario 2,2,3,3,12
+Robotics,Scenario 3,3,4,4,24
+Robotics,Scenario 3,2,1,1,4
+Robotics,Scenario 3,3,4,4,24
+Robotics,Scenario 3,3,3,4,21
+Robotics,Scenario 3,3,3,4,21
+Robotics,Scenario 3,2,3,4,14
+Robotics,Scenario 3,3,2,2,12
+Robotics,Scenario 3,2,4,3,14
+Robotics,Scenario 3,2,2,4,12
+Robotics,Scenario 3,3,3,4,21
+Robotics,Scenario 3,3,1,1,6
+Robotics,Scenario 3,2,2,2,8
+Robotics,Scenario 3,3,2,3,15
+Robotics,Scenario 3,3,2,4,18
+Robotics,Scenario 3,2,2,3,10
+Robotics,Scenario 3,3,3,4,21
+Robotics,Scenario 3,3,2,4,18
+Robotics,Scenario 3,3,3,2,15
+Robotics,Scenario 3,3,3,4,21
+Robotics,Scenario 3,3,3,4,21
+Robotics,Scenario 3,2,2,4,12
+Robotics,Scenario 3,3,1,2,9
+Robotics,Scenario 3,2,2,4,12
+COMS w/ Partner ,Scenario 1,2,1,4,10
+COMS w/ Partner ,Scenario 1,2,3,3,12
+COMS w/ Partner ,Scenario 1,2,2,3,10
+COMS w/ Partner ,Scenario 1,1,3,2,5
+COMS w/ Partner ,Scenario 1,2,2,2,8
+COMS w/ Partner ,Scenario 1,2,2,2,8
+COMS w/ Partner ,Scenario 1,1,3,3,6
+COMS w/ Partner ,Scenario 1,2,2,2,8
+COMS w/ Partner ,Scenario 1,2,3,3,12
+COMS w/ Partner ,Scenario 1,3,4,4,24
+COMS w/ Partner ,Scenario 1,2,3,3,12
+COMS w/ Partner ,Scenario 1,3,4,4,24
+COMS w/ Partner ,Scenario 1,2,3,3,12
+COMS w/ Partner ,Scenario 1,2,3,2,10
+COMS w/ Partner ,Scenario 1,2,4,4,16
+COMS w/ Partner ,Scenario 1,3,4,2,18
+COMS w/ Partner ,Scenario 1,2,4,4,16
+COMS w/ Partner ,Scenario 1,1,4,4,8
+COMS w/ Partner ,Scenario 1,2,2,3,10
+COMS w/ Partner ,Scenario 1,2,2,3,10
+COMS w/ Partner ,Scenario 1,2,4,2,12
+COMS w/ Partner ,Scenario 2,3,4,4,24
+COMS w/ Partner ,Scenario 2,2,3,4,14
+COMS w/ Partner ,Scenario 2,2,4,4,16
+COMS w/ Partner ,Scenario 2,2,4,4,16
+COMS w/ Partner ,Scenario 2,2,3,4,14
+COMS w/ Partner ,Scenario 2,3,4,4,24
+COMS w/ Partner ,Scenario 2,3,3,2,15
+COMS w/ Partner ,Scenario 2,2,3,3,12
+COMS w/ Partner ,Scenario 2,2,2,4,12
+COMS w/ Partner ,Scenario 2,1,3,3,6
+COMS w/ Partner ,Scenario 2,3,4,4,24
+COMS w/ Partner ,Scenario 2,2,2,4,12
+COMS w/ Partner ,Scenario 2,3,4,4,24
+COMS w/ Partner ,Scenario 2,2,3,3,12
+COMS w/ Partner ,Scenario 2,3,4,4,24
+COMS w/ Partner ,Scenario 2,2,3,2,10
+COMS w/ Partner ,Scenario 2,2,4,4,16
+COMS w/ Partner ,Scenario 2,2,3,4,14
+COMS w/ Partner ,Scenario 2,1,4,4,8
+COMS w/ Partner ,Scenario 2,3,3,4,21
+COMS w/ Partner ,Scenario 2,2,2,4,12
+COMS w/ Partner ,Scenario 2,2,2,4,12
+COMS w/ Partner ,Scenario 2,2,4,4,16
+COMS w/ Partner ,Scenario 2,2,2,2,8
+COMS w/ Partner ,Scenario 2,1,2,4,6
+COMS w/ Partner ,Scenario 2,2,2,3,10
+COMS w/ Partner ,Scenario 2,3,4,2,18
+COMS w/ Partner ,Scenario 2,3,2,2,12
+COMS w/ Partner ,Scenario 2,3,3,3,18
+COMS w/ Partner ,Scenario 3,2,3,4,14
+COMS w/ Partner ,Scenario 3,1,2,4,6
+COMS w/ Partner ,Scenario 3,1,3,3,6
+COMS w/ Partner ,Scenario 3,3,4,4,24
+COMS w/ Partner ,Scenario 3,2,2,4,12
+COMS w/ Partner ,Scenario 3,3,2,4,18
+COMS w/ Partner ,Scenario 3,2,2,2,8
+COMS w/ Partner ,Scenario 3,2,2,4,12
+COMS w/ Partner ,Scenario 3,2,2,4,12
+COMS w/ Partner ,Scenario 3,2,2,2,8
+COMS w/ Partner ,Scenario 3,2,2,4,12
+COMS w/ Partner ,Scenario 3,2,2,4,12
+COMS w/ Partner ,Scenario 3,2,3,4,14
+COMS w/ Partner ,Scenario 3,2,3,4,14
+COMS w/ Partner ,Scenario 3,2,3,4,14
+COMS w/ Partner ,Scenario 3,3,4,4,24
+COMS w/ Partner ,Scenario 3,1,2,2,4
+COMS w/ Partner ,Scenario 3,3,4,4,24
+COMS w/ Partner ,Scenario 3,2,3,3,12
+COMS w/ Partner ,Scenario 3,3,2,4,18
+COMS w/ Partner ,Scenario 3,3,3,2,15
+COMS w/ Partner ,Scenario 3,2,4,2,12
+COMS w/ Partner ,Scenario 3,3,2,2,12
+COMS w/ Partner ,Scenario 3,3,4,4,24
+COMS w/ Partner ,Scenario 3,3,2,4,18
+Strategic Sabatoge,Scenario 1,2,2,1,6
+Strategic Sabatoge,Scenario 1,2,4,2,12
+Strategic Sabatoge,Scenario 1,2,4,4,16
+Strategic Sabatoge,Scenario 1,2,3,2,10
+Strategic Sabatoge,Scenario 1,1,2,2,4
+Strategic Sabatoge,Scenario 1,1,1,2,3
+Strategic Sabatoge,Scenario 1,1,2,1,3
+Strategic Sabatoge,Scenario 1,2,2,1,6
+Strategic Sabatoge,Scenario 1,1,1,1,2
+Strategic Sabatoge,Scenario 1,3,2,2,12
+Strategic Sabatoge,Scenario 1,2,3,3,12
+Strategic Sabatoge,Scenario 1,3,4,1,15
+Strategic Sabatoge,Scenario 1,3,4,1,15
+Strategic Sabatoge,Scenario 1,2,2,1,6
+Strategic Sabatoge,Scenario 1,2,1,1,4
+Strategic Sabatoge,Scenario 1,2,4,1,10
+Strategic Sabatoge,Scenario 1,2,2,1,6
+Strategic Sabatoge,Scenario 1,2,2,3,10
+Strategic Sabatoge,Scenario 1,2,2,3,10
+Strategic Sabatoge,Scenario 1,2,3,2,10
+Strategic Sabatoge,Scenario 1,2,4,2,12
+Strategic Sabatoge,Scenario 1,2,4,2,12
+Strategic Sabatoge,Scenario 1,2,3,2,10
+Strategic Sabatoge,Scenario 1,0,2,1,0
+Strategic Sabatoge,Scenario 3,2,3,4,14
+Strategic Sabatoge,Scenario 3,3,2,4,18
+Strategic Sabatoge,Scenario 3,1,3,4,7
+Strategic Sabatoge,Scenario 3,-1,2,3,-5
+Strategic Sabatoge,Scenario 3,2,2,4,12
+Strategic Sabatoge,Scenario 3,2,4,4,16
+Strategic Sabatoge,Scenario 3,3,4,4,24
+Strategic Sabatoge,Scenario 3,2,4,4,16
+Strategic Sabatoge,Scenario 3,3,3,2,15
+Strategic Sabatoge,Scenario 3,3,3,2,15
+Strategic Sabatoge,Scenario 3,3,3,4,21
+Strategic Sabatoge,Scenario 3,3,4,4,24
+Strategic Sabatoge,Scenario 3,2,3,4,14
+Strategic Sabatoge,Scenario 3,1,2,3,5
+Strategic Sabatoge,Scenario 3,3,4,1,15
+Strategic Sabatoge,Scenario 3,2,4,2,12
+Strategic Sabatoge,Scenario 3,3,3,4,21
+Strategic Sabatoge,Scenario 3,2,2,4,12
+Strategic Sabatoge,Scenario 3,2,4,4,16
+Strategic Sabatoge,Scenario 3,3,2,4,18
+Strategic Sabatoge,Scenario 3,2,2,2,8
+Strategic Sabatoge,Scenario 3,2,2,3,10
+Strategic Sabatoge,Scenario 3,1,4,2,6
+Strategic Sabatoge,Scenario 3,3,2,2,12
+SUS/MED in Deep,Scenario 1,1,4,4,8
+SUS/MED in Deep,Scenario 1,2,3,2,10
+SUS/MED in Deep,Scenario 1,1,3,3,6
+SUS/MED in Deep,Scenario 1,2,2,3,10
+SUS/MED in Deep,Scenario 1,2,2,2,8
+SUS/MED in Deep,Scenario 1,2,4,4,16
+SUS/MED in Deep,Scenario 1,2,3,4,14
+SUS/MED in Deep,Scenario 1,2,2,3,10
+SUS/MED in Deep,Scenario 1,2,4,4,16
+SUS/MED in Deep,Scenario 1,2,4,2,12
+SUS/MED in Deep,Scenario 1,1,4,4,8
+SUS/MED in Deep,Scenario 1,2,2,2,8
+SUS/MED in Deep,Scenario 1,2,2,4,12
+SUS/MED in Deep,Scenario 1,2,2,4,12
+SUS/MED in Deep,Scenario 1,2,2,4,12
+SUS/MED in Deep,Scenario 1,2,4,3,14
+SUS/MED in Deep,Scenario 1,1,2,2,4
+SUS/MED in Deep,Scenario 1,3,4,4,24
+SUS/MED in Deep,Scenario 1,0,4,2,0
+SUS/MED in Deep,Scenario 2,1,3,2,5
+SUS/MED in Deep,Scenario 2,3,3,4,21
+SUS/MED in Deep,Scenario 2,1,3,4,7
+SUS/MED in Deep,Scenario 2,3,3,2,15
+SUS/MED in Deep,Scenario 2,1,4,3,7
+SUS/MED in Deep,Scenario 2,1,4,4,8
+SUS/MED in Deep,Scenario 2,2,4,4,16
+SUS/MED in Deep,Scenario 2,3,3,2,15
+SUS/MED in Deep,Scenario 2,3,3,1,12
+SUS/MED in Deep,Scenario 2,3,3,3,18
+SUS/MED in Deep,Scenario 2,3,3,3,18
+SUS/MED in Deep,Scenario 2,3,3,3,18
+SUS/MED in Deep,Scenario 2,3,4,2,18
+SUS/MED in Deep,Scenario 2,2,2,4,12
+SUS/MED in Deep,Scenario 2,2,2,4,12
+SUS/MED in Deep,Scenario 2,2,4,4,16
+SUS/MED in Deep,Scenario 2,2,3,3,12
+SUS/MED in Deep,Scenario 2,2,2,2,8
+SUS/MED in Deep,Scenario 2,3,3,2,15
+SUS/MED in Deep,Scenario 2,2,3,3,12
+SUS/MED in Deep,Scenario 2,2,2,4,12
+SUS/MED in Deep,Scenario 2,2,2,4,12
+SUS/MED in Deep,Scenario 2,3,3,2,15
+SUS/MED in Deep,Scenario 2,3,4,3,21
+SUS/MED in Deep,Scenario 2,2,1,3,8
+SUS/MED in Deep,Scenario 2,2,3,4,14
+SUS/MED in Deep,Scenario 2,1,4,4,8
+SUS/MED in Deep,Scenario 3,3,3,4,21
+SUS/MED in Deep,Scenario 3,2,1,1,4
+SUS/MED in Deep,Scenario 3,1,2,3,5
+SUS/MED in Deep,Scenario 3,2,3,4,14
+SUS/MED in Deep,Scenario 3,2,4,4,16
+SUS/MED in Deep,Scenario 3,2,4,4,16
+SUS/MED in Deep,Scenario 3,3,4,3,21
+SUS/MED in Deep,Scenario 3,3,4,3,21
+SUS/MED in Deep,Scenario 3,1,4,4,8
+SUS/MED in Deep,Scenario 3,3,3,4,21
+SUS/MED in Deep,Scenario 3,3,3,4,21
+SUS/MED in Deep,Scenario 3,1,4,4,8
+SUS/MED in Deep,Scenario 3,3,4,4,24
+SUS/MED in Deep,Scenario 3,3,4,2,18
+SUS/MED in Deep,Scenario 3,3,3,4,21
+SUS/MED in Deep,Scenario 3,3,4,3,21
+SUS/MED in Deep,Scenario 3,2,2,4,12
+SUS/MED in Deep,Scenario 3,1,4,4,8
+SUS/MED in Deep,Scenario 3,2,2,3,10
+SUS/MED in Deep,Scenario 3,3,3,4,21
+SUS/MED in Deep,Scenario 3,2,2,4,12
+SUS/MED in Deep,Scenario 3,1,3,2,5
+SUS/MED in Deep,Scenario 3,1,2,2,4
+SUS/MED in Deep,Scenario 3,2,2,4,12
+TAC-D/DISO,Scenario 1,3,1,1,6
+TAC-D/DISO,Scenario 1,3,3,4,21
+TAC-D/DISO,Scenario 1,2,3,3,12
+TAC-D/DISO,Scenario 1,2,3,2,10
+TAC-D/DISO,Scenario 1,2,1,1,4
+TAC-D/DISO,Scenario 1,2,1,1,4
+TAC-D/DISO,Scenario 1,2,1,1,4
+TAC-D/DISO,Scenario 1,2,2,1,6
+TAC-D/DISO,Scenario 1,2,3,2,10
+TAC-D/DISO,Scenario 1,2,2,2,8
+TAC-D/DISO,Scenario 1,2,2,1,6
+TAC-D/DISO,Scenario 1,2,2,1,6
+TAC-D/DISO,Scenario 1,3,3,2,15
+TAC-D/DISO,Scenario 1,2,1,2,6
+TAC-D/DISO,Scenario 1,2,2,3,10
+TAC-D/DISO,Scenario 1,2,3,4,14
+TAC-D/DISO,Scenario 1,3,4,4,24
+TAC-D/DISO,Scenario 1,1,4,2,6
+TAC-D/DISO,Scenario 1,3,2,2,12
+TAC-D/DISO,Scenario 1,3,3,3,18
+TAC-D/DISO,Scenario 1,3,2,2,12
+TAC-D/DISO,Scenario 1,2,1,2,6
+TAC-D/DISO,Scenario 1,3,3,2,15
+TAC-D/DISO,Scenario 1,3,3,4,21
+TAC-D/DISO,Scenario 1,3,3,4,21
+TAC-D/DISO,Scenario 1,2,2,2,8
+TAC-D/DISO,Scenario 1,2,4,2,12
+TAC-D/DISO,Scenario 1,0,2,1,0
+TAC-D/DISO,Scenario 2,3,4,4,24
+TAC-D/DISO,Scenario 2,2,2,2,8
+TAC-D/DISO,Scenario 2,2,2,2,8
+TAC-D/DISO,Scenario 2,3,2,2,12
+TAC-D/DISO,Scenario 2,2,2,2,8
+TAC-D/DISO,Scenario 2,3,3,4,21
+TAC-D/DISO,Scenario 2,3,3,4,21
+TAC-D/DISO,Scenario 2,2,2,2,8
+TAC-D/DISO,Scenario 2,3,4,4,24
+TAC-D/DISO,Scenario 2,3,3,3,18
+TAC-D/DISO,Scenario 2,1,3,4,7
+TAC-D/DISO,Scenario 2,3,3,4,21
+TAC-D/DISO,Scenario 2,2,3,4,14
+TAC-D/DISO,Scenario 2,2,2,4,12
+TAC-D/DISO,Scenario 2,2,4,4,16
+TAC-D/DISO,Scenario 2,3,2,4,18
+TAC-D/DISO,Scenario 2,3,4,4,24
+TAC-D/DISO,Scenario 2,2,4,4,16
+TAC-D/DISO,Scenario 2,2,3,4,14
+TAC-D/DISO,Scenario 2,3,4,4,24
+TAC-D/DISO,Scenario 2,2,4,2,12
+TAC-D/DISO,Scenario 2,2,2,4,12
+TAC-D/DISO,Scenario 3,2,3,4,14
+TAC-D/DISO,Scenario 3,2,3,4,14
+TAC-D/DISO,Scenario 3,2,2,3,10
+TAC-D/DISO,Scenario 3,3,4,4,24
+TAC-D/DISO,Scenario 3,2,3,4,14
+TAC-D/DISO,Scenario 3,2,4,4,16
+TAC-D/DISO,Scenario 3,2,4,4,16
+TAC-D/DISO,Scenario 3,2,2,4,12
+TAC-D/DISO,Scenario 3,2,3,2,10
+TAC-D/DISO,Scenario 3,2,2,1,6
+TAC-D/DISO,Scenario 3,2,4,4,16
+TAC-D/DISO,Scenario 3,2,3,3,12
+TAC-D/DISO,Scenario 3,2,4,3,14
+TAC-D/DISO,Scenario 3,2,2,4,12
+TAC-D/DISO,Scenario 3,2,3,0,6
+TAC-D/DISO,Scenario 3,2,1,1,4
+TAC-D/DISO,Scenario 3,2,4,4,16
+TAC-D/DISO,Scenario 3,1,1,1,2
+TAC-D/DISO,Scenario 3,1,1,1,2
+TAC-D/DISO,Scenario 3,3,3,3,18
+TAC-D/DISO,Scenario 3,2,2,4,12
+TAC-D/DISO,Scenario 3,2,3,4,14
+TAC-D/DISO,Scenario 3,2,2,4,12
+Training,Scenario 1,2,3,4,14
+Training,Scenario 1,3,3,4,21
+Training,Scenario 1,2,3,4,14
+Training,Scenario 1,2,3,3,12
+Training,Scenario 1,1,2,4,6
+Training,Scenario 1,2,2,4,12
+Training,Scenario 1,2,3,4,14
+Training,Scenario 1,2,2,3,10
+Training,Scenario 1,2,3,2,10
+Training,Scenario 1,2,3,3,12
+Training,Scenario 1,2,4,4,16
+Training,Scenario 1,2,4,4,16
+Training,Scenario 1,2,4,4,16
+Training,Scenario 1,2,2,4,12
+Training,Scenario 1,3,2,4,18
+Training,Scenario 1,2,3,4,14
+Training,Scenario 1,3,4,4,24
+Training,Scenario 1,1,4,4,8
+Training,Scenario 1,1,2,4,6
+Training,Scenario 1,2,4,4,16
+Training,Scenario 1,1,4,4,8
+Training,Scenario 2,2,4,4,16
+Training,Scenario 2,2,4,2,12
+Training,Scenario 2,3,2,3,15
+Training,Scenario 2,3,2,3,15
+Training,Scenario 2,2,3,4,14
+Training,Scenario 2,1,3,3,6
+Training,Scenario 2,1,3,4,7
+Training,Scenario 2,2,3,4,14
+Training,Scenario 2,1,1,4,5
+Training,Scenario 2,2,3,4,14
+Training,Scenario 2,2,4,4,16
+Training,Scenario 2,2,4,4,16
+Training,Scenario 2,3,3,4,21
+Training,Scenario 2,2,3,4,14
+Training,Scenario 2,3,3,4,21
+Training,Scenario 2,2,2,4,12
+Training,Scenario 2,3,4,4,24
+Training,Scenario 2,2,3,2,10
+Training,Scenario 2,1,4,4,8
+Training,Scenario 2,1,3,4,7
+Training,Scenario 2,3,4,4,24
+Training,Scenario 2,2,3,4,14
+Training,Scenario 2,2,4,4,16
+Training,Scenario 2,2,1,1,4
+Training,Scenario 2,2,3,4,14
+Training,Scenario 2,3,4,4,24
+Training,Scenario 2,3,3,2,15
+Training,Scenario 2,2,2,2,8
+Training,Scenario 2,3,3,2,15
+Training,Scenario 3,2,3,3,12
+Training,Scenario 3,2,3,4,14
+Training,Scenario 3,1,4,3,7
+Training,Scenario 3,2,4,4,16
+Training,Scenario 3,3,4,4,24
+Training,Scenario 3,3,4,4,24
+Training,Scenario 3,2,2,3,10
+Training,Scenario 3,1,1,4,5
+Training,Scenario 3,2,2,4,12
+Training,Scenario 3,1,2,2,4
+Training,Scenario 3,3,4,4,24
+Training,Scenario 3,2,2,4,12
+Training,Scenario 3,3,4,4,24
+Training,Scenario 3,2,2,4,12
+Training,Scenario 3,3,4,4,24
+Training,Scenario 3,3,4,4,24
+Training,Scenario 3,2,1,1,4
+Training,Scenario 3,3,4,4,24
+Training,Scenario 3,3,4,4,24
+Training,Scenario 3,2,2,4,12
+Training,Scenario 3,3,3,4,21
+Training,Scenario 3,2,4,2,12
+Training,Scenario 3,2,2,2,8
+Training,Scenario 3,3,4,4,24
+Training,Scenario 3,3,4,4,24
+TRIAD,Scenario 1,3,4,4,24
+TRIAD,Scenario 1,3,4,4,24
+TRIAD,Scenario 1,3,3,4,21
+TRIAD,Scenario 1,2,2,2,8
+TRIAD,Scenario 1,3,4,4,24
+TRIAD,Scenario 1,3,3,4,21
+TRIAD,Scenario 1,3,3,4,21
+TRIAD,Scenario 1,2,3,4,14
+TRIAD,Scenario 1,2,3,4,14
+TRIAD,Scenario 1,3,3,4,21
+TRIAD,Scenario 1,3,3,4,21
+TRIAD,Scenario 1,3,4,4,24
+TRIAD,Scenario 1,3,4,1,15
+TRIAD,Scenario 1,3,4,4,24
+TRIAD,Scenario 1,3,4,4,24
+TRIAD,Scenario 1,3,4,4,24
+TRIAD,Scenario 1,3,3,4,21
+TRIAD,Scenario 1,3,4,4,24
+TRIAD,Scenario 1,0,3,3,0
+TRIAD,Scenario 2,3,4,4,24
+TRIAD,Scenario 2,3,3,4,21
+TRIAD,Scenario 2,2,2,2,8
+TRIAD,Scenario 2,1,3,4,7
+TRIAD,Scenario 2,2,3,4,14
+TRIAD,Scenario 2,2,3,4,14
+TRIAD,Scenario 2,2,3,4,14
+TRIAD,Scenario 2,2,3,4,14
+TRIAD,Scenario 2,2,3,4,14
+TRIAD,Scenario 2,2,4,2,12
+TRIAD,Scenario 2,2,2,4,12
+TRIAD,Scenario 2,3,3,4,21
+TRIAD,Scenario 2,2,3,4,14
+TRIAD,Scenario 2,3,3,4,21
+TRIAD,Scenario 2,3,4,2,18
+TRIAD,Scenario 2,2,4,2,12
+TRIAD,Scenario 2,-1,0,1,-1
+TRIAD,Scenario 2,1,4,4,8
+TRIAD,Scenario 3,3,4,4,24
+TRIAD,Scenario 3,2,1,2,6
+TRIAD,Scenario 3,3,4,4,24
+TRIAD,Scenario 3,3,3,4,21
+TRIAD,Scenario 3,2,4,4,16
+TRIAD,Scenario 3,3,4,4,24
+TRIAD,Scenario 3,3,4,4,24
+TRIAD,Scenario 3,3,4,4,24
+TRIAD,Scenario 3,2,4,4,16
+TRIAD,Scenario 3,2,3,4,14
+TRIAD,Scenario 3,3,3,4,21
+TRIAD,Scenario 3,3,1,1,6
+TRIAD,Scenario 3,3,3,3,18
+TRIAD,Scenario 3,3,3,4,21
+TRIAD,Scenario 3,3,3,4,21
+TRIAD,Scenario 3,3,3,4,21
+TRIAD,Scenario 3,3,4,4,24
+TRIAD,Scenario 3,3,3,4,21
+TRIAD,Scenario 3,2,3,4,14
+TRIAD,Scenario 3,2,3,4,14
+TRIAD,Scenario 3,1,2,2,4
+TRIAD,Scenario 3,2,2,4,12
+TRIAD,Scenario 3,3,3,4,21
+TS/SAP/STO Access,Scenario 1,3,2,3,15
+TS/SAP/STO Access,Scenario 1,3,2,2,12
+TS/SAP/STO Access,Scenario 1,3,4,4,24
+TS/SAP/STO Access,Scenario 1,1,2,2,4
+TS/SAP/STO Access,Scenario 1,2,2,2,8
+TS/SAP/STO Access,Scenario 1,3,4,4,24
+TS/SAP/STO Access,Scenario 1,2,2,2,8
+TS/SAP/STO Access,Scenario 1,3,4,4,24
+TS/SAP/STO Access,Scenario 1,3,3,3,18
+TS/SAP/STO Access,Scenario 1,3,3,3,18
+TS/SAP/STO Access,Scenario 1,2,4,4,16
+TS/SAP/STO Access,Scenario 1,3,4,4,24
+TS/SAP/STO Access,Scenario 1,3,3,2,15
+TS/SAP/STO Access,Scenario 1,3,4,4,24
+TS/SAP/STO Access,Scenario 1,3,4,4,24
+TS/SAP/STO Access,Scenario 1,3,2,4,18
+TS/SAP/STO Access,Scenario 1,1,4,4,8
+TS/SAP/STO Access,Scenario 1,2,2,3,10
+TS/SAP/STO Access,Scenario 1,2,2,3,10
+TS/SAP/STO Access,Scenario 1,3,3,4,21
+TS/SAP/STO Access,Scenario 1,0,1,1,0
+TS/SAP/STO Access,Scenario 2,3,4,4,24
+TS/SAP/STO Access,Scenario 2,3,2,1,9
+TS/SAP/STO Access,Scenario 2,2,4,4,16
+TS/SAP/STO Access,Scenario 2,2,4,4,16
+TS/SAP/STO Access,Scenario 2,3,3,4,21
+TS/SAP/STO Access,Scenario 2,2,3,4,14
+TS/SAP/STO Access,Scenario 2,-1,2,4,-6
+TS/SAP/STO Access,Scenario 2,2,3,4,14
+TS/SAP/STO Access,Scenario 2,3,3,4,21
+TS/SAP/STO Access,Scenario 2,3,4,4,24
+TS/SAP/STO Access,Scenario 2,3,4,4,24
+TS/SAP/STO Access,Scenario 2,2,2,2,8
+TS/SAP/STO Access,Scenario 2,3,4,4,24
+TS/SAP/STO Access,Scenario 2,3,4,4,24
+TS/SAP/STO Access,Scenario 2,3,1,2,9
+TS/SAP/STO Access,Scenario 2,1,4,4,8
+TS/SAP/STO Access,Scenario 2,1,2,4,6
+TS/SAP/STO Access,Scenario 2,1,4,3,7
+TS/SAP/STO Access,Scenario 2,3,2,4,18
+TS/SAP/STO Access,Scenario 2,2,2,2,8
+TS/SAP/STO Access,Scenario 2,2,3,4,14
+TS/SAP/STO Access,Scenario 2,2,2,4,12
+TS/SAP/STO Access,Scenario 2,1,1,2,3
+TS/SAP/STO Access,Scenario 2,2,2,3,10
+TS/SAP/STO Access,Scenario 2,2,2,4,12
+TS/SAP/STO Access,Scenario 2,2,2,2,8
+TS/SAP/STO Access,Scenario 2,3,2,2,12
+TS/SAP/STO Access,Scenario 2,3,4,4,24
+TS/SAP/STO Access,Scenario 2,0,0,0,0
+TS/SAP/STO Access,Scenario 3,2,2,2,8
+TS/SAP/STO Access,Scenario 3,3,4,3,21
+TS/SAP/STO Access,Scenario 3,3,4,4,24
+TS/SAP/STO Access,Scenario 3,3,4,4,24
+TS/SAP/STO Access,Scenario 3,2,1,4,10
+TS/SAP/STO Access,Scenario 3,2,3,3,12
+TS/SAP/STO Access,Scenario 3,2,2,4,12
+TS/SAP/STO Access,Scenario 3,2,2,4,12
+TS/SAP/STO Access,Scenario 3,2,2,3,10
+TS/SAP/STO Access,Scenario 3,2,3,2,10
+TS/SAP/STO Access,Scenario 3,2,2,4,12
+TS/SAP/STO Access,Scenario 3,2,3,4,14
+TS/SAP/STO Access,Scenario 3,2,3,4,14
+TS/SAP/STO Access,Scenario 3,3,3,2,15
+TS/SAP/STO Access,Scenario 3,3,4,4,24
+TS/SAP/STO Access,Scenario 3,2,1,2,6
+TS/SAP/STO Access,Scenario 3,3,4,4,24
+TS/SAP/STO Access,Scenario 3,3,4,4,24
+TS/SAP/STO Access,Scenario 3,2,3,4,14
+TS/SAP/STO Access,Scenario 3,1,2,4,6
+TS/SAP/STO Access,Scenario 3,3,2,2,12
+TS/SAP/STO Access,Scenario 3,3,2,2,12
+TS/SAP/STO Access,Scenario 3,3,4,4,24
+TS/SAP/STO Access,Scenario 3,2,2,4,12
+TS/SAP/STO Access,Scenario 3,0,2,2,0
+UW,Scenario 1,2,4,4,16
+UW,Scenario 1,3,2,1,9
+UW,Scenario 1,1,3,2,5
+UW,Scenario 1,1,3,2,5
+UW,Scenario 1,1,3,2,5
+UW,Scenario 1,1,2,2,4
+UW,Scenario 1,2,4,4,16
+UW,Scenario 1,2,2,2,8
+UW,Scenario 1,2,2,3,10
+UW,Scenario 1,1,2,1,3
+UW,Scenario 1,2,4,1,10
+UW,Scenario 1,2,2,1,6
+UW,Scenario 1,2,2,2,8
+UW,Scenario 1,1,2,1,3
+UW,Scenario 1,1,3,2,5
+UW,Scenario 1,2,4,2,12
+UW,Scenario 1,1,3,4,7
+UW,Scenario 1,1,3,4,7
+UW,Scenario 1,2,3,2,10
+UW,Scenario 1,2,4,2,12
+UW,Scenario 1,2,3,2,10
+UW,Scenario 1,2,3,2,10
+UW,Scenario 2,2,3,4,14
+UW,Scenario 2,2,3,3,12
+UW,Scenario 2,2,2,2,8
+UW,Scenario 2,3,2,2,12
+UW,Scenario 2,2,3,4,14
+UW,Scenario 2,2,3,3,12
+UW,Scenario 2,2,3,3,12
+UW,Scenario 2,2,3,3,12
+UW,Scenario 2,1,3,2,5
+UW,Scenario 2,2,2,3,10
+UW,Scenario 2,2,3,4,14
+UW,Scenario 2,3,3,4,21
+UW,Scenario 2,2,4,4,16
+UW,Scenario 2,2,3,2,10
+UW,Scenario 2,2,3,2,10
+UW,Scenario 2,2,3,4,14
+UW,Scenario 2,2,2,4,12
+UW,Scenario 2,1,2,4,6
+UW,Scenario 2,1,4,2,6
+UW,Scenario 2,1,3,4,7
+UW,Scenario 2,2,2,2,8
+UW,Scenario 2,1,3,4,7
+UW,Scenario 2,1,2,1,3
+UW,Scenario 2,1,3,4,7
+UW,Scenario 3,2,2,4,12
+UW,Scenario 3,1,2,3,5
+UW,Scenario 3,2,2,4,12
+UW,Scenario 3,2,2,4,12
+UW,Scenario 3,3,2,4,18
+UW,Scenario 3,2,4,4,16
+UW,Scenario 3,2,4,4,16
+UW,Scenario 3,2,4,4,16
+UW,Scenario 3,1,2,2,4
+UW,Scenario 3,2,3,2,10
+UW,Scenario 3,2,2,2,8
+UW,Scenario 3,2,2,4,12
+UW,Scenario 3,2,4,4,16
+UW,Scenario 3,2,4,4,16
+UW,Scenario 3,3,4,4,24
+UW,Scenario 3,2,2,4,12
+UW,Scenario 3,3,3,4,21
+UW,Scenario 3,3,4,4,24
+UW,Scenario 3,2,2,4,12
+UW,Scenario 3,1,3,4,7
+UW,Scenario 3,1,4,2,6
+UW,Scenario 3,2,1,2,6
+UW,Scenario 3,2,1,4,10
