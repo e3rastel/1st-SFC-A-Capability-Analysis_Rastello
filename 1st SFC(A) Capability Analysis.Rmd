@@ -2,10 +2,10 @@
 title: "1st Special Forces Command (Airborne) Capability Analysis"
 subtitle: |
   | G5 Concepts, Plans, and Assessments
-  | `r format(Sys.time(), '%B %d %Y')`
+  | `r format(Sys.time(), '%B %d, %Y')`
 author:
   "[LTC Erik Rastello<br>
-   LTC Gabe Samudio](https://github.com/gsamudio7)"
+   LTC Gabe Samudio](https://github.com/gsamudio7/1st-SFC-A-Capability-Analysis)"
 output:
   html_document:
     code_folding: show
@@ -14,7 +14,7 @@ output:
       in_header: assets/fav.html
       after_body: assets/header.html
     css: assets/css/html_report.css
-    highlight: haddock
+    highlight: breezedark
     self_contained: yes
     toc: yes
     toc_float: yes
@@ -31,7 +31,7 @@ output:
 </style>
 
 <center>
-<img src="https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2205/7246048/1000w_q95.jpg" width="450">
+<img src="https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2205/7246048/1000w_q95.jpg" width="800">
 <br>
 
 <b>Figure 1: 7th SFG(A) Joint Combined Exchange Training in Ecuador 2022.</b><br>
@@ -159,9 +159,7 @@ averageSampleMeanPlot <- plot_ly(
   colorbar=list(title="<b>Average Score</b>")
 ) %>% 
   layout(
-    title=list(
-      text="<b>Capability Performance</b>\n",
-      pad=list(b = 500)),
+    title=list(text=""),
     xaxis = list(side="top",tickangle=0,title="",gridcolor="#333333"),
     yaxis = list(title="",gridcolor="#333333"),
     plot_bgcolor  = "#444444",
@@ -178,15 +176,18 @@ htmlwidgets::saveWidget(averageSampleMeanPlot,
 
 ```
 
-<br>
+<center>
+<h2>
+<b><a href="products/averageSampleMeanPlot.html" target="_blank">Figure 2: Average Capability Score Heatmap</a></b>
+</h2>
+</center>
 
 ```{r avg_plot, echo=FALSE}
 load("products/averageSampleMeanPlot.RData")
 averageSampleMeanPlot
 ```
-<center>
-<b><a href="products/averageSampleMeanPlot.html" target="_blank">Figure 2: Average Capability Score Heatmap</a></b>
-</center>
+
+<br>
 
 # High Risk Capabilities
 
@@ -246,9 +247,7 @@ highRiskPlot <- plot_ly(
                 tickvals=seq(0,1,0.2),ticks="",
                 ticktext=c("0%","20%","40%","60%","80%","100%"))
 ) %>% layout(
-  title=list(
-    text="<b>High Risk Capabilities</b>\n",
-    pad=list(b = 500)),
+  title=list(text=""),
   xaxis = list(side="top",tickangle=0,title="",gridcolor="#333333"),
   yaxis = list(title="",gridcolor="#333333"),
   plot_bgcolor  = "#444444",
@@ -262,16 +261,18 @@ htmlwidgets::saveWidget(highRiskPlot,
 save(highRiskPlot, file = "products/highRiskPlot.RData")
 ```
 
-<br>
+<center>
+<h2>
+<b><a href="products/highRiskPlot.html" target="_blank">Figure 3: High Risk Capability Heatmap</a></b>
+</h2>
+</center>
 
 ```{r highRiskPlot, echo=FALSE}
 load("products/highRiskPlot.RData")
 highRiskPlot
 ```
 
-<center>
-<b><a href="products/highRiskPlot.html" target="_blank">Figure 3: High Risk Capability Heatmap</a></b>
-</center>
+<br>
 
 # Non-Essential Capabilities
 
@@ -283,13 +284,16 @@ Similarly, we can present the proportion of scores that fall at or below zero, i
 - More stuff
 - one more thing
 
+<center>
+<h2>
+<b><a href="products/nonEssentialPlot.html" target="_blank">Figure 4: Non-Essential Capability Heatmap</a></b>
+</h2>
+</center>
+
 ```{r nonEssentialPlot, echo=FALSE}
 load("products/nonEssentialPlot.RData")
 nonEssentialPlot
 ```
-<center>
-<b><a href="products/nonEssentialPlot.html" target="_blank">Figure 4: Non-Essential Capability Heatmap</a></b>
-</center>
 
 # Way Forward 
 - Stuff and things

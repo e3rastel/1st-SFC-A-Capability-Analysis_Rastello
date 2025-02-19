@@ -26,10 +26,10 @@ highRisk[,"Low Interval" := Proportion - 1.96*(sqrt((Proportion*(1-Proportion))/
 highRisk[highRisk < 0] <- 0
 highRisk[,"High Interval" := Proportion + 1.96*(sqrt((Proportion*(1-Proportion))/sampleSize))]
 highRisk[,"Error Interval" := paste0("[",round(`Low Interval`,2),
-                                         " ,",
-                                         round(`High Interval`,2),
-                                         "]","\n",
-                                         "<b># of Votes: </b>",sampleSize)]
+                                     " ,",
+                                     round(`High Interval`,2),
+                                     "]","\n",
+                                     "<b># of Votes: </b>",sampleSize)]
 
 
 #### Order the capabilities by highest risk
@@ -60,9 +60,7 @@ highRiskPlot <- plot_ly(
                 tickvals=seq(0,1,0.2),ticks="",
                 ticktext=c("0%","20%","40%","60%","80%","100%"))
 ) %>% layout(
-  title=list(
-    text="<b>High Risk Capabilities</b>\n",
-    pad=list(b = 500)),
+  title=list(text=""),
   xaxis = list(side="top",tickangle=0,title="",gridcolor="#333333"),
   yaxis = list(title="",gridcolor="#333333"),
   plot_bgcolor  = "#444444",
@@ -90,7 +88,7 @@ nonEssential[,"Error Interval" := paste0("[",round(`Low Interval`,2),
                                          " ,",
                                          round(`High Interval`,2),
                                          "]","\n",
-  "<b># of Votes: </b>",sampleSize)]
+                                         "<b># of Votes: </b>",sampleSize)]
 
 
 #### Order the capabilities by highest risk
@@ -121,14 +119,12 @@ nonEssentialPlot <- plot_ly(
                 tickvals=seq(0,1,0.2),ticks="",
                 ticktext=c("0%","20%","40%","60%","80%","100%"))
 ) %>% layout(
-    title=list(
-      text="<b>Non-Essential Capabilities</b>\n",
-      pad=list(b = 500)),
-    xaxis = list(side="top",tickangle=0,title="",gridcolor="#333333"),
-    yaxis = list(title="",gridcolor="#333333"),
-    plot_bgcolor  = "#444444",
-    paper_bgcolor = "#444444",
-    font = list(color = '#FFFFFF'))
+  title=list(text=""),
+  xaxis = list(side="top",tickangle=0,title="",gridcolor="#333333"),
+  yaxis = list(title="",gridcolor="#333333"),
+  plot_bgcolor  = "#444444",
+  paper_bgcolor = "#444444",
+  font = list(color = '#FFFFFF'))
 
 #### Save
 # Save as html and as RData
@@ -148,7 +144,7 @@ save(nonEssentialPlot, file = "products/nonEssentialPlot.RData")
 # Get the sample mean
 
 sampleMean <- dt[Scenario=="Scenario 1" & Capability=="TRIAD (TTP/Means/Ways/Concepts)",Score] %>%
-
+  
   # Take a bootstrap sample
   sample(replace=TRUE) %>% 
   
@@ -209,8 +205,8 @@ getConfInterval(sampleMeanVector)
 
 # Average the bootstrap sample means, and take the 95% confidence interval
 averageDataTable <- sampleMeansDataTable[,.(averageSampleMean = round(mean(sampleMean),2),
-                                           `Error Interval` = getConfInterval(sampleMean)),
-                            by = .(Capability, Scenario)] %>% 
+                                            `Error Interval` = getConfInterval(sampleMean)),
+                                         by = .(Capability, Scenario)] %>% 
   merge.data.table(dt[,.(sampleSize=.N), by = .(Capability, Scenario)])
 
 averageDataTable[,"hoverText" := paste0(`Error Interval`,"\n",
@@ -244,15 +240,13 @@ averageSampleMeanPlot <- plot_ly(
   colorbar=list(title="<b>Average Score</b>")
 ) %>% 
   layout(
-    title=list(
-      text="<b>Capability Performance</b>\n",
-      pad=list(b = 500)),
+    title=list(text=""),
     xaxis = list(side="top",tickangle=0,title="",gridcolor="#333333"),
     yaxis = list(title="",gridcolor="#333333"),
     plot_bgcolor  = "#444444",
     paper_bgcolor = "#444444",
     font = list(color = '#FFFFFF')
-)
+  )
 
 # Save as html and as RData
 htmlwidgets::saveWidget(averageSampleMeanPlot,
